@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+html {
+    font-family: 'Roboto';
+    font-size: 1rem;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: black;
+}
+
+a.visited {
+    color: black;
+}
+
+.title {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
+.location {
+    font-weight: bold;
+}
+
+.dates {
+    font-weight: normal;
+}
+
+.organisers::before {
+    font-weight: bold;
+    content: "Organisers: "
+}
+
+.organisers {
+    margin-bottom: 0.5em;
+}
+
+.committee::before {
+    font-weight: bold;
+    content: "Scientific Committee: "
+}
+
+.committee {
+    margin-bottom: 0.5em;
+}
+
+.speakers::before {
+    font-weight: bold;
+    content: "Speakers: "
+}
+
+.speakers {
+    margin-bottom: 1em;
+}
+
+hr {
+    width: 95%;
+}

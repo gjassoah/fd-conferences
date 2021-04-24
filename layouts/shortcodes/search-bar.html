@@ -1,0 +1,6 @@
+<form id="search-bar" action="{{ .Get "url" }}" method="GET">
+    <div style="display: flex; align-items: center;">
+        <img src="img/duckduckgo.png"/><input placeholder="Search with {{ .Get "service-name" }}" type="search" name="q">
+    </div>
+</form>
+{{ .Inner | markdownify }}

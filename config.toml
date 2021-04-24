@@ -1,0 +1,13 @@
+baseURL = "https://www.fd-seminar.xyz/fd-conferences"
+languageCode = "en-us"
+title = "FD List"
+buildFuture = true
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  description = "FD List"
+  mainSections = ["events"]
+  toc = "hugo"
+  markup = "mmark"

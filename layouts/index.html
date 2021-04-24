@@ -1,0 +1,29 @@
+{{ define "header" }}
+{{ partial "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+{{ .Content }}
+{{ $pages := .Paginate (where site.RegularPages "Type" "events") }}
+{{ range $pages.Pages }}
+{{ $date := .Date.Format "2006-01-02" }}
+<div class="title"><a href="{{ .Params.eventpage }}">{{ .Title }}</a></div>
+{{ if .Params.location }}
+<div class="location">{{ .Params.location }}: <span class="dates">{{ .Params.dates }}</span></div>
+{{ end }}
+{{ if .Params.organisers }}
+<div class="organisers">{{ .Params.Organisers }}</div>
+{{ end }}
+{{ if .Params.committee }}
+<div class="committee">{{ .Params.committee }}</div>
+{{ end }}
+{{ if .Params.speakers }}
+<div class="speakers">{{ .Params.Speakers }}</div>
+{{ end }}
+<hr/>
+{{ end }}
+{{ end }}
+
+{{ define "footer" }}
+{{ partial "footer.html" . }}
+{{ end }}

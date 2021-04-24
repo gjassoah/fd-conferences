@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang=en>
+    <head>
+        <meta charset=utf-8>
+        <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+        {{ block "header" . }}
+
+        {{ end }}
+    </head>
+    <body>
+        <div id="main">
+            <div id="strip">
+                {{ block "main" . }}
+
+                {{ end }}
+            </div>
+        </div>
+        {{ block "footer" . }}
+
+        {{ end }}
+    </body>
+</html>
