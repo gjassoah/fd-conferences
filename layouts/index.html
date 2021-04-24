@@ -4,7 +4,7 @@
 
 {{ define "main" }}
 {{ .Content }}
-{{ $pages := .Paginate (where site.RegularPages "Type" "events") }}
+{{ $pages := .Paginate (where (where site.RegularPages "Type" "talks").ByDate ".Date" ">" now) }}
 {{ range $pages.Pages }}
 {{ $date := .Date.Format "2006-01-02" }}
 <div class="title"><a href="{{ .Params.eventpage }}">{{ .Title }}</a></div>
