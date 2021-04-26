@@ -24,8 +24,8 @@
 <script>
  let height;
  const sendPostMessage = () => {
-     if (height !== document.getElementById('container').offsetHeight) {
-         height = document.getElementById('container').offsetHeight;
+     if (height !== document.getElementById('main').offsetHeight) {
+         height = document.getElementById('main').offsetHeight;
          window.parent.postMessage({
              frameHeight: height
          }, '*');
