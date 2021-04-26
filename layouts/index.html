@@ -3,7 +3,7 @@
 {{ end }}
 
 {{ define "main" }}
-Hello
+
 {{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Params.enddate" ">=" now) }}
 {{ range $pages.Pages }}
 {{ $date := .Date.Format "2006-01-02" }}
