@@ -15,12 +15,12 @@ html, body {
 }
 
 a {
-    color: ffa000;
-    decoration: none;
+    color: #ffa000;
+    text-decoration: none;
 }
 
 a.visited {
-    color: black;    
+    color: #ffa000;
 }
 
 .event {
