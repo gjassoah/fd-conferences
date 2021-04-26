@@ -1,4 +1,4 @@
-baseURL = "https://www.fd-seminar.xyz/"
+baseURL = "https://www.fd-seminar.xyz/fd-conferences"
 languageCode = "en-us"
 title = "FD List"
 buildFuture = true
