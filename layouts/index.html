@@ -4,23 +4,27 @@
 
 {{ define "main" }}
 {{ .Content }}
-{{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Date" ">" now) }}
+{{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Params.enddate" ">" now) }}
 {{ range $pages.Pages }}
 {{ $date := .Date.Format "2006-01-02" }}
+{{ $delta := (now.Sub .Params.dateadded).Hours }}
 <div class="event">
-<div class="title"><a href="{{ .Params.eventpage }}">{{ .Title }}</a></div>
-{{ if .Params.location }}
-<div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }}</span></div>
-{{ end }}
-{{ if .Params.organisers }}
-<div class="organisers">{{ .Params.Organisers }}</div>
-{{ end }}
-{{ if .Params.committee }}
-<div class="committee">{{ .Params.committee }}</div>
-{{ end }}
-{{ if .Params.speakers }}
-<div class="speakers">{{ .Params.Speakers }}</div>
-{{ end }}
+    <div class="title">{{ if le $delta 336 }}<span class="new"></span>{{ end }}<a href="{{ .Params.eventpage }}">{{ .Title }}</a></div>
+    {{ if .Params.note }}
+    <div class="note">{{ .Params.note }}</div>
+    {{ end }}
+    {{ if .Params.location }}
+    <div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }}</span></div>
+    {{ end }}
+    {{ if .Params.organisers }}
+    <div class="organisers">{{ .Params.Organisers }}</div>
+    {{ end }}
+    {{ if .Params.committee }}
+    <div class="committee">{{ .Params.committee }}</div>
+    {{ end }}
+    {{ if .Params.speakers }}
+    <div class="speakers">{{ .Params.Speakers }}</div>
+    {{ end }}
 </div>
 {{ end }}
 {{ end }}

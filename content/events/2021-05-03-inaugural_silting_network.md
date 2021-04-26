@@ -1,7 +1,9 @@
 +++
 title = "Inaugural Lecture Series of the Network on Silting Theory"
-date = 2021-05-03T00:00:00-00:00
-dates = "May 3 - 7, 2021"
+date = 2021-05-03
+enddate = 2021-05-07
+dates = "May 3, 5 and 7, 2021"
+dateadded = 2021-04-26
 location = "Online"
 eventpage = "https://networkonsilting.wordpress.com/inaugural-lecture-series/"
 organisers = "Network on Silting Theory"
