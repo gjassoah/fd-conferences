@@ -1,4 +1,4 @@
-baseURL = "https://www.fd-seminar.xyz/fd-conferences"
+baseURL = "https://www.fd-seminar.xyz/"
 languageCode = "en-us"
 title = "FD List"
 buildFuture = true
@@ -11,3 +11,7 @@ buildFuture = true
   mainSections = ["events"]
   toc = "hugo"
   markup = "mmark"
+
+
+
+

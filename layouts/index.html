@@ -4,12 +4,13 @@
 
 {{ define "main" }}
 {{ .Content }}
-{{ $pages := .Paginate (where (where site.RegularPages "Type" "talks").ByDate ".Date" ">" now) }}
+{{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Date" ">" now) }}
 {{ range $pages.Pages }}
 {{ $date := .Date.Format "2006-01-02" }}
+<div class="event">
 <div class="title"><a href="{{ .Params.eventpage }}">{{ .Title }}</a></div>
 {{ if .Params.location }}
-<div class="location">{{ .Params.location }}: <span class="dates">{{ .Params.dates }}</span></div>
+<div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }}</span></div>
 {{ end }}
 {{ if .Params.organisers }}
 <div class="organisers">{{ .Params.Organisers }}</div>
@@ -20,7 +21,7 @@
 {{ if .Params.speakers }}
 <div class="speakers">{{ .Params.Speakers }}</div>
 {{ end }}
-
+</div>
 {{ end }}
 {{ end }}
 
