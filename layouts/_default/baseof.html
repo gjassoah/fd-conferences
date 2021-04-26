@@ -7,7 +7,7 @@
 
         {{ end }}
     </head>
-    <body>
+    <body onload="parent.postMessage(document.body.scrollHeight, 'https://fd-list.math.uni-bielefeld.de');">
         <div id="main">
             <div id="strip">
                 {{ block "main" . }}
