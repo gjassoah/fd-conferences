@@ -1,6 +1,6 @@
 +++
 title = "Representations in Castro"
-alert = "CANCELLED"
+warning = "CANCELLED"
 date = 2021-06-21
 enddate = 2021-06-26
 dates = "June 21 - 26, 2021"

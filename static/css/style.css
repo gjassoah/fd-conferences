@@ -17,14 +17,14 @@ html, body {
     content: "NEW";
 }
 
-.alert::after {
+.warn::after {
     color: var(--secondary);
     background-color: var(--primary);
     padding-left: 0.25em;
     padding-right: 0.25em;
     margin-right: 0.25em;
     font-weight: bold;
-    content: "CANCELLED";
+    content: attr(warning);
 }
 
 .note {
