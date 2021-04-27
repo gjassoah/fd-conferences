@@ -4,7 +4,7 @@ html, body {
 }
 
 .event {
-    margin-bottom: 0.5em;
+    margin-bottom: 1.3em;
 }
 
 .new::after {
@@ -66,5 +66,5 @@ html, body {
 }
 
 .speakers {
-    margin-bottom: 1.3em;
+    margin-bottom: 0.5em;
 }
