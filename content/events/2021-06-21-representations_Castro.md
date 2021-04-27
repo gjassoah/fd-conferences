@@ -1,5 +1,5 @@
 +++
-title = "CANCELLED: Representations in Castro"
+title = "Representations in Castro"
 alert = "CANCELLED"
 date = 2021-06-21
 enddate = 2021-06-26
