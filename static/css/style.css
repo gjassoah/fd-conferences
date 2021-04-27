@@ -24,7 +24,7 @@ html, body {
     padding-right: 0.25em;
     margin-right: 0.25em;
     font-weight: bold;
-    content: attr(alert);
+    content: "CANCELLED";
 }
 
 .note {
