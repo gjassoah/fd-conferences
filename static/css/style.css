@@ -17,7 +17,7 @@ html, body {
     content: "NEW";
 }
 
-.alert {
+.alert::after {
     color: var(--secondary);
     background-color: var(--primary);
     padding-left: 0.25em;
