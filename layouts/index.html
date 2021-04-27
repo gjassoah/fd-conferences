@@ -11,7 +11,7 @@
 <div class="event">
     <h2 class="title">
 	{{ if le $delta 502 }}<span class="new"></span>{{ end }}
-	{{ if .Params.alert }}<span class="alert" content:{{ .Params.alert }}></span>{{ end }}
+	{{ if .Params.alert }}<span class="alert" content="{{ .Params.alert }}"></span>{{ end }}
     <a href="{{ .Params.webpage }}">{{ .Title }}</a></h2>
     {{ if .Params.note }}
     <div class="note">{{ .Params.note }}</div>
