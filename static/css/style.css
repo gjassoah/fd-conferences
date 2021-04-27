@@ -8,10 +8,6 @@ html, body {
     margin-bottom: 1.3em;
 }
 
-.title {
-    padding-top: 1em;
-}
-
 .new::after {
     color: var(--secondary);
     background-color: var(--primary);
