@@ -20,3 +20,21 @@
         {{ end }}
     </body>
 </html>
+
+<script>
+ let height;
+ const sendPostMessage = () => {
+     if (height !== document.getElementById('main').offsetHeight) {
+         height = document.getElementById('main').offsetHeight;
+         window.parent.postMessage({
+             frameHeight: height
+         }, '*');
+         console.log(height) // check the message is being sent correctly
+     }
+ }
+ window.onload = () => sendPostMessage();
+ window.onresize = () => sendPostMessage();
+ document.getElementById('add-para').onclick = () => sendPostMessage();
+ document.getElementById('remove-para').onclick = () => sendPostMessage();
+</script>
+
