@@ -2,7 +2,7 @@ html, body {
     overflow: hidden;
     margin: 0;
     text-align: justify;
-    background-color:white;
+    background-color: transparent;
 }
 
 .event {
@@ -11,7 +11,7 @@ html, body {
 
 .new::after {
     color: var(--secondary);
-    background-color: var(--primary);
+    background: var(--primary);
     padding-left: 0.25em;
     padding-right: 0.25em;
     margin-right: 0.25em;
@@ -21,7 +21,7 @@ html, body {
 
 .warn::after {
     color: var(--secondary);
-    background-color: var(--primary);
+    background: var(--primary);
     padding-left: 0.25em;
     padding-right: 0.25em;
     margin-right: 0.25em;
