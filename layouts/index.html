@@ -4,7 +4,7 @@
 
 {{ define "main" }}
 <base target="_blank">
-{{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Params.enddate" ">=" now) 100 }}
+{{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Params.enddate" ">" now) 100 }}
 {{ range $pages.Pages }}
 {{ $date := .Date.Format "2006-01-02" }}
 {{ $delta := (now.Sub .Params.dateadded).Hours }}
