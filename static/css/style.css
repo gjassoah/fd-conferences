@@ -10,7 +10,7 @@ html, body {
 }
 
 .new::after {
-    color: rgba(0,0,0,0);
+    color: var(--secondary);
     background: var(--primary);
     padding-left: 0.25em;
     padding-right: 0.25em;
@@ -20,7 +20,7 @@ html, body {
 }
 
 .warn::after {
-    color: rgba(0,0,0,0);
+    color: var(--secondary);
     background: var(--primary);
     padding-left: 0.25em;
     padding-right: 0.25em;
