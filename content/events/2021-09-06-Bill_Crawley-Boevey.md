@@ -1,8 +1,8 @@
 +++
 title = "A conference in celebration of the work of Bill Crawley-Boevey"
-date = 2021-09-06
+date = 2021-09-01
 enddate = 2021-09-10
-dates = "September 6 - 10, 2021"
+dates = "September 1 - 10, 2021"
 dateadded = 2021-01-01
 location = "Online / ICMS, Edinburgh, U.K."
 webpage = "https://personalpages.manchester.ac.uk/staff/mike.prest/WCB60.html"

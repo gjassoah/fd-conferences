@@ -1,6 +1,5 @@
 +++
 title = "Braids, mutations and twists in algebra and geometry"
-warning = "MOVED ONLINE"
 date = 2021-05-31
 enddate = 2021-06-09
 dates = "May 31 - June 2 and June 7 - 9, 2021"
