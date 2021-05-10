@@ -1,7 +1,7 @@
 +++
 title = "Summer School of Algebraic Combinatorics / École d'été de combinatoire algébrique"
 date = 2021-06-21
-enddate = 2021-06-25
+enddate = 2021-03-24
 dates = "June 21 - 25, 2021"
 dateadded = 2021-04-10
 location = "Online"
