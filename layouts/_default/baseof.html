@@ -7,7 +7,11 @@
 
         {{ end }}
     </head>
-    <body>
+    {{ if isset .Params "dark" }}
+    <body class="dark-theme">
+    {{ else }}
+    <body class="light-theme">
+    {{ end }}
         <div id="main">
             <div id="strip">
                 {{ block "main" . }}
@@ -34,7 +38,5 @@
  }
  window.onload = () => sendPostMessage();
  window.onresize = () => sendPostMessage();
- document.getElementById('add-para').onclick = () => sendPostMessage();
- document.getElementById('remove-para').onclick = () => sendPostMessage();
 </script>
 

@@ -1,0 +1,28 @@
+<base target="_blank">
+{{ $yesterday := now.AddDate 0 0 -1}}
+{{ $pages := .Paginate (where (where site.RegularPages "Type" "events").ByDate ".Params.enddate" ">=" $yesterday) 100 }}
+{{ range $pages.Pages }}
+{{ $date := .Date.Format "2006-01-02" }}
+{{ $delta := (now.Sub .Params.dateadded).Hours }}
+<div class="event">
+    <h2 class="title">
+	{{ if le $delta 502 }}<span class="new"></span>{{ end }}
+	{{ if .Params.warning }}<span class="warn" warning="{{ .Params.warning }}"></span>{{ end }}
+    <a href="{{ .Params.webpage }}">{{ .Title }}</a></h2>
+    {{ if .Params.note }}
+    <div class="note">{{ .Params.note }}</div>
+    {{ end }}
+    {{ if .Params.location }}
+    <div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }}</span></div>
+    {{ end }}
+    {{ if .Params.organisers }}
+    <div class="organisers">{{ .Params.Organisers }}</div>
+    {{ end }}
+    {{ if .Params.committee }}
+    <div class="committee">{{ .Params.committee }}</div>
+    {{ end }}
+    {{ if .Params.speakers }}
+    <div class="speakers">{{ .Params.Speakers }}</div>
+    {{ end }}
+</div>
+{{ end }}

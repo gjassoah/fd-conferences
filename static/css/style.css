@@ -5,13 +5,23 @@ html, body {
     background-color: transparent;
 }
 
+body.dark-theme {
+    color: #eeeeee;
+    background: #2e2e2e
+}
+
+body.light-theme {
+    color: #000000;
+    background: #ffffff
+}
+
 .event {
     margin-bottom: 1.3em;
 }
 
-.new::after {
-    color: var(--secondary);
-    background: var(--primary);
+.light-theme .new::after {
+    color: #ffffff;
+    background: #000000;
     padding-left: 0.25em;
     padding-right: 0.25em;
     margin-right: 0.25em;
@@ -19,9 +29,29 @@ html, body {
     content: "NEW";
 }
 
-.warn::after {
-    color: var(--secondary);
-    background: var(--primary);
+.light-theme .warn::after {
+    color: #ffffff;
+    background: #000000;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    margin-right: 0.25em;
+    font-weight: bold;
+    content: attr(warning);
+}
+
+.dark-theme .new::after {
+    color: #eeeeee;
+    background: #2e2e2e;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    margin-right: 0.25em;
+    font-weight: bold;
+    content: "NEW";
+}
+
+.dark-theme .warn::after {
+    color: #2e2e2e;
+    background: #eeeeee;
     padding-left: 0.25em;
     padding-right: 0.25em;
     margin-right: 0.25em;
