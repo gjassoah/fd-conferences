@@ -8,7 +8,9 @@
     <h2 class="title">
 	{{ if le $delta 672 }}<span class="new"></span>{{ end }}
 	{{ if .Params.warning }}<span class="warn" warning="{{ .Params.warning }}"></span>{{ end }}
-    <a href="{{ .Params.webpage }}">{{ .Title }}</a></h2>
+    {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ .Title }}</a>
+    {{ else }}{{ .Title }}{{ end }}
+    </h2>
     {{ if .Params.note }}
     <div class="note">{{ .Params.note }}</div>
     {{ end }}
