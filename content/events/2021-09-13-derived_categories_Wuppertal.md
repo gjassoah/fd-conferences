@@ -7,5 +7,5 @@ dateadded = 2020-02-28
 location = "Bergische Universität Wuppertal, Germany"
 webpage = "http://reh.math.uni-duesseldorf.de/~internet/Summerschool_GRK2020/Summerschool_index.html"
 organisers = "Jens Hornbostel (Wuppertal), Markus Reineke (Bochum)"
-speakers = "Paul Balmer (UCLA), Baptiste Calmès (Lens), Tobias Dyckerhoff (Hamburg), Marc Hoyois (Regensburg), Henning Krause (Bielefeld), Stefan Schwede (Bonn), Maxim Smirnov (Augsburg)"
+speakers = "Paul Balmer (UCLA), Baptiste Calmès (Lens), Tobias Dyckerhoff (Hamburg), Marc Hoyois (Regensburg), Henning Krause (Bielefeld), Alice Rizzardo (Liverpool), Olaf Schnürer (Paderborn), Stefan Schwede (Bonn), Maxim Smirnov (Augsburg)"
 +++
