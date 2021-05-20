@@ -40,8 +40,8 @@ body.light-theme {
 }
 
 .dark-theme .new::after {
-    color: #eeeeee;
-    background: #2e2e2e;
+    color: #2e2e2e;
+    background: #eeeeee;
     padding-left: 0.25em;
     padding-right: 0.25em;
     margin-right: 0.25em;
