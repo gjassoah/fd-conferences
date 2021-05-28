@@ -3,6 +3,7 @@ html, body {
     margin: 0;
     text-align: justify;
     background-color: transparent;
+    font-family: "Open Sans"
 }
 
 body.dark-theme {
