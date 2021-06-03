@@ -15,7 +15,7 @@
     <div class="note">{{ .Params.note }}</div>
     {{ end }}
     {{ if .Params.location }}
-    <div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }}</span></div>
+    <div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }} {{if ge .Params.enddate $yesterday }}{{if .Params.schedule }}<a href="{{ .Params.schedule }}">(Schedule)</a>{{ end }}{{ end }}</span></div>
     {{ end }}
     {{ if .Params.organisers }}
     <div class="organisers">{{ .Params.Organisers }}</div>
