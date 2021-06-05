@@ -8,5 +8,5 @@ location = "Online / University of Khansar, Iran"
 webpage = "http://cimpa.khansar-cmc.ac.ir/"
 organisers = "Mehdi Aaghabali, Mohammad Bagher Asadi, Seyed Ebrahim Sadeghi, Zakeieh Tajfirouz, Saeed Vahdati, Razieh Vahed"
 committee = "Mehdi Aaghabali, Pere Ara, Roozbeh Hazrat, Lisa Orloff Clark, Susan Sierra, Mercedes Siles Molina, Razieh Vahed"
-speakers = "Mehdi Aaghabali (University of Khansar), Zahra Afsar (University of Sydney), Masoud Amini (Tarbiat Modares University), Pere Ara (Universitat Autonoma de Barcelona), Javad Asadollahi (University of Isfahan), Cristobal Gil Canto (Universidad de Malaga), Roozbeh Hazrat (Western Sydney University), Muge Kanuni (Duzce University), Mercedes Siles Molina (Universidad de Malaga), Kulumani Rangaswamy (University of Colorado), Sarah Reznikoff (Kansas State University)"
+speakers = "Pere Ara (Universitat Autònoma de Barcelona, Spain), Anthony Bak (University of Bielefeld, Germany), Lisa Orloff Clark (Victoria University of Wellington, New Zealand), Cristobal Gil Canto (Universidad de Málaga, Spain), Nasser Golestani (Tarbiat Modares University, Iran), Muge Kanuni (Duzce University, Turkey), Kulumani Rangaswamy (University of Colorado, USA), Hipolito Treffinger (University of Bonn, Germany)"
 +++
