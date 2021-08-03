@@ -6,6 +6,6 @@ dates = "August 8 - 12, 2022"
 dateadded = 2021-06-25
 location = "Valdosta State University, Georgia, U.S.A."
 webpage = "https://blog.valdosta.edu/vsu-cbms-conference/"
-organisers = "Shaun V. Ault, Jose A. Velez-Marulanda"
+organisers = "Shaun V. Ault, José A. Vélez-Marulanda"
 speakers = "Peter Bubenik"
 +++
