@@ -7,5 +7,5 @@ dateadded = 2021-07-22
 location = "Online / University of Cologne, Germany"
 webpage = "https://sites.google.com/view/research-school-gentle/home"
 organisers = "Sibylle Schroll (University of Cologne)"
-speakers = "Lectures: Wen Chang (Shaanxi Normal University), Haibo Jin (University of Cologne), Li Qianbai (Northwestern Polytechnical University); Research talks: Agnès Gadbled (Université Paris-Saclay, Orsay), Gustavo Jasso (University of Bonn), Yadira Valdivieso (University of Leicester)"
+speakers = "Lectures: Liqian Bai (Northwestern Polytechnical University), Wen Chang (Shaanxi Normal University), Haibo Jin (University of Cologne); Research talks: Agnès Gadbled (Université Paris-Saclay, Orsay), Gustavo Jasso (University of Bonn), Yadira Valdivieso (University of Leicester)"
 +++
