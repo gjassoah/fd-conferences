@@ -11,3 +11,4 @@ buildFuture = true
   mainSections = ["events"]
   toc = "hugo"
   markup = "mmark"
+  
