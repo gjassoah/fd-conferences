@@ -1,6 +1,6 @@
 +++
-title = "<b>POSTPONED</b>: Algebra Day in Sardinia"
-note = "New date to be confirmed"
+title = "Algebra Day in Sardinia"
+warning = "POSTPONED"
 date = 2020-05-15
 enddate = 2020-05-15
 dates = "May 15, 2020"

@@ -1,6 +1,7 @@
 +++
-title = "<b>CANCELLED</b>: Group Theory in Florence III"
-note = "In memory of Professor Guido Zappa</br>May be postponed to 2021"
+title = "Group Theory in Florence III"
+warning = "CANCELLED"
+note = "In memory of Professor Guido Zappa"
 date = 2020-07-01
 enddate = 2020-07-03
 dates = "July 1 - 3, 2020"

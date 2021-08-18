@@ -1,5 +1,6 @@
 +++
-title = "<b>CANCELLED</b>: Symplectic singularities in geometry and representation theory"
+title = "Symplectic singularities in geometry and representation theory"
+warning = "CANCELLED"
 note = "May be rescheduled in 2021"
 date = 2020-10-05
 enddate = 2020-10-09

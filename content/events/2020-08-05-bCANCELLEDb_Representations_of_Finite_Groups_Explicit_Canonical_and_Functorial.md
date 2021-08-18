@@ -1,5 +1,6 @@
 +++
-title = "<b>CANCELLED</b>: Representations of Finite Groups: Explicit, Canonical and Functorial"
+title = "Representations of Finite Groups: Explicit, Canonical and Functorial"
+warning = "CANCELLED"
 note = "A conference in honor of Robert Boltje's 60th Birthday"
 date = 2020-08-05
 enddate = 2020-08-08

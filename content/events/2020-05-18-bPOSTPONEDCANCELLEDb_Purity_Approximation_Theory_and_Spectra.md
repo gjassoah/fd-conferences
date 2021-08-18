@@ -1,5 +1,6 @@
 +++
-title = "<b>POSTPONED/CANCELLED</b>: Purity, Approximation Theory and Spectra"
+title = "Purity, Approximation Theory and Spectra"
+warning = "POSTPONED/CANCELLED" 
 date = 2020-05-18
 enddate = 2020-05-22
 dates = "May 18 - 22, 2020"

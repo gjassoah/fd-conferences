@@ -1,5 +1,6 @@
 +++
-title = "<b>CANCELLED</b>: Simple groups, representations and applications"
+title = "Simple groups, representations and applications"
+warning = "CANCELLED" 
 date = 2020-06-22
 enddate = 2020-06-26
 dates = "June 22 - 26, 2020"

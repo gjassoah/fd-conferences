@@ -1,5 +1,6 @@
 +++
-title = "<b>CANCELLED</b>: Algebraic Structures and Applications (ASA-2020)"
+title = "Algebraic Structures and Applications (ASA-2020)"
+warning = "CANCELLED" 
 date = 2020-06-22
 enddate = 2020-06-26
 dates = "June 22 - 26, 2020"

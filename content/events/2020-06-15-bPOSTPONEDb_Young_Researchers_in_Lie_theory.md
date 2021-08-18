@@ -1,5 +1,6 @@
 +++
-title = "<b>POSTPONED</b>: Young Researchers in Lie theory"
+title = "Young Researchers in Lie theory"
+warning = "POSTPONED" 
 date = 2020-06-15
 enddate = 2020-06-19
 dates = "June 15 - 19, 2020"

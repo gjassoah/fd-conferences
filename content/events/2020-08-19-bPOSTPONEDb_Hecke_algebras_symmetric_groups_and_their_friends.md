@@ -1,5 +1,6 @@
 +++
-title = "<b>POSTPONED</b>: Hecke algebras, symmetric groups, and their friends"
+title = "Hecke algebras, symmetric groups, and their friends"
+warning = "POSTPONED"
 date = 2020-08-19
 enddate = 2020-08-21
 dates = "August 19 - 21, 2020"

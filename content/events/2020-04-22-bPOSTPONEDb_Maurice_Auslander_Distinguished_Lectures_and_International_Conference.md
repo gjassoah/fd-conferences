@@ -1,6 +1,6 @@
 +++
-title = "<b>POSTPONED</b>: Maurice Auslander Distinguished Lectures and International Conference"
-note = "This event has been suspended for 1 year"
+title = "Maurice Auslander Distinguished Lectures and International Conference"
+warning = "CANCELLED"
 date = 2020-04-22
 enddate = 2020-04-27
 dates = "April 22 - 27, 2020"

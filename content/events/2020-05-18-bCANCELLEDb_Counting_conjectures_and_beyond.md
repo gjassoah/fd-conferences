@@ -1,5 +1,6 @@
 +++
-title = "<b>CANCELLED</b>: Counting conjectures and beyond"
+title = "Counting conjectures and beyond"
+warning = "POSTPONED"
 date = 2020-05-18
 enddate = 2020-05-22
 dates = "May 18 - 22, 2020"

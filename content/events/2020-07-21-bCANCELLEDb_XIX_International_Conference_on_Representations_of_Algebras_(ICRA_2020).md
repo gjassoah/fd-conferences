@@ -1,5 +1,6 @@
 +++
-title = "<b>CANCELLED</b>: XIX International Conference on Representations of Algebras (ICRA 2020)"
+title = "XIX International Conference on Representations of Algebras (ICRA 2020)"
+warning = "CANCELLED"
 date = 2020-07-21
 enddate = 2020-07-31
 dates = "July 21 - 31, 2020"

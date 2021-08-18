@@ -12,3 +12,7 @@ buildFuture = true
   toc = "hugo"
   markup = "mmark"
   
+disableKinds = ["section"]
+
+[permalinks]
+  archive = "/:year/"
