@@ -6,5 +6,5 @@ dates = "July 15 - 17, 2019"
 dateadded = 2019-01-17
 location = "Pärnu, Estonia"
 webpage = "https://web.northeastern.edu/martsinkovsky/p/Parnu2019/FM.html"
-organisers = "Mohamed Barakat (Siegen), Alex Martsinkovsky (Boston, MA, USA),, Mike Prest (Manchester, UK), Marju Purin (Northfield, MN,USA)"
+organisers = "Mohamed Barakat (Siegen), Alex Martsinkovsky (Boston, MA, USA), Mike Prest (Manchester, UK), Marju Purin (Northfield, MN, USA)"
 +++

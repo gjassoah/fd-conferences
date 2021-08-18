@@ -6,5 +6,5 @@ dates = "September 27, 2019"
 dateadded = 2019-08-12
 location = "University of Bochum, Germany"
 organisers = "Deniz Kus, Markus Reineke"
-speakers = "Graham Hawkes (UC Davis), Nicolas Jacon (University of Reims , Champagne-Ardenne), Jorge Alberto Olarte (RWTH Aachen), Tomasz , Przezdziecki (University of Bonn)"
+speakers = "Graham Hawkes (UC Davis), Nicolas Jacon (University of Reims Champagne-Ardenne), Jorge Alberto Olarte (RWTH Aachen), Tomasz Przezdziecki (University of Bonn)"
 +++

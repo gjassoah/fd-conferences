@@ -8,5 +8,5 @@ dateadded = 2019-01-07
 location = "University of Bochum, Germany"
 webpage = "https://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/transformationsgruppen/"
 organisers = "Peter Heinzner (RUB), Alan Huckleberry (Bochum and JU Bremen), Ivan Penkov (JU Bremen)"
-speakers = "Jeffrey Adams (Maryland), Brian Boe (Georgia), Stéphanie Cupit-Foutou (Bochum), Bong Lian (Brandeis), Ivan Penkov (JU Bremen), Aleksei Petukhov (Moscow), Siddharta Sahi (Rutgers), Vera Serganova (Berkeley), Catharina Stroppel (Bonn), , Valdemar Tsanov (Bochum), David Vogan (MIT), Joseph A. Wolf (Berkeley)"
+speakers = "Jeffrey Adams (Maryland), Brian Boe (Georgia), Stéphanie Cupit-Foutou (Bochum), Bong Lian (Brandeis), Ivan Penkov (JU Bremen), Aleksei Petukhov (Moscow), Siddharta Sahi (Rutgers), Vera Serganova (Berkeley), Catharina Stroppel (Bonn), Valdemar Tsanov (Bochum), David Vogan (MIT), Joseph A. Wolf (Berkeley)"
 +++
