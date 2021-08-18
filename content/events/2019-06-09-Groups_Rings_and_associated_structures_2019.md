@@ -7,5 +7,5 @@ dateadded = 2018-10-11
 location = "Spa, Belgium"
 webpage = "http://homepages.vub.ac.be/~abachle/gras2019/"
 organisers = "Ferran Cedó, Eric Jespers, Jan Okniński, Michel Van den Bergh"
-speakers = "Florian Eisele (London), Andrei Jaikin-Zaipirain (Madrid), Radha Kessar (London), Gunter Malle (Kaiserslautern) Volodymyr Mazorchuk (Uppsala), Claudio Procesi (Rome), Wolfgang Rump (Stuttgart), Agata Smoktunowicz (Edinburgh), Britta Späth (Wuppertal), Leandro Vendramin (Buenos Aires)"
+speakers = "Florian Eisele (London), Andrei Jaikin-Zaipirain (Madrid), Radha Kessar (London), Gunter Malle (Kaiserslautern), Volodymyr Mazorchuk (Uppsala), Claudio Procesi (Rome), Wolfgang Rump (Stuttgart), Agata Smoktunowicz (Edinburgh), Britta Späth (Wuppertal), Leandro Vendramin (Buenos Aires)"
 +++

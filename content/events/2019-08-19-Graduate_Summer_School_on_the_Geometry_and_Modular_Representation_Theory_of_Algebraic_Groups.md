@@ -7,5 +7,5 @@ dateadded = 2019-03-13
 location = "Stony Brook University, U.S.A. "
 webpage = "http://scgp.stonybrook.edu/archives/25603"
 organisers = "Mark Andrea de Cataldo, Francois Greer, Christian Schnell"
-speakers = "Michel Brion, Geordie Williamson."
+speakers = "Michel Brion, Geordie Williamson"
 +++
