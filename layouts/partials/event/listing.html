@@ -1,0 +1,22 @@
+<div class="event">
+    <h2 class="title">
+	{{ if .Params.warning }}<span class="warn" warning="{{ .Params.warning }}"></span>{{ end }}
+    {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ .Title }}</a>
+    {{ else }}{{ .Title }}{{ end }}
+    </h2>
+    {{ if .Params.note }}
+    <div class="note">{{ .Params.note }}</div>
+    {{ end }}
+    {{ if .Params.location }}
+    <div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }}</span></div>
+    {{ end }}
+    {{ if .Params.organisers }}
+    <div class="organisers">{{ .Params.Organisers }}</div>
+    {{ end }}
+    {{ if .Params.committee }}
+    <div class="committee">{{ .Params.committee }}</div>
+    {{ end }}
+    {{ if .Params.speakers }}
+    <div class="speakers">{{ .Params.Speakers }}</div>
+    {{ end }}
+</div>

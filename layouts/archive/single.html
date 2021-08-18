@@ -1,0 +1,33 @@
+{{ define "header" }}
+{{ partial "header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+{{ $archYear := .Date.Format "2006" }}
+<h2>Events in {{ $archYear }}</h2>
+<b>Archive:</b> <a target="_self" href="/fd-conferences">Upcoming</a> | 
+   {{ $years := (where site.RegularPages "Type" "archive") }}
+   {{ $len := (len $years) }}
+   {{ range $i, $y := (sort $years ".Date" "desc" ) }}
+   {{ if le (time $y.Date) now }}
+   {{ $year := $y.Date.Format "2006" }}
+   {{ if eq $year $archYear }}
+      <b>{{ $year }}</b>
+   {{ else }}
+      <a target="_self" href="{{ .Permalink }}">{{ $year }}</a>
+   {{ end }}
+   {{ if le (add $i 2) $len }} | {{ end }}
+   {{ end }}
+   {{ end }}
+<br><br>
+{{ range sort (where site.RegularPages "Type" "events") ".Date" }}
+   {{ if eq (.Date.Format "2006") $archYear }}
+      {{ partial "event/listing" . }}
+   {{ end }}
+{{ end }}
+
+{{ end }}
+
+{{ define "footer" }}
+{{ partial "footer.html" . }}
+{{ end }}
