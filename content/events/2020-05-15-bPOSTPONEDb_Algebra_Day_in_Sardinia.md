@@ -8,5 +8,5 @@ dateadded = 2020-01-07
 location = "University of Cagliari, Italy"
 webpage = "https://sites.google.com/view/algebraday-in-sardinia/home"
 organisers = "Beniamino Capelletti-Montano (University of Cagliari) and Jorge Vitória (University of Cagliari)"
-speakers = "Carmelo Finocchiaro (University of Catania), Hector Freytes (University of Cagliari), Lorna Gregory (University of Campania Luigi Vanvitelli), Bernhard Keller (University Paris Diderot - Paris 7), Jan Stovicek (Charles University Prague)"
+speakers = "Carmelo Finocchiaro (University of Catania), Hector Freytes (University of Cagliari), Lorna Gregory (University of Campania Luigi Vanvitelli), Bernhard Keller (University Paris Diderot - Paris 7), Jan Šťovíček (Charles University Prague)"
 +++
