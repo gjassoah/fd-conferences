@@ -12,7 +12,7 @@
    {{ if le (time $y.Date) now }}
    {{ $year := $y.Date.Format "2006" }}
    {{ if eq $year $archYear }}
-      <b>{{ $year }}</b>
+      {{ $year }}
    {{ else }}
       <a target="_self" href="{{ .Permalink }}">{{ $year }}</a>
    {{ end }}
