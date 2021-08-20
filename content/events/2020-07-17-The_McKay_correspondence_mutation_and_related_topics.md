@@ -2,7 +2,7 @@
 title = "The McKay correspondence, mutation and related topics"
 date = 2020-07-17
 enddate = 2020-08-14
-dates = "July 17, 24, 31 and August 7, 14, 2020"
+dates = "July 17, 24 and 31, August 7 and 14, 2020"
 dateadded = 2020-07-10
 location = "Online / Kavli IPMU, Japan"
 webpage = "https://indico.ipmu.jp/event/314/overview"
