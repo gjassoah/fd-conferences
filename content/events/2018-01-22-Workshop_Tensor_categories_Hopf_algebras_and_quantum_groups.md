@@ -1,5 +1,5 @@
 +++
-title = "Workshop Tensor categories, Hopf algebras and quantum groups"
+title = "Workshop: Tensor categories, Hopf algebras and quantum groups"
 date = 2018-01-22
 enddate = 2018-01-26
 dates = "January 22 - 26, 2018"
