@@ -1,5 +1,5 @@
 +++
-title = "TRR195 “Symbolic tools in mathematics and their application“ annual meeting"
+title = "TRR195 “Symbolic tools in mathematics and their application” annual meeting"
 date = 2018-09-24
 enddate = 2018-09-28
 dates = "September 24 - 28, 2018"

@@ -8,5 +8,5 @@ location = "CIRM, Luminy, France"
 webpage = "https://conferences.cirm-math.fr/1817.html"
 organisers = "Maud De Visscher (City University London), Cédric Lecouvey (Université François Rabelais, Tours), Gunter Malle (TU Kaiserslautern)"
 committee = "Olivier Dudas (Université Paris Diderot), Gerhard Hiss (RWTH Aachen University), Stéphane Launois (University of Kent)"
-speakers = "Chris Bowman (University of Kent), Pavel Etingof (MIT), &#8203;Ivan Marin (Université de Picardie-Jules Verne); Stephen Donkin (University of York), Steffen Koenig (Universität Stuttgart), Vanessa Miemietz (University of East Anglia), Sophie Morier-Genoud (Université Pierre et Marie Curie), Jérémie Guilhot (Université de Tours), Emmanuel Letellier (Université Paris Diderot), Raphaël Rouquier (UCLA Los Angeles)"
+speakers = "Chris Bowman (University of Kent), Pavel Etingof (MIT), Ivan Marin (Université de Picardie-Jules Verne); Stephen Donkin (University of York), Steffen Koenig (Universität Stuttgart), Vanessa Miemietz (University of East Anglia), Sophie Morier-Genoud (Université Pierre et Marie Curie), Jérémie Guilhot (Université de Tours), Emmanuel Letellier (Université Paris Diderot), Raphaël Rouquier (UCLA Los Angeles)"
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Algebraic groups : Geometry, Actions and Structure"
+title = "Algebraic groups: Geometry, Actions and Structure"
 date = 2018-10-29
 enddate = 2018-11-02
 dates = "October 29 - November 2, 2018"

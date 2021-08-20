@@ -7,5 +7,5 @@ dateadded = 2018-02-21
 location = "Wood Hole Oceanographic Institute, Woods Hole, U.S.A."
 webpage = "http://www.northeastern.edu/martsinkovsky/p/MADL/MADL.html"
 organisers = "Kiyoshi Igusa, Alex Martsinkovsky, Gordana Todorov"
-speakers = "Amnon Neeman; William Crawley-Boevey, Amihay Hanany, Mark Kleiner, Julia Pevtsova, Manuel Saorin"
+speakers = "Amnon Neeman; William Crawley-Boevey, Amihay Hanany, Mark Kleiner, Julia Pevtsova, Manuel Saorín"
 +++

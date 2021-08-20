@@ -8,5 +8,5 @@ dateadded = 2018-06-25
 location = "UNAM's Institute of Mathematics, Mexico City, Mexico"
 webpage = "http://arta7.matem.unam.mx/"
 organisers = "Christof Geiss, Daniel Labardini, Octavio Mendoza, Corina Saénz"
-committee = "Ibrahim Assem, Andrzej Skowronski"
+committee = "Ibrahim Assem, Andrzej Skowroński"
 +++

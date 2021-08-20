@@ -7,5 +7,5 @@ dateadded = 2018-10-25
 location = "USTC, Hefei, China"
 webpage = "http://home.ustc.edu.cn/~xwchen/Workshops%20and%20conferences.htm"
 organisers = "Xiao-Wu Chen (Hefei), Jue Le (Hefei), Ren Wang (Hefei), Yu Ye (Hefei)"
-speakers = "Hongxing Chen (Beijing), Zhenxing Di (Lanzhou), Zhe Han (Kaifeng), Ming Lu (Chengdu), Jiaqun Wei (Nanjing),, Peiyu Zhang (Wuhu), Xiaojin Zhang (Nanjing), Yingying Zhang (Nanjing), Yu Zhou (Beijing), Haiyan Zhu (Hangzhou)"
+speakers = "Hongxing Chen (Beijing), Zhenxing Di (Lanzhou), Zhe Han (Kaifeng), Ming Lu (Chengdu), Jiaqun Wei (Nanjing), Peiyu Zhang (Wuhu), Xiaojin Zhang (Nanjing), Yingying Zhang (Nanjing), Yu Zhou (Beijing), Haiyan Zhu (Hangzhou)"
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Interactions of low-dimensional topology and “higher“ representation theory"
+title = "Interactions of low-dimensional topology and “higher” representation theory"
 date = 2018-09-17
 enddate = 2018-09-21
 dates = "September 17 - 21, 2018"
