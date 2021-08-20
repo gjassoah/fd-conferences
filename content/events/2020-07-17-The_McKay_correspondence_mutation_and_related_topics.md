@@ -1,9 +1,8 @@
 +++
 title = "The McKay correspondence, mutation and related topics"
-note = "Note: this event takes place only on Fridays within the given dates"
 date = 2020-07-17
 enddate = 2020-08-14
-dates = "July 17 - August 14, 2020"
+dates = "July 17, 24, 31 and August 7, 14, 2020"
 dateadded = 2020-07-10
 location = "Online / Kavli IPMU, Japan"
 webpage = "https://indico.ipmu.jp/event/314/overview"
