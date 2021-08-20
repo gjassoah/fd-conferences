@@ -1,6 +1,6 @@
 +++
 title = "Non-Associative Algebras and Related Topics II"
-dedication = "In honour of Alberto Elduque, on the occasion of his 60th birthday"
+note = "In honour of Alberto Elduque, on the occasion of his 60th birthday"
 date = 2022-07-18
 enddate = 2022-07-22
 dates = "July 18 - 22, 2022"

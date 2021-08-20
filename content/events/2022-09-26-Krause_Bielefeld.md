@@ -1,6 +1,6 @@
 +++
 title = "Representation Theory and Triangulated Categories"
-dedication = "in honour of Henning Krause"
+note = "in honour of Henning Krause"
 date = 2022-09-26
 enddate = 2022-09-30
 dates = "September 26 - 30, 2022"

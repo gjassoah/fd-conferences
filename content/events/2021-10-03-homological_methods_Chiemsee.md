@@ -1,6 +1,6 @@
 +++
 title = "Homological Methods in Representation Theory"
-dedication = "A conference in honour of Lidia Angeleri Hügel"
+note = "A conference in honour of Lidia Angeleri Hügel"
 date = 2021-10-03
 enddate = 2021-10-08
 dates = "October 3 - 8, 2021"
