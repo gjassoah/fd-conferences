@@ -7,5 +7,5 @@ dateadded = 2017-04-27
 location = "Lens, France"
 webpage = "http://leroy.perso.math.cnrs.fr/Congres%202017/Main2017.html"
 organisers = "André Leroy"
-speakers = "Frédérique Oggier(mini-course), Philippe Langevin, Christian Lomp, Sergio Lopez-Permouth, Pace Nielsen"
+speakers = "Frédérique Oggier (mini-course), Philippe Langevin, Christian Lomp, Sergio Lopez-Permouth, Pace Nielsen"
 +++
