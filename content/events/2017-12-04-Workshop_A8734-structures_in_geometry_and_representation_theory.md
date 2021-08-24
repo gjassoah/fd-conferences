@@ -1,5 +1,5 @@
 +++
-title = "Workshop: A&#8734;-structures in geometry and representation theory"
+title = "Workshop: A_∞-structures in geometry and representation theory"
 date = 2017-12-04
 enddate = 2017-12-08
 dates = "December 4 - 8, 2017"

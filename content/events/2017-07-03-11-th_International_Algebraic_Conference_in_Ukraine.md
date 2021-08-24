@@ -1,5 +1,5 @@
 +++
-title = "11-th International Algebraic Conference in Ukraine"
+title = "11th International Algebraic Conference in Ukraine"
 date = 2017-07-03
 enddate = 2017-07-07
 dates = "July 3 - 7, 2017"
