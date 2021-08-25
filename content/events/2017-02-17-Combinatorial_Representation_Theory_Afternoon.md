@@ -7,5 +7,5 @@ dateadded = 2017-01-09
 location = "Leibniz University Hannover, Germany"
 webpage = "http://www2.iazd.uni-hannover.de/~bessen/CRTA-2017.htm"
 organisers = "Christine Bessenrodt"
-speakers = "Christian Stump (Berlin), Jørn Olsson (Kopenhagen),  Eugenio Giannelli (Cambridge)"
+speakers = "Christian Stump (Berlin), Jørn Olsson (Copenhagen), Eugenio Giannelli (Cambridge)"
 +++
