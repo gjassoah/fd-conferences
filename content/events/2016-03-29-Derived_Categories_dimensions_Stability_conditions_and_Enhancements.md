@@ -1,5 +1,5 @@
 +++
-title = "Derived Categories: dimensions, Stability conditions, and Enhancements"
+title = "Derived Categories: Dimensions, Stability Conditions, and Enhancements"
 date = 2016-03-29
 enddate = 2016-04-02
 dates = "March 29 - April 2, 2016"

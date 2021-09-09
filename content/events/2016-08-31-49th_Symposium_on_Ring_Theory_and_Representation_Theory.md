@@ -7,5 +7,5 @@ dateadded = 2016-06-03
 location = "Osaka Prefecture University, Japan"
 webpage = "http://fuji.cec.yamanashi.ac.jp/~ring/japan/"
 organisers = "Akira Ueda (Shimane Univ.), Kiriko Kato (Osaka Prefecture Univ.)"
-speakers = "Yasuaki Hiraoka (Tohoku Univ.), , Helmut Lenzing (Paderborn Univ.), , Hiraku Nakajima (RIMS, Kyoto), , Jan Stovicek (Charles Univ., Prague)"
+speakers = "Yasuaki Hiraoka (Tohoku Univ.), Helmut Lenzing (Paderborn Univ.), Hiraku Nakajima (RIMS, Kyoto), Jan Šťovíček (Charles Univ., Prague)"
 +++

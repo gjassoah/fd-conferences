@@ -7,5 +7,5 @@ dateadded = 2016-06-07
 location = "School of Mathematics, University of Leeds, U.K."
 webpage = "http://www1.maths.leeds.ac.uk/~oleg/workshop.html"
 organisers = "Oleg Chalykh, Maxim Nazarov"
-speakers = "Gwyn Bellamy, Ivan Cherednik, Dan Ciubotaru, Pavel Etingof, Evgeny Gorsky, Ian Grojnowski*,, Sergey Oblezin, Junichi Shiraishi, Benoit Vicedo, Charles Young"
+speakers = "Gwyn Bellamy, Ivan Cherednik, Dan Ciubotaru, Pavel Etingof, Evgeny Gorsky, Ian Grojnowski*, Sergey Oblezin, Junichi Shiraishi, Benoit Vicedo, Charles Young"
 +++

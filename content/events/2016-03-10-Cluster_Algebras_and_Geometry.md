@@ -7,5 +7,5 @@ dateadded = 2015-10-12
 location = "University of Muenster, Germany"
 webpage = "http://wwwmath.uni-muenster.de/reine/u/lutz.hille/GRUPPE/cluster2016/"
 organisers = "Karin Baur (University of Graz), Lutz Hille (University of Münster)"
-speakers = "Karin Erdmann, Anna Felikson, Osamu Iyama, Peter Jorgensen, Bernard Leclerc*,, Idun Reiten, Pavel Tumarkin*"
+speakers = "Karin Erdmann, Anna Felikson, Osamu Iyama, Peter Jørgensen, Bernard Leclerc*, Idun Reiten, Pavel Tumarkin*"
 +++

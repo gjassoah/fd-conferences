@@ -7,6 +7,6 @@ dates = "March 14 - 18, 2016"
 dateadded = 2016-02-11
 location = "Mar del Plata, Argentina"
 webpage = "http://arta2016mdp.edicypages.com/"
-organisers = "Ibrahim Assem (Sherbrooke), José Antonio de la Peña (Guanajuato), Andrzej Skowro&#324;ski (Toru&#324;), Sonia Trepode (Mar del Plata)"
-speakers = "Ilke Canakci (Durham), Claude Cibils (Montpellier), Guillermo Cortiñas (Buenos Aires), José Antonio de la Peña (Guanajuato), Patrick Le Meur (Paris), Shiping Liu (Sherbrooke), Eduardo Marcos (Sao Paulo), Andrea Solotar (Buenos Aires), Hugh Thomas (Montreal), Gordana Todorov (Boston), Dan Zacharia (Syracuse), Grzegorz Zwara (Toru&#324;)"
+organisers = "Ibrahim Assem (Sherbrooke), José Antonio de la Peña (Guanajuato), Andrzej Skowroński (Toruń), Sonia Trepode (Mar del Plata)"
+speakers = "İlke Çanakçı (Durham), Claude Cibils (Montpellier), Guillermo Cortiñas (Buenos Aires), José Antonio de la Peña (Guanajuato), Patrick Le Meur (Paris), Shiping Liu (Sherbrooke), Eduardo Marcos (Sao Paulo), Andrea Solotar (Buenos Aires), Hugh Thomas (Montreal), Gordana Todorov (Boston), Dan Zacharia (Syracuse), Grzegorz Zwara (Toruń)"
 +++

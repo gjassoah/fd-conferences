@@ -7,5 +7,5 @@ dateadded = 2015-10-08
 location = "Uppsala University, Uppsala, Sweden"
 webpage = "http://www.math.uu.se/forskning/algebra-och-geometri/seminariet-algebra-och-geometri/konferens-representationsteori-2015/"
 organisers = "Volodymyr Mazorchuk"
-speakers = "Maria Gorelik, Stefan Kolb, Julian Külshammer, Erhard Neher, Alistair Savage, Peng Shan, Sarah Scherotzke, Jan Stovicek"
+speakers = "Maria Gorelik, Stefan Kolb, Julian Külshammer, Erhard Neher, Alistair Savage, Peng Shan, Sarah Scherotzke, Jan Šťovíček"
 +++

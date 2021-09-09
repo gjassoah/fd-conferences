@@ -7,5 +7,5 @@ dateadded = 2016-11-15
 location = "University of Science and Technology of China, Hefei, China"
 webpage = "http://home.ustc.edu.cn/~xwchen/Workshops%20and%20conferences.htm"
 organisers = "Yanhong Bao (AU), Xiao-Wu Chen (USTC), Jue Le (USTC), Yu Ye (USTC), Zhibin Zhao (AU)"
-speakers = "Hongxing Chen (Beijing), Nan Gao (Shanghai), Zhaoyong Huang (Nanjing), Zhi-Wei Li (Xuzhou),Claus Michael Ringel (Bielefeld), Lingling Yao (Nanjing), Chao Zhang (Guiyang), Xiaojin Zhang (Nanjing),Han Zhe (Kaifeng)"
+speakers = "Hongxing Chen (Beijing), Nan Gao (Shanghai), Zhaoyong Huang (Nanjing), Zhi-Wei Li (Xuzhou), Claus Michael Ringel (Bielefeld), Lingling Yao (Nanjing), Chao Zhang (Guiyang), Xiaojin Zhang (Nanjing), Han Zhe (Kaifeng)"
 +++

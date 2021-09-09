@@ -8,5 +8,5 @@ dateadded = 2016-07-25
 location = "Barcelona, Spain"
 webpage = "http://csasc2016.espais.iec.cat"
 organisers = "Carles Casacuberta (Universitat de Barcelona, UB) and Dolors Herbera (Universitat Autònoma de Barcelona, UAB)"
-speakers = "Ramon Antoine (UAB), Natàlia Castellana (UAB), Ferran Cedó (UAB), Joana Cirici (Freie Universität Berlin), Imma Gálvez (Universitat Politècnica de Catalunya), Javier Gutiérrez (UB), Steffen König (Universität Stuttgart), Amit Kuber (Masaryk University), Francesc Perera (UAB), Mike Prest (University of Manchester),, Pavel P&#345;íhoda (Charles University),  George Raptis (Universität Regensburg), Oriol Raventós (Universität Regensburg),  Jan Šaroch (Charles University), Jan Š&#357;oví&#269;ek (Charles University),  Lukáš Vok&#345;ínek (Masaryk University)"
+speakers = "Ramon Antoine (UAB), Natàlia Castellana (UAB), Ferran Cedó (UAB), Joana Cirici (Freie Universität Berlin), Imma Gálvez (Universitat Politècnica de Catalunya), Javier Gutiérrez (UB), Steffen Koenig (Universität Stuttgart), Amit Kuber (Masaryk University), Francesc Perera (UAB), Mike Prest (University of Manchester), Pavel Příhoda (Charles University), George Raptis (Universität Regensburg), Oriol Raventós (Universität Regensburg), Jan Šaroch (Charles University), Jan Šťovíček (Charles University),  Lukáš Vokřínek (Masaryk University)"
 +++
