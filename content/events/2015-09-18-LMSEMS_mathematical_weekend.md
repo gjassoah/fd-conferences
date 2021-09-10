@@ -8,5 +8,5 @@ dateadded = 2015-02-17
 location = "Birmingham, U.K."
 webpage = "http://web.mat.bham.ac.uk/emslmsweekend/"
 organisers = "Chris Parker, Anton Evseev, Maria Reguera, Andrew Treglown"
-speakers = "Plenary speakers: Noga Alon (Tel Aviv, Princeton), Keith Ball (Warwick), Be&#769;la Bolloba&#769;s (Cambridge, Memphis), Timothy Gowers (Cambridge), Stefanie Petermichl (Toulouse), Aner Shalev (Jerusalem); Algebra session: Ben Klopsch (Düsseldorf), Martin Liebeck (London), Gunter Malle (Kaiserslautern), Bob Oliver (Paris), Donna Testerman (Lausanne)"
+speakers = "Plenary speakers: Noga Alon (Tel Aviv, Princeton), Keith Ball (Warwick), Béla Bollobás (Cambridge, Memphis), Timothy Gowers (Cambridge), Stefanie Petermichl (Toulouse), Aner Shalev (Jerusalem); Algebra session: Ben Klopsch (Düsseldorf), Martin Liebeck (London), Gunter Malle (Kaiserslautern), Bob Oliver (Paris), Donna Testerman (Lausanne)"
 +++

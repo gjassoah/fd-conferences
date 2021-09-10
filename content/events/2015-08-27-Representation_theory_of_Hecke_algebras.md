@@ -7,5 +7,5 @@ dateadded = 2015-03-25
 location = "City University London, U.K."
 webpage = "https://sites.google.com/site/representationsofheckealgebras/home"
 organisers = "Chris Bowman"
-speakers = "Gwyn Bellamy, Maria Chlouveraki, Eugenio Giannelli, Nicolas Jacon, Louise Sutton, Liron Speyer, and Michela Varagnolo"
+speakers = "Gwyn Bellamy, Maria Chlouveraki, Eugenio Giannelli, Nicolas Jacon, Louise Sutton, Liron Speyer, Michela Varagnolo"
 +++

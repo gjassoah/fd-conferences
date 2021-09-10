@@ -7,5 +7,5 @@ dateadded = 2015-03-16
 location = "University of Manchester, U.K."
 webpage = "http://hodge.maths.ed.ac.uk/tiki/ARTIN-44"
 organisers = "Lorna Gregory, David Pauksztello"
-speakers = "Grzegorz Bobinski (Torun), Peter Jorgensen (Newcastle), Matthew Pressland (Bath), Julia Sauter (Bielefeld), Ed Segal (Imperial) and Michael Wemyss (Edinburgh)"
+speakers = "Grzegorz Bobiński (Toruń), Peter Jørgensen (Newcastle), Matthew Pressland (Bath), Julia Sauter (Bielefeld), Ed Segal (Imperial), Michael Wemyss (Edinburgh)"
 +++

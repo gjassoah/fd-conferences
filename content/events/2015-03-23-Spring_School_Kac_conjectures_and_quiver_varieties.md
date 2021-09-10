@@ -6,5 +6,5 @@ dates = "March 23 - 27, 2015"
 dateadded = 2014-11-12
 location = "Wuppertal, Germany"
 webpage = "http://www2.math.uni-wuppertal.de/~reineke/springschool15/"
-organisers = "Steffen König (Stuttgart), Markus Reineke (Wuppertal)"
+organisers = "Steffen Koenig (Stuttgart), Markus Reineke (Wuppertal)"
 +++

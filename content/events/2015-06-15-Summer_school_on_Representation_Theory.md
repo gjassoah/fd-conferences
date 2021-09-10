@@ -7,5 +7,5 @@ dateadded = 2015-04-07
 location = "University of Coimbra, Portugal"
 webpage = "http://www.mat.uc.pt/~crt/school2015"
 organisers = "Ana Paula Santana, Carlos André, Ivan Yudin"
-speakers = "Karin Erdmann (University of Oxford, UK), Alexander Kleschev, (University of Oregon, U.S.A.)"
+speakers = "Karin Erdmann (University of Oxford, UK), Alexander Kleschev (University of Oregon, U.S.A.)"
 +++

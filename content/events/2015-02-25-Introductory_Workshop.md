@@ -7,5 +7,5 @@ dateadded = 2014-05-07
 location = "Uppsala University, Uppsala, Sweden"
 webpage = "http://www.math.uu.se/IW2015/"
 organisers = "Aslak Bakke Buan, Volodymyr Mazorchuk"
-speakers = "Alexander Alldridge (Cologne), Henning Haahr Andersen (Århus), Karin Baur (Graz), Eleonore Faber (Toronto), Vyacheslav Futorny (Sao Paulo), Martin Herschend (Uppsala), Bernard Leclerc (Caen), Marco Mackaay (Algarve), Vanessa Miemietz (UEA), Idun Reiten (Trondheim), Claus Michael Ringel (Jeddah/Shanghai), Anne-Laure Thiel (Uppsala), Michela Varagnolo (Cergy-Pontoise), Eric Vasserot (Paris VII), Yu Zhou (Bielefeld)"
+speakers = "Alexander Alldridge (Cologne), Henning Haahr Andersen (Århus), Karin Baur (Graz), Eleonore Faber (Toronto), Vyacheslav Futorny (São Paulo), Martin Herschend (Uppsala), Bernard Leclerc (Caen), Marco Mackaay (Algarve), Vanessa Miemietz (UEA), Idun Reiten (Trondheim), Claus Michael Ringel (Jeddah / Shanghai), Anne-Laure Thiel (Uppsala), Michela Varagnolo (Cergy-Pontoise), Eric Vasserot (Paris VII), Yu Zhou (Bielefeld)"
 +++
