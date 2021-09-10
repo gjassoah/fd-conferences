@@ -1,5 +1,5 @@
 +++
-title = "Birep Summerschool on Preprojective Algebras"
+title = "BIREP Summer School on Preprojective Algebras"
 date = 2013-08-26
 enddate = 2013-08-30
 dates = "August 26 - 30, 2013"

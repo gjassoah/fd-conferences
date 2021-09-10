@@ -7,5 +7,5 @@ dateadded = 2012-10-24
 location = "Evangelische Akademie, Bad Boll (near Stuttgart), Germany"
 webpage = "http://www.iaz.uni-stuttgart.de/activities/spp2013/badboll.t"
 organisers = "The representation theory group at Stuttgart"
-speakers = "Maud De Visscher (City University London) Martin Kalck (University of Bielefeld) Aaron Lauda (University of Southern California), Britta Späth (University of Kaiserslautern), Pham Tiep (University of Arizona), Geordie Williamson (MPIM Bonn)"
+speakers = "Maud De Visscher (City University London), Martin Kalck (University of Bielefeld), Aaron Lauda (University of Southern California), Britta Späth (University of Kaiserslautern), Pham Tiep (University of Arizona), Geordie Williamson (MPIM Bonn)"
 +++

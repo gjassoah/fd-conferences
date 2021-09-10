@@ -8,5 +8,4 @@ dateadded = 2012-12-07
 location = "Balikesir, Turkey"
 webpage = "http://ica.balikesir.edu.tr/"
 organisers = "Adnan Tercan, Sebahattin Ikikardes, Firat Ates, Ümit Sarp"
-speakers = "tba"
 +++

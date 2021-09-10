@@ -7,5 +7,4 @@ dateadded = 2013-09-30
 location = "Lehrstuhl D für Mathematik, Aachen, Germany"
 webpage = "http://www.math.rwth-aachen.de/Nikolaus2013/"
 organisers = "Frank Lübeck"
-speakers = "tba"
 +++

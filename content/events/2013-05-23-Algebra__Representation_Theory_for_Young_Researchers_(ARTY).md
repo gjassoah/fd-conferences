@@ -6,5 +6,5 @@ dates = "May 23 - 25, 2013"
 dateadded = 2013-02-18
 location = "Friedrich-Alexander-University of Erlangen-Nuremberg, Erlangen, Germany"
 webpage = "http://www.enz.math.uni-erlangen.de/conferences/arty"
-organisers = "Martina Lanini,, Barbara Schalke,, Narendiran Sivanesan,, Friederike Steglich"
+organisers = "Martina Lanini, Barbara Schalke, Narendiran Sivanesan, Friederike Steglich"
 +++

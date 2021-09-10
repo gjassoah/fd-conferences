@@ -1,5 +1,5 @@
 +++
-title = "Summerschool on Category O"
+title = "Summer School on Category O"
 date = 2013-08-06
 enddate = 2013-08-08
 dates = "August 6 - 8, 2013"
