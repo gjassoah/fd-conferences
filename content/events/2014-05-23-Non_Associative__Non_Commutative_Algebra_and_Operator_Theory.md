@@ -8,5 +8,5 @@ dateadded = 2014-01-29
 location = "Dakar, Senegal"
 webpage = "http://workshop2014.lacgaa.com/"
 organisers = "Laila Mesmoudi, Ismaila Diouf"
-speakers = "Nadia Boudi (Université de Meknès, Maroc), Dolors Herbera (Universidad Autònoma de Barcelona, Espagne), Consuelo Martínez López (Universidad de Oviedo, Espagne), Pere Ara (Universidad Autónoma de Barcelona, Espagne), Abdenacer Makhlouf (Université de Haute Alsace, France), Mostafa Mbekhta (Université Lille1, France), Antonio Peralta (Universidad de Granada, Espagne), Mamadou Sangharé (UCAD, Sénégal), Fred van Oystaeyen (Departement Wiskunde-Informatica, Antwerpen Universiteit, Belgique), Efim Zelmanov (University of California, San Diego)"
+speakers = "Nadia Boudi (Université de Meknès, Maroc), Dolors Herbera (Universidad Autònoma de Barcelona, Espagne), Consuelo Martínez López (Universidad de Oviedo, Espagne), Pere Ara (Universidad Autónoma de Barcelona, Espagne), Abdenacer Makhlouf (Université de Haute Alsace, France), Mostafa Mbekhta (Université Lille 1, France), Antonio Peralta (Universidad de Granada, Espagne), Mamadou Sangharé (UCAD, Sénégal), Fred van Oystaeyen (Departement Wiskunde-Informatica, Antwerpen Universiteit, Belgique), Efim Zelmanov (University of California, San Diego)"
 +++

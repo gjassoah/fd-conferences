@@ -7,5 +7,5 @@ dateadded = 2014-08-16
 location = "Edinburgh, Scotland, U.K."
 webpage = "http://www.maths.ed.ac.uk/~mkalck/workshop.html"
 organisers = "Martin Kalck, Michael Wemyss"
-speakers = "Roland Abuaf (Imperial), Petter Andreas Bergh (Trondheim), Raf Bocklandt (Amsterdam), Ragnar-Olaf Buchweitz* (Toronto), Osamu Iyama* (Nagoya), Gustavo Jasso (Bonn), Peter Jørgensen (Newcastle), Alastair King* (Bath), Frederik Marks (Stuttgart), David Pauksztello (Manchester), David Ploog (Bonn), Chrysostomos Psaroudakis (Stuttgart), Sibylle Schroll (Leicester), , Evgeny Shinder (Sheffield),  Adam-Christiaan van Roosmalen (Prague), Jorge Vitoria (Verona)"
+speakers = "Roland Abuaf (Imperial), Petter Andreas Bergh (Trondheim), Raf Bocklandt (Amsterdam), Ragnar-Olaf Buchweitz* (Toronto), Osamu Iyama* (Nagoya), Gustavo Jasso (Bonn), Peter Jørgensen (Newcastle), Alastair King* (Bath), Frederik Marks (Stuttgart), David Pauksztello (Manchester), David Ploog (Bonn), Chrysostomos Psaroudakis (Stuttgart), Sibylle Schroll (Leicester), Evgeny Shinder (Sheffield), Adam-Christiaan van Roosmalen (Prague), Jorge Vitória (Verona)"
 +++

@@ -7,6 +7,6 @@ dateadded = 2013-12-13
 location = "EPFL, Lausanne, Switzerland"
 webpage = "http://yam.epfl.ch/"
 organisers = "R. Chevalley (EPFL), C. Lassueur (TU Kaiserslautern)"
-committee = "D. Testerman (EPFL) & J. Thévenaz (EPFL)"
+committee = "D. Testerman (EPFL), J. Thévenaz (EPFL)"
 speakers = "Tim Burness (Bristol), Stephen Donkin (York), Olivier Dudas (Paris-Diderot)"
 +++

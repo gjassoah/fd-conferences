@@ -7,5 +7,5 @@ dateadded = 2014-09-20
 location = "Woods Hole Oceanographic Institute, Woods Hole, MA, U.S.A."
 webpage = "http://www.northeastern.edu/martsinkovsky/p/MADL/MADL.html"
 organisers = "Kiyoshi Igusa, Alex Martsinkovsky, Gordana Todorov"
-speakers = "Distinguished Speaker: Osamu Iyama (Nagoya)"
+speakers = "Osamu Iyama (Nagoya)"
 +++
