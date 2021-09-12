@@ -7,5 +7,5 @@ dateadded = 2012-03-05
 location = "Amiens, France"
 webpage = "http://www.lamfa.u-picardie.fr/Colloques/conf2012/"
 organisers = "Serge Bouc (LAMFA-CNRS), Radu Stancu (LAMFA), Jacques Thévenaz (EPFL)"
-speakers = "Laurence Barker, Dave Benson, Antonio Diaz, Matthew Gelvin, Assaf Libman, Markus Linckelmann, Bob Oliver, Sejong Park, Gerardo Raggi, Nadia Romero, Ergün Yalçin"
+speakers = "Laurence Barker, Dave Benson, Antonio Diaz, Matthew Gelvin, Assaf Libman, Markus Linckelmann, Bob Oliver, Sejong Park, Gerardo Raggi, Nadia Romero, Ergün Yalçın"
 +++

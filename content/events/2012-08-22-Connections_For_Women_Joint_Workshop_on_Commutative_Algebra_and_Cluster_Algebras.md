@@ -7,5 +7,4 @@ dateadded = 2011-02-24
 location = "MSRI, Berkeley, U.S.A."
 webpage = "http://www.msri.org/web/msri/scientific/workshops/show/-/event/Wm556"
 organisers = "Claudia Polini (University of Notre Dame), Idun Reiten (Norwegian University of Science and Technology), Karen Smith (University of Michigan), and Lauren Williams (University of California, Berkeley)"
-speakers = "tba"
 +++

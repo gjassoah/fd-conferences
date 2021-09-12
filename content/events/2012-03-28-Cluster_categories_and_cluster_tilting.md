@@ -8,5 +8,5 @@ dateadded = 2011-09-14
 location = "NTNU, Trondheim, Norway"
 webpage = "http://www.math.ntnu.no/conferences/CCCT2012/"
 organisers = "Petter Andreas Bergh, Aslak Bakke Buan, Steffen Oppermann, Sverre O. Smalø,  Øyvind Solberg"
-speakers = "Claire Amiot (Strasbourg), Karin Baur (Graz),, Thomas Brüstle (Sherbrooke), Grégoire Dupont (Paris),, Thorsten Holm (Hannover), Osamu Iyama (Nagoya), Bernhard Keller (Paris),, Helmut Lenzing (Paderborn), Robert Marsh (Leeds), Pierre-Guy Plamondon (Paris),, Claus Michael Ringel (Bielefeld), Sarah Scherotzke (Bonn), Hugh Thomas (Fredericton), Gordana Todorov (Boston)"
+speakers = "Claire Amiot (Strasbourg), Karin Baur (Graz), Thomas Brüstle (Sherbrooke), Grégoire Dupont (Paris), Thorsten Holm (Hannover), Osamu Iyama (Nagoya), Bernhard Keller (Paris), Helmut Lenzing (Paderborn), Bethany Marsh (Leeds), Pierre-Guy Plamondon (Paris), Claus Michael Ringel (Bielefeld), Sarah Scherotzke (Bonn), Hugh Thomas (Fredericton), Gordana Todorov (Boston)"
 +++

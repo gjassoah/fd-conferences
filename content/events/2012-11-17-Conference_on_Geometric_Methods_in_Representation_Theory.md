@@ -7,5 +7,5 @@ dateadded = 2012-05-24
 location = "University of Missouri-Columbia, Columbia, U.S.A."
 webpage = "http://www.math.uiowa.edu/~fbleher/CGMRT2012.html"
 organisers = "Frauke Bleher, Calin Chindris"
-speakers = "Birge Huisgen-Zimmermann (key note speaker), other speakers T.B.A."
+speakers = "Birge Huisgen-Zimmermann (keynote speaker)"
 +++

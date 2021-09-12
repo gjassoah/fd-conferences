@@ -9,5 +9,4 @@ location = "Mykolaiv, Ukraine"
 webpage = "http://mmk.mdu.edu.ua"
 organisers = "N.A. Bronytska, I. V. Kulakovska, V.V. Shvyrov, A.V. Zhuchok, Yu.V. Zhuchok"
 committee = "Yu. A. Drozd (Ukraine)"
-speakers = "T.B.A."
 +++

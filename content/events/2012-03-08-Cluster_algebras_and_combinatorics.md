@@ -7,5 +7,5 @@ dateadded = 2011-07-15
 location = "University of  Graz, Austria"
 webpage = "http://www.uni-graz.at/~baurk/Cluster-Algebras/index.html"
 organisers = "Karin Baur, Lutz Hille"
-speakers = "M. Van den Bergh, T. Holm, B. Keller, B. Leclerc, R. Marsh, I. Reiten"
+speakers = "M. Van den Bergh, T. Holm, B. Keller, B. Leclerc, B. Marsh, I. Reiten"
 +++
