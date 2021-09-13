@@ -7,5 +7,5 @@ dateadded = 2021-09-13
 location = "CIRM, Luminy, Marseille, France"
 webpage = "https://conferences.cirm-math.fr/2667.html"
 organisers = "Cédric Bonnafé (CNRS, Université de Montpellier), Alessandra Sarti (Université de Poitiers), Ulrich Thiel (University of Kaiserslautern)"
-speakers = "Mini-courses: Alastair Craw (Bath), Iain Gordon (Edinburgh), Yoshinori Namikawa (Kyoto); Talks: Chiara Camere (Milan), Christian Lehn (Chemnitz), Sarah Scherotzke (Münster)"
+speakers = "Mini-courses: Alastair Craw (Bath), Iain Gordon (Edinburgh), Yoshinori Namikawa (Kyoto); Talks: Chiara Camere (Milan), Christian Lehn (Chemnitz), Sarah Scherotzke (Luxembourg)"
 +++
