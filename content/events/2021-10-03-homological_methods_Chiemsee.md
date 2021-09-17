@@ -8,5 +8,5 @@ dateadded = 2020-02-10
 location = "Fraueninsel (Chiemsee), Abtei Frauenwörth, Germany"
 webpage = "http://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/hmrt/hmrt.html"
 organisers = "Steffen Koenig, Frederik Marks, Francesca Mantese, Jorge Vitória"
-speakers = "Silvana Bazzoni, Aslak Bakke Buan, Flavio Coelho, Dolors Herbera, Michal Hrbek, Birge Huisgen-Zimmermann, Gustavo Jasso, Henning Krause, Rosanna Laking, Tsutomu Nakamura, David Pauksztello, Mike Prest, Chrysostomos Psaroudakis, Alessandro Rapa, Javier Sanchez, Manuel Saorín, Jan Šťovíček, Jan Trlifaj, Simone Virili, Alexandra Zvonareva"
+speakers = "Silvana Bazzoni, Aslak Bakke Buan, Dolors Herbera, Michal Hrbek, Henning Krause, Rosanna Laking, David Pauksztello, Mike Prest, Chrysostomos Psaroudakis, Alessandro Rapa, Manuel Saorín, Jan Šťovíček, Jan Trlifaj, Simone Virili, Alexandra Zvonareva"
 +++
