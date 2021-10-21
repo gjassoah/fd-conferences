@@ -7,5 +7,5 @@ dateadded = 2021-09-20
 location = "Online / NTNU, Norway"
 webpage = "https://wiki.math.ntnu.no/flashtalks2022"
 organisers = "Johanne Haugland, Karin M. Jacobsen, Sibylle Schroll"
-speakers = "İlke Çanakçı, Karin Erdmann, Souheila Hassoun, Martin Herschend, Bernhard Keller, Maitreyee Kulkarni, Rosanna Laking, Chrysostomos Psaroudakis, Job D. Rock, Mads H. Sandøy, Hugh Thomas, Yadira Valdivieso, Zhengfang Wang"
+speakers = "Karin Baur, İlke Çanakçı, Haruhisa Enomoto, Karin Erdmann, Souheila Hassoun, Martin Herschend, Bernhard Keller, Maitreyee Kulkarni, Rosanna Laking, Chrysostomos Psaroudakis, Job D. Rock, Mads H. Sandøy, Julia Sauter, Hugh Thomas, Yadira Valdivieso, Zhengfang Wang"
 +++
