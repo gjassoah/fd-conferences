@@ -1,7 +1,7 @@
 +++
 title = "Representation theory of Hecke algebras and categorification"
-date = 2022-06-05
-enddate = 2022-06-10
+date = 2023-06-05
+enddate = 2023-06-10
 dates = "June 5 - 10, 2023"
 dateadded = 2021-03-11
 location = "Okinawa Institute of Science and Technology Graduate University, Japan"
