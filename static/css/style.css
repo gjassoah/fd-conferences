@@ -3,53 +3,30 @@ html, body {
     margin: 0;
     text-align: justify;
     background-color: transparent;
-    font-family: "Roboto"
+    font-family: 'Roboto', 'Open Sans', sans-serif;
 }
 
 .event {
     margin-bottom: 1.3em;
 }
 
-@media (prefers-color-scheme: light) {
-    .new::after {
-        color: #ffffff;
-        background: #000000;
-        padding-left: 0.25em;
-        padding-right: 0.25em;
-        margin-right: 0.25em;
-        font-weight: bold;
-        content: "NEW";
-    }
-    .warn::after {
-        color: #ffffff;
-        background: #000000;
-        padding-left: 0.25em;
-        padding-right: 0.25em;
-        margin-right: 0.25em;
-        font-weight: bold;
-        content: attr(warning);
-    }
+.new::after {
+    color: var(--secondary);
+    background: var(--primary);
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    margin-right: 0.25em;
+    font-weight: bold;
+    content: "NEW";
 }
-
-@media (prefers-color-scheme: dark) {
-    .new::after {
-        color: #2e2e2e;
-        background: #eeeeee;
-        padding-left: 0.25em;
-        padding-right: 0.25em;
-        margin-right: 0.25em;
-        font-weight: bold;
-        content: "NEW";
-    }
-    .warn::after {
-        color: #2e2e2e;
-        background: #eeeeee;
-        padding-left: 0.25em;
-        padding-right: 0.25em;
-        margin-right: 0.25em;
-        font-weight: bold;
-        content: attr(warning);
-    }
+.warn::after {
+    color: var(--secondary);
+    background: var(--primary);
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    margin-right: 0.25em;
+    font-weight: bold;
+    content: attr(warning);
 }
 
 .note {
