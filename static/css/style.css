@@ -50,7 +50,7 @@ body.light-theme {
     content: "NEW";
 }
 
-.warn::after.dark-theme {
+.dark-theme .warn::after {
     color: #2e2e2e;
     background: #eeeeee;
     padding-left: 0.25em;
