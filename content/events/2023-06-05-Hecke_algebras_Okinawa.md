@@ -1,6 +1,6 @@
 +++
 title = "Representation theory of Hecke algebras and categorification"
-warning = "POSTPONEDx"
+warning = "POSTPONED"
 date = 2023-06-05
 enddate = 2023-06-10
 dates = "June 5 - 10, 2023"
