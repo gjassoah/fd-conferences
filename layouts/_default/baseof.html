@@ -7,11 +7,7 @@
 
         {{ end }}
     </head>
-    {{ if isset .Params "dark" }}
-    <body class="dark-theme">
-    {{ else }}
-    <body class="light-theme">
-    {{ end }}
+    <body>
         <div id="main">
             <div id="strip">
                 {{ block "main" . }}
