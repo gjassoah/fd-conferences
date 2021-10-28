@@ -30,6 +30,16 @@ body.light-theme {
     content: "NEW";
 }
 
+.warn::after {
+    color: #ffffff;
+    background: #000000;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
+    margin-right: 0.25em;
+    font-weight: bold;
+    content: attr(warning);
+}
+
 .light-theme .warn::after {
     color: #ffffff;
     background: #000000;
