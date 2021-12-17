@@ -7,5 +7,4 @@ dateadded = 2011-06-18
 location = "Leibniz Universität Hannover, Germany"
 webpage = "http://www-ifm.math.uni-hannover.de/~bessen/RTDays-2011.htm"
 organisers = "Christine Bessenrodt, Thorsten Holm"
-speakers = "tba"
 +++

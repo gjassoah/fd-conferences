@@ -1,5 +1,5 @@
 +++
-title = "Oberwolfach Seminar: Cohen-Macaulay Modules, Surface Singularities and McKay Correspondence"
+title = "Oberwolfach Seminar: Cohen–Macaulay Modules, Surface Singularities and McKay Correspondence"
 date = 2011-11-20
 enddate = 2011-11-26
 dates = "November 20 - 26, 2011"

@@ -7,5 +7,5 @@ dateadded = 2010-06-05
 location = "School of Mathematics, University of Birmingham, Birmingham, U.K."
 webpage = "http://web.mat.bham.ac.uk/gpworkshop/"
 organisers = "Ralf Gramlich, Kay Magaard, Chris Parker, Sergey Shpectorov"
-speakers = "Peter Abramenko, Martin Bridson, Ken Brown, Kai-Uwe Bux, Inna Capdeboscq,, Pierre-Emmanuel Caprace, Tom De Medts, Robert Guralnick, Martin Kassabov,, Alexander Lubotzky, Bernhard Mühlherr, Nikolay Nikolov, Richard Weiss,, Stefan Witzel, Kevin Wortman"
+speakers = "Peter Abramenko, Martin Bridson, Ken Brown, Kai-Uwe Bux, Inna Capdeboscq, Pierre-Emmanuel Caprace, Tom De Medts, Robert Guralnick, Martin Kassabov,, Alexander Lubotzky, Bernhard Mühlherr, Nikolay Nikolov, Richard Weiss, Stefan Witzel, Kevin Wortman"
 +++

@@ -7,5 +7,5 @@ dateadded = 2011-02-07
 location = "University of Paderborn, Germany"
 webpage = "http://www2.math.uni-paderborn.de/index.php?id=14594"
 organisers = "Joachim Hilgert"
-speakers = "A. Alldridge (Köln), G. Ben Simon (Zürich), K. Fredenhagen (Hamburg), , Th. Nikolaus (Hamburg), Ch. Sachse (Hamburg), G. Tuynman (Lille),, J. Winkelmann (Bochum), M. Zirnbauer (Köln) tbc"
+speakers = "A. Alldridge (Köln), G. Ben Simon (Zürich), K. Fredenhagen (Hamburg), , Th. Nikolaus (Hamburg), Ch. Sachse (Hamburg), G. Tuynman (Lille), J. Winkelmann (Bochum), M. Zirnbauer* (Köln)"
 +++

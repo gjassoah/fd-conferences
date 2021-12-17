@@ -1,5 +1,5 @@
 +++
-title = "Representation Day in USTC&#65288;II&#65289;"
+title = "Representation Day in USTC (II)"
 date = 2011-04-02
 enddate = 2011-04-02
 dates = "April 2, 2011"

@@ -7,5 +7,4 @@ dateadded = 2011-01-15
 location = "Shanghai Jiao Tong University, Shanghai, China"
 webpage = "http://www.math.sjtu.edu.cn/Conference/SCRTA/"
 organisers = "Pu Zhang, Claus Michael Ringel, Yue-Hui Zhang"
-speakers = "T.B.A."
 +++

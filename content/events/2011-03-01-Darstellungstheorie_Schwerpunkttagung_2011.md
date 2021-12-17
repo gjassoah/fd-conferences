@@ -8,5 +8,5 @@ location = "University of Münster, Germany"
 webpage = "http://wwwmath.uni-muenster.de/reine/u/lutz.hille/SPP-Tagung/index.html"
 organisers = "Lutz Hille, Mark Blume, Angela Holtmann"
 committee = "Henning Krause, Peter Littelmann, Gunter Malle, Karl-Hermann Neeb, Christoph Schweigert"
-speakers = "Jean-Marie Bois, Michel Brion, Peter Buergisser, Nils Carqueville, Felix Dietlein, Iain Gordon, David Gross, Peter Heinzner, Alexander Kleshchev,, Friedrich Knop, Bernhard Krötz, Julian Külshammer, Claudia Köhler, Martina Lanini, Helmut Lenzing, Stephane Merigon, Gabriele Nebe, Thomas Nikolaus,, Markus Perling, Claus Michael Ringel, Alexei Semikhatov, Torsten Wedhorn"
+speakers = "Jean-Marie Bois, Michel Brion, Peter Buergisser, Nils Carqueville, Felix Dietlein, Iain Gordon, David Gross, Peter Heinzner, Alexander Kleshchev, Friedrich Knop, Bernhard Krötz, Julian Külshammer, Claudia Köhler, Martina Lanini, Helmut Lenzing, Stephane Merigon, Gabriele Nebe, Thomas Nikolaus, Markus Perling, Claus Michael Ringel, Alexei Semikhatov, Torsten Wedhorn"
 +++

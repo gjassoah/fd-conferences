@@ -7,5 +7,5 @@ dateadded = 2011-01-30
 location = "Leibniz Universität Hannover, Germany"
 webpage = "http://www-ifm.math.uni-hannover.de/~bessen/CRT11.htm"
 organisers = "Christine Bessenrodt"
-speakers = "Arun Ram (Melbourne), Christian Gutschwager (Hannover), Raquel Simoes (Leeds),, Alexander Kleshchev (Eugene)"
+speakers = "Arun Ram (Melbourne), Christian Gutschwager (Hannover), Raquel Coelho Simões (Leeds), Alexander Kleshchev (Eugene)"
 +++
