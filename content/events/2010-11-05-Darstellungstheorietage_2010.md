@@ -6,6 +6,6 @@ dates = "November 5 - 6, 2010"
 dateadded = 2010-06-12
 location = "University of Stuttgart, Germany"
 webpage = "http://www.mathematik.uni-stuttgart.de/iaz/AbDartheo/aktuelles/dtt2/"
-organisers = "Richard Dipper and Wolfgang Kimmerle"
-speakers = "B.Külshammer, B.Späth, S.Danz, M.Cuntz, Q.Liu, E.Jespers, F.Stoll, M.Neunhöffer, G.Malle"
+organisers = "Richard Dipper, Wolfgang Kimmerle"
+speakers = "B. Külshammer, B. Späth, S. Danz, M. Cuntz, Q. Liu, E. Jespers, F. Stoll, M. Neunhöffer, G. Malle"
 +++

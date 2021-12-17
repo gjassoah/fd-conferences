@@ -7,5 +7,4 @@ dateadded = 2010-10-31
 location = "University of Bielefeld, Germany"
 webpage = "http://www.math.uni-bielefeld.de/birep/meetings/carta2010/index.php"
 organisers = "Henning Krause"
-speakers = "see web-page"
 +++

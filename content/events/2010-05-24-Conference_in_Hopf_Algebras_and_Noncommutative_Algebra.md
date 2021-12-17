@@ -8,5 +8,4 @@ dateadded = 2010-03-23
 location = "Ben-Gurion University of the Negev, Beer Sheva, Israel"
 webpage = "http://www.cs.bgu.ac.il/~berend/mia-conference/index.html"
 organisers = "Daniel Berend, Ido Efrat, Michael Lin, Uri Onn, Sara Westreich"
-speakers = "tba"
 +++

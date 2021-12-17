@@ -7,5 +7,5 @@ dateadded = 2010-03-23
 location = "Leibniz Universität Hannover, Germany"
 webpage = "http://www.iazd.uni-hannover.de/~tholm/NWDR15.html"
 organisers = "Christine Bessenrodt, Thorsten Holm"
-speakers = "Susanne Danz (Oxford), Karsten Dietrich (Paderborn),, Matthew Douglass (Texas/Bochum), Wei Hu (Beijing/Cologne),, Markus Reineke (Wuppertal)"
+speakers = "Susanne Danz (Oxford), Karsten Dietrich (Paderborn), Matthew Douglass (Texas/Bochum), Wei Hu (Beijing/Cologne), Markus Reineke (Wuppertal)"
 +++

@@ -6,6 +6,6 @@ dates = "September 23 - 25, 2010"
 dateadded = 2010-07-24
 location = "University of Murcia, Murcia, Spain"
 webpage = "http://www.um.es/fmath/"
-organisers = "Manuel Saorin"
-speakers = "LIDIA ANGELERI-HÜGEL (Universita degli Studi di Verona), STEFFEN KÖNIG (Universität zu Köln), JAN STOVICEK (Univerzita Karlova v Praze),, PEDRO NICOLAS (Universidad de Murcia)"
+organisers = "Manuel Saorín"
+speakers = "Lidia Angeleri-Hügel (Università degli Studi di Verona), Steffen Koenig (Universität zu Köln), Jan Šťovíček (Univerzita Karlova v Praze), Pedro Nicolás (Universidad de Murcia)"
 +++
