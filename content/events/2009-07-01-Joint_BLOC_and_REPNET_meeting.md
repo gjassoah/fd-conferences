@@ -7,5 +7,5 @@ dateadded = 2009-06-13
 location = "University of Leicester, Leicester, UK"
 webpage = "http://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/njs5/BLOC/meeting46"
 organisers = "Nicole Snashall, Sibylle Schroll"
-speakers = "Joe Chuang (City University, London), Barrie Cooper (Exeter),, Robert Marsh (Leeds), Xiuping Su (Bath), Rachel Taillefer (St Etienne),, Fei Xu (Nantes), Alexander Zimmermann (Amiens)"
+speakers = "Joe Chuang (City University, London), Barrie Cooper (Exeter), Bethany Marsh (Leeds), Xiuping Su (Bath), Rachel Taillefer (St Etienne), Fei Xu (Nantes), Alexander Zimmermann (Amiens)"
 +++

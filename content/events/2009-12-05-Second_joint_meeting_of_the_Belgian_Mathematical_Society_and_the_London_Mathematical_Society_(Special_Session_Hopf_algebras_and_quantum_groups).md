@@ -6,6 +6,6 @@ dates = "December 5, 2009"
 dateadded = 2009-11-18
 location = "Louvain, Belgium"
 webpage = "http://www.cs.kuleuven.be/conference/BLMS2009/"
-organisers = "S. Caenepeel and T. Brzezinski"
-speakers = "Jan Grabowski (Oxford), Kenny De Commer (Leuven), Stephane Launois (Kent), Yinhuo Zhang (Hasselt)"
+organisers = "S. Caenepeel, T. Brzezinski"
+speakers = "Jan Grabowski (Oxford), Kenny De Commer (Leuven), Stéphane Launois (Kent), Yinhuo Zhang (Hasselt)"
 +++

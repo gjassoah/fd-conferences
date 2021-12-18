@@ -1,5 +1,5 @@
 +++
-title = "Summerschool on Hall algebras, loop algebras and weighted projective lines"
+title = "Summer School on Hall algebras, loop algebras and weighted projective lines"
 date = 2009-08-31
 enddate = 2009-09-04
 dates = "August 31 - September 4, 2009"

@@ -1,5 +1,5 @@
 +++
-title = "QUANTUM GROUP WORKSHOP"
+title = "Quantum Group Workshop"
 date = 2009-05-14
 enddate = 2009-05-16
 dates = "May 14 - 16, 2009"

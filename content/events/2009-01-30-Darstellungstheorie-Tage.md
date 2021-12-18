@@ -7,5 +7,4 @@ dateadded = 2008-10-27
 location = "University of Kaiserslautern, Kaiserslautern, Germany"
 webpage = "http://www.mathematik.uni-kl.de/~malle/Darst08/darst08.html"
 organisers = "Gunter Malle"
-speakers = "T.B.A:"
 +++

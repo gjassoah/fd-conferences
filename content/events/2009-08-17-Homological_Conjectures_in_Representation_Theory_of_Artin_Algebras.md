@@ -7,5 +7,5 @@ dateadded = 2009-03-26
 location = "University of Wuppertal, Wuppertal, Germany"
 webpage = "http://wmaz.math.uni-wuppertal.de/reineke/workshop09/"
 organisers = "Klaus Bongartz, Markus Reineke (Wuppertal)"
-speakers = "Sverre O. Smalø (Trondheim), Dan Zacharia (Syracuse), Birge , Huisgen-Zimmermann (UCSB), Edward Green (Virginia Tech), Gordana Todorov , (Northeastern University)"
+speakers = "Sverre O. Smalø (Trondheim), Dan Zacharia (Syracuse), Birge Huisgen-Zimmermann (UCSB), Edward Green (Virginia Tech), Gordana Todorov (Northeastern University)"
 +++

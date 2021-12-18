@@ -7,6 +7,5 @@ dates = "August 13 - 17, 2009"
 dateadded = 2008-10-27
 location = "Kharkov, Ukraine"
 webpage = "http://iaconu2009.univer.kharkov.ua"
-organisers = "G. N. Zholtkevych, Yu. Drozd, V. Kirichenko and B. Novikov."
-speakers = "T.B.A."
+organisers = "G. N. Zholtkevych, Yu. Drozd, V. Kirichenko, B. Novikov"
 +++

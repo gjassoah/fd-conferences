@@ -7,5 +7,5 @@ dateadded = 2008-12-26
 location = "Jacobs University Bremen, Bremen, Germany"
 webpage = "http://math.jacobs-university.de/penkov/SummerSchool2009/SummerSchool.html"
 organisers = "A. Joseph, A. Melnikov, I. Penkov"
-speakers = "Michel Brion (Grenoble), Maria Gorelik (Rehovot), Anthony Joseph (Rehovot), Alexander Premet (Manchester), Claus Michael Ringel (Bielefeld), Vera Serganova (Berkeley), Wolfgang Soergel (Freiburg), Gregg Zuckerman (New Haven), Lucas Fresse (Rehovot), Markus Reineke (Wuppertal), Cristoph Schweigert (Hamburg), , Catharina Stroppel (Bonn), Wai Ling Yee (Windsor)"
+speakers = "Michel Brion (Grenoble), Maria Gorelik (Rehovot), Anthony Joseph (Rehovot), Alexander Premet (Manchester), Claus Michael Ringel (Bielefeld), Vera Serganova (Berkeley), Wolfgang Soergel (Freiburg), Gregg Zuckerman (New Haven), Lucas Fresse (Rehovot), Markus Reineke (Wuppertal), Cristoph Schweigert (Hamburg), Catharina Stroppel (Bonn), Wai Ling Yee (Windsor)"
 +++

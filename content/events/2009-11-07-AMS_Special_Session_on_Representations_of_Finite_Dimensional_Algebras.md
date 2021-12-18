@@ -7,5 +7,4 @@ dateadded = 2008-07-23
 location = "University of California at Riverside, U.S.A."
 webpage = "http://www.ams.org/amsmtgs/2163_program.html"
 organisers = "Frauke Bleher, Birge Huisgen-Zimmermann, Markus Schmidmeier"
-speakers = "T.B.A."
 +++

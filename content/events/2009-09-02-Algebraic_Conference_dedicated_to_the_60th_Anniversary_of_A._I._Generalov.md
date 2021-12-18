@@ -7,5 +7,5 @@ dateadded = 2009-04-13
 location = "St. Petersburg, Russia"
 webpage = "http://www.math.spbu.ru/Valgebra/ConfGeneralov/index.html"
 organisers = "G. Garkusha, I. Panin, N. Vavilov, A. Yakovlev"
-speakers = "Nikolai Durov (St. Petersburg), Grigory Garkusha (Swansea),, Alexander Generalov (St. Petersburg), Ivan Panin (St. Petersburg),, Viktor Petrov (Edmonton), Gennady Puninski (Moscow), Nikolai Vavilov (St. Petersburg)"
+speakers = "Nikolai Durov (St. Petersburg), Grigory Garkusha (Swansea), Alexander Generalov (St. Petersburg), Ivan Panin (St. Petersburg), Viktor Petrov (Edmonton), Gennady Puninski (Moscow), Nikolai Vavilov (St. Petersburg)"
 +++

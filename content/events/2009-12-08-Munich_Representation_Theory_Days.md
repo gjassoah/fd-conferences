@@ -7,5 +7,5 @@ dateadded = 2009-12-09
 location = "Technical University of Munich, Germany"
 webpage = "http://mathcal.ma.tum.de/?Funktion=Ausgabe&Subfunktion=Program&oid=75591&Jahr=2009"
 organisers = "Anne Henke"
-speakers = "Frank Himstedt (TUM) Bernt Jensen (Paris) Aram Mikaelian (Oxford) Markus Schmidmeier (Fau, Florida) Hans-Jürgen Schneider (LMU)"
+speakers = "Frank Himstedt (TUM), Bernt Tore Jensen (Paris), Aram Mikaelian (Oxford), Markus Schmidmeier (Fau, Florida), Hans-Jürgen Schneider (LMU)"
 +++

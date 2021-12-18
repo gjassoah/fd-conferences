@@ -7,5 +7,5 @@ dateadded = 2009-04-05
 location = "Hotel Müggelsee, Berlin, Germany"
 webpage = "http://page.mi.fu-berlin.de/baumeist/sommerschule/summer%20school.html"
 organisers = "B. Baumeister, G. Stroth"
-speakers = "M. Aschbacher, P. Diaconis, G. Hiss, J. Jantzen, M. Kassabov, M. Liebeck, A. Lubotzky, R. Lyons, A. Makhnev, J. Michel, B. Mühlherr, I. Suprunenko, J. Thompson, R. Weiss:"
+speakers = "M. Aschbacher, P. Diaconis, G. Hiss, J. Jantzen, M. Kassabov, M. Liebeck, A. Lubotzky, R. Lyons, A. Makhnev, J. Michel, B. Mühlherr, I. Suprunenko, J. Thompson, R. Weiss"
 +++

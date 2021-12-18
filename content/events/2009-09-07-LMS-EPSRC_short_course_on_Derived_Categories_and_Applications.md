@@ -6,6 +6,6 @@ dates = "September 7 - 11, 2009"
 dateadded = 2009-05-30
 location = "City University London, London, U.K."
 webpage = "http://www.staff.city.ac.uk/a.g.cox/Conf/derived.php"
-organisers = "Anton Cox and Joseph Chuang"
+organisers = "Anton Cox, Joseph Chuang"
 speakers = "Markus Linkelmann (Aberdeen), Raphaël Rouquier (Oxford), Iain Gordon (Edinburgh)"
 +++

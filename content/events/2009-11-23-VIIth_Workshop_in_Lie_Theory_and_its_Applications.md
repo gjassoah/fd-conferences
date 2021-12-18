@@ -4,8 +4,7 @@ date = 2009-11-23
 enddate = 2009-12-01
 dates = "November 23 - December 1, 2009"
 dateadded = 2008-12-26
-location = "Cordoba and La Falda (Sierras de Cordoba), Argentina"
+location = "Córdoba and La Falda (Sierras de Córdoba), Argentina"
 webpage = "http://www.famaf.unc.edu.ar/lie2009/index.html"
-organisers = "Guillermo Ames (UNC), Juan José Bigeon (UNCPBA), Carina Boyallian (UNC),, Esther Galina (UNC), Linda Saal (UNC), Sebastián Simondi (U. N. de Cuyo),, Alejandro Tiraboschi (UNC)"
-speakers = "T.B.A."
+organisers = "Guillermo Ames (UNC), Juan José Bigeon (UNCPBA), Carina Boyallian (UNC), Esther Galina (UNC), Linda Saal (UNC), Sebastián Simondi (U. N. de Cuyo), Alejandro Tiraboschi (UNC)"
 +++

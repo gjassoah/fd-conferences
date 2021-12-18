@@ -6,5 +6,5 @@ dates = "April 13 - 19, 2009"
 dateadded = 2008-04-10
 location = "University of Glasgow, Glasgow, U.K."
 webpage = "http://www.newton.cam.ac.uk/"
-organisers = "Iain Gordon, Ulrich Kraehmer, Nicolai Reshethikin, Raphael Rouquier, Catharina Stroppel"
+organisers = "Iain Gordon, Ulrich Kraehmer, Nicolai Reshethikin, Raphaël Rouquier, Catharina Stroppel"
 +++

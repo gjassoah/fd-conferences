@@ -7,5 +7,4 @@ dateadded = 2009-08-22
 location = "University of Jena, Jena, Germany"
 webpage = "http://www.minet.uni-jena.de/algebra/tagungen/DTT09/"
 organisers = "B. Külshammer"
-speakers = "T.B.A."
 +++

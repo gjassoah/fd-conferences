@@ -6,6 +6,6 @@ dates = "July 26 - 31, 2009"
 dateadded = 2008-08-27
 location = "University of Cologne"
 webpage = "http://www.mi.uni-koeln.de/lskoenig/events2009/summerschool09.html"
-organisers = "R. Hartmann (Cologne), S. König (Cologne), P. Littelmann (Cologne), Q. Liu (Cologne)"
+organisers = "R. Hartmann (Cologne), S. Koenig (Cologne), P. Littelmann (Cologne), Q. Liu (Cologne)"
 speakers = "W. Crawley-Boevey (Leeds), T. Hausel (Oxford), M. Reineke (Wuppertal)"
 +++

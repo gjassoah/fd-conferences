@@ -7,5 +7,4 @@ dateadded = 2009-02-28
 location = "Varna, Bulgaria"
 webpage = "http://theo.inrne.bas.bg/~dobrev/LT-8.htm"
 organisers = "Vladimir Dobrev"
-speakers = "T.B.A."
 +++
