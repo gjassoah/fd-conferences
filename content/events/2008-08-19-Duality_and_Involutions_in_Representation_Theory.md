@@ -7,5 +7,5 @@ dateadded = 2007-11-01
 location = "National University of Ireland, Maynooth, Ireland"
 webpage = "http://www.maths.nuim.ie:80/conference/"
 organisers = "Rod Gow (University College Dublin), John Murray (National University of Ireland Maynooth), Rachel Quinlan (National University of Ireland Galway)"
-speakers = "Christine Bessenrodt (University of Hannover, Germany), Everett Dade (University of Illinois Urbana-Champaign, USA), Burkhard Kulshammer (University of Jena, Germany), Gabriele Nebe (RWTH Aachen, Germany), Geoffrey Robinson (University of Aberdeen, Scotland, UK), Wolfgang Willems (University Magdeburg, Germany)"
+speakers = "Christine Bessenrodt (University of Hannover, Germany), Everett Dade (University of Illinois Urbana-Champaign, USA), Burkhard Külshammer (University of Jena, Germany), Gabriele Nebe (RWTH Aachen, Germany), Geoffrey Robinson (University of Aberdeen, Scotland, UK), Wolfgang Willems (University Magdeburg, Germany)"
 +++

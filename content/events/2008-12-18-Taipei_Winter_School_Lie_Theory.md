@@ -6,6 +6,6 @@ dates = "December 18 - 26, 2008"
 dateadded = 2008-10-03
 location = "National Taiwan University, Taipei, Taiwan"
 webpage = "http://www.math.sinica.edu.tw/chengsj/winterschool_2008.htm"
-organisers = "Shun-Jen Cheng (Taiwan) and Weiqiang Wang (USA)"
-speakers = "Shrawan Kumar (University of North Carolina - Chapel Hill, USA) and Raphael Rouquier (University of Oxford, UK)."
+organisers = "Shun-Jen Cheng (Taiwan), Weiqiang Wang (USA)"
+speakers = "Shrawan Kumar (University of North Carolina - Chapel Hill, USA), Raphaël Rouquier (University of Oxford, UK)."
 +++

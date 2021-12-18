@@ -7,5 +7,5 @@ dateadded = 2008-09-09
 location = "Swansea University, Swansea, U.K."
 webpage = "http://www-maths.swan.ac.uk/staff/gg/Workshop/"
 organisers = "Grigory Garkusha, Tomasz Brzezinski, Edwin Beggs"
-speakers = "Peter Jorgensen (Newcastle, UK), Henning Krause (Paderborn, Germany), , Teimuraz Pirashvili (Leicester, UK), Pierre Schapira (Paris, France), , Bertrand Toen (Toulouse, France)"
+speakers = "Peter Jørgensen (Newcastle, UK), Henning Krause (Paderborn, Germany), Teimuraz Pirashvili (Leicester, UK), Pierre Schapira (Paris, France), Bertrand Toën (Toulouse, France)"
 +++

@@ -6,6 +6,6 @@ dates = "June 16 - 20, 2008"
 dateadded = 2008-04-24
 location = "Sophus Lie Conference Center, Nordfjordeid, Norway"
 webpage = "http://www.math.uio.no/div/nordfjordeid/nordfjord.html"
-organisers = "G. Floeystad (Bergen), T. Johnsen (Tromsoe), K. Ranestad (Oslo), Sverre Smaloe (Trondheim)"
-speakers = "Karin Erdmann (Oxford), Lutz Hille (Muenster), Hanspeter Kraft (Basel)"
+organisers = "G. Fløystad (Bergen), T. Johnsen (Tromsoe), K. Ranestad (Oslo), Sverre Smalø (Trondheim)"
+speakers = "Karin Erdmann (Oxford), Lutz Hille (Münster), Hanspeter Kraft (Basel)"
 +++

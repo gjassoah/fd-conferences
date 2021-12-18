@@ -7,6 +7,5 @@ dates = "May 9 - 11, 2008"
 dateadded = 2008-02-07
 location = "Florida Atlantic University, Boca Raton, U.S.A."
 webpage = "http://www.math.fau.edu:80/web/meetings/Fred-and-Ray.html"
-organisers = "Lee Klingler (Florida Atlantic University), Bruce Olberding (New Mexico State University), Markus Schmidmeier (Florida Atlantic University), Peter Schuster (Ludwig-Maximilians-Universitaet Muenchen)"
-speakers = "T.B.A."
+organisers = "Lee Klingler (Florida Atlantic University), Bruce Olberding (New Mexico State University), Markus Schmidmeier (Florida Atlantic University), Peter Schuster (Ludwig-Maximilians-Universität München)"
 +++

@@ -7,5 +7,5 @@ dateadded = 2007-11-01
 location = "Baton Rouge, Louisiana, U.S.A."
 webpage = "http://www.ams.org/amsmtgs/2146_program_ss8.html#title"
 organisers = "Lars Kadison, Alexander Stolin"
-speakers = "Yuri Bahturin (Memorial University of Newfoundland, Canada), Margaret Beattie (Mt. Allison University, Canada), Juan Cuadra (University of Almeria, Spain), Joerg Feldvoss (University of Southern Alabama),Martin Lorenz (Temple University, tentative), Frank Marko (Pennsylvania State University)Yorck Sommerhauser (University of Southern Alabama)"
+speakers = "Yuri Bahturin (Memorial University of Newfoundland, Canada), Margaret Beattie (Mt. Allison University, Canada), Juan Cuadra (University of Almeria, Spain), Joerg Feldvoss (University of Southern Alabama), Martin Lorenz* (Temple University), Frank Marko (Pennsylvania State University), Yorck Sommerhauser (University of Southern Alabama)"
 +++

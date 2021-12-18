@@ -6,5 +6,5 @@ dates = "September 7 - 12, 2008"
 dateadded = 2007-11-01
 location = "Banff International Research Station, Banff, Canada"
 webpage = "http://www.birs.ca:80/birspages.php?task=displayevent&event_id=08w5060"
-organisers = "Jose Antonio de la Pena (Universidad Nacional Autonoma de Mexico), Vlastimil Dlab (Carleton University), Helmut Lenzing (University of Paderborn)"
+organisers = "Jose Antonio de la Peña (Universidad Nacional Autónoma de Mexico), Vlastimil Dlab (Carleton University), Helmut Lenzing (University of Paderborn)"
 +++

@@ -7,5 +7,5 @@ dateadded = 2008-07-22
 location = "Shizuoka University, Shizuoka, Japan"
 webpage = "http://www.ipc.shizuoka.ac.jp/~shasash/workshop2008-eng.html"
 organisers = "Hideto Asashiba"
-speakers = "Bernhard Keller (Paris, France), Henning Krause (Paderborn, Germany), , Mitsuo Hoshino (Tsukuba, Japan), Kiriko Kato (Osaka Prefecture, Japan), , Ryo Takahashi (Shinshu, Japan), Hiroyuki Minamoto (Kyoto, Japan)"
+speakers = "Bernhard Keller (Paris, France), Henning Krause (Paderborn, Germany), Mitsuo Hoshino (Tsukuba, Japan), Kiriko Kato (Osaka Prefecture, Japan), Ryo Takahashi (Shinshu, Japan), Hiroyuki Minamoto (Kyoto, Japan)"
 +++

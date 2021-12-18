@@ -7,5 +7,5 @@ dateadded = 2008-09-11
 location = "Research Institute for Mathematical Sciences (RIMS) Kyoto University, Japan"
 webpage = "http://www.kurims.kyoto-u.ac.jp/~kyodo/workshop-en.html"
 organisers = "Shigeo Koshitani (Chiba, Japan)"
-speakers = "Shih-chang Huang (Auckland), Osamu Iyama (Nagoya), Kiriko Kato (Osaka), Nadia Mazza (Lancaster), Tetsuro Okuyama (Asahikawa), Andrzej Skowronski (Torun), Oyvind Solberg (Trondheim), Atumi Watanabe (Kumamoto)"
+speakers = "Shih-chang Huang (Auckland), Osamu Iyama (Nagoya), Kiriko Kato (Osaka), Nadia Mazza (Lancaster), Tetsuro Okuyama (Asahikawa), Andrzej Skowroński (Toruń), Øyvind Solberg (Trondheim), Atumi Watanabe (Kumamoto)"
 +++

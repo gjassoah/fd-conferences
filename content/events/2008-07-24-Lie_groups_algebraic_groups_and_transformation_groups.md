@@ -7,5 +7,4 @@ dateadded = 2008-07-10
 location = "University of Bielefeld, Bielefeld, Germany"
 webpage = "http://www.math.uni-bielefeld.de/sfb701/sonst/lat.html"
 organisers = "H. Abels"
-speakers = "T.B.A."
 +++

@@ -7,5 +7,5 @@ dateadded = 2008-10-17
 location = "University of Bielefeld"
 webpage = "http://www.math.uni-bielefeld.de/birep/ADE/"
 organisers = "Jean-Marie Bois, Angela Holtmann, Claus Michael Ringel"
-speakers = "D. Happel (Chemnitz), L. Hille (Münster), H. Lenzing (Paderborn), W. Ebeling (Hannover), M. Schmidmeier (Boca Raton), D. Vossieck (Morelia), D. Yang (Paris),(and may-be more)"
+speakers = "D. Happel (Chemnitz), L. Hille (Münster), H. Lenzing (Paderborn), W. Ebeling (Hannover), M. Schmidmeier (Boca Raton), D. Vossieck (Morelia), D. Yang (Paris)"
 +++

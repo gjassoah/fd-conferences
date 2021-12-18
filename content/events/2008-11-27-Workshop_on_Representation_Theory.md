@@ -7,5 +7,5 @@ dateadded = 2008-08-23
 location = "ETH Zurich, Zurich, Switzerland "
 webpage = "http://www.math.ethz.ch/~moreau/Rep08.html"
 organisers = "Karin Baur, Anne Moreau"
-speakers = "Philippe Caldero (Lyon), Giovanna Carnovale (Padova), Alberto De Sole (Roma & Harvard), Jan Draisma (Eindhoven),  David Hernandez (Versailles),  , Friedrich Knop (Erlangen),  Peter Littelmann (Cologne),  , Alexander Premet (Manchester),  Jan Schroeer (Bonn),  Wolfgang Soergel (Freiburg i. Br.), Oksana Yakimova (Erlangen)."
+speakers = "Philippe Caldero (Lyon), Giovanna Carnovale (Padova), Alberto De Sole (Roma & Harvard), Jan Draisma (Eindhoven),  David Hernandez (Versailles), Friedrich Knop (Erlangen),  Peter Littelmann (Cologne), Alexander Premet (Manchester),  Jan Schröer (Bonn), Wolfgang Soergel (Freiburg i. Br.), Oksana Yakimova (Erlangen)"
 +++

@@ -6,6 +6,6 @@ dates = "January 3 - 9, 2008"
 dateadded = 2008-03-02
 location = "Universit of Oxford, Oxford, U.K."
 webpage = "http://www.maths.ox.ac.uk/events/liegrits-workshop"
-organisers = "Karin Erdmann, Keith Hannabuss, Anne Henke, Frances Kirwan."
-speakers = "Karin Erdmann, Keith Hannabuss, Anne Henke, Frances Kirwan."
+organisers = "Karin Erdmann, Keith Hannabuss, Anne Henke, Frances Kirwan"
+speakers = "Karin Erdmann, Keith Hannabuss, Anne Henke, Frances Kirwan"
 +++

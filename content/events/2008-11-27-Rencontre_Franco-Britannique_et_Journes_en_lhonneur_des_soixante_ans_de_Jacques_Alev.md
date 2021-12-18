@@ -8,5 +8,5 @@ dateadded = 2008-10-16
 location = "University of Reims, Reims, France"
 webpage = "http://loic.foissy.free.fr/colloque/accueil.html"
 organisers = "Francois Dumas, Gérard Cauchon, Loïc Foissy, Laurent Rigal"
-speakers = "G. Bellamy (Edinburgh Univ.), R. Berger (Univ. Saint-Etienne), K. Brown (Glasgow Univ.), A. Joseph (Weizmann Institute), Ch. Kassel (Univ. Strasbourg 1), B. Keller (Univ. Paris 7), S. Launois (Kent Univ.), B. Leclerc (Univ. Caen),, T. Lenagan (Edinburgh Univ.), J.T. Stafford (Manchester Univ.), R. Taillefer (Univ. Saint-Etienne), P. Tauvel (Univ. Poitiers), M. van den Bergh (Hasselt Univ.), A. van den Essen (Nijmegen Univ.)"
+speakers = "G. Bellamy (Edinburgh Univ.), R. Berger (Univ. Saint-Etienne), K. Brown (Glasgow Univ.), A. Joseph (Weizmann Institute), Ch. Kassel (Univ. Strasbourg 1), B. Keller (Univ. Paris 7), S. Launois (Kent Univ.), B. Leclerc (Univ. Caen), T. Lenagan (Edinburgh Univ.), J.T. Stafford (Manchester Univ.), R. Taillefer (Univ. Saint-Etienne), P. Tauvel (Univ. Poitiers), M. van den Bergh (Hasselt Univ.), A. van den Essen (Nijmegen Univ.)"
 +++

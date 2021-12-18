@@ -1,5 +1,5 @@
 +++
-title = "Spring School Derived equivalences: representations and coherent sheaves"
+title = "Spring School: Derived equivalences, representations and coherent sheaves"
 date = 2008-03-03
 enddate = 2008-03-07
 dates = "March 3 - 7, 2008"

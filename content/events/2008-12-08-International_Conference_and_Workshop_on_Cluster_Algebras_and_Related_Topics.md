@@ -7,5 +7,5 @@ dateadded = 2007-11-01
 location = "Workshop: Morelia, Michocan State, Mexico; Conference: Mexico-City, Mexico"
 webpage = "http://www.matem.unam.mx/~iconcart/"
 organisers = "M. Barot, R. Bautista, Ch. Geiss, D. Juan"
-speakers = "Workshop: A. Buan (Trondheim), H. Derksen (Ann Arbor), V. Fock (Moscow), B. Leclerc (Caen), M. Shapiro (U. of Michigan), D. Thurston (Columbia), L. Williams (Harvard). Conference: S. Fomin (Ann Arbor), M. Kontsevich (IHES), I. Reiten (Trondheim), J. Schroer (Bonn), J. Weyman (Northeastern)."
+speakers = "Workshop: A.B. Buan (Trondheim), H. Derksen (Ann Arbor), V. Fock (Moscow), B. Leclerc (Caen), M. Shapiro (U. of Michigan), D. Thurston (Columbia), L. Williams (Harvard). Conference: S. Fomin (Ann Arbor), M. Kontsevich (IHES), I. Reiten (Trondheim), J. Schröer (Bonn), J. Weyman (Northeastern)"
 +++
