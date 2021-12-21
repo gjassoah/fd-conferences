@@ -1,5 +1,6 @@
 +++
 title = "Future directions in algebraic groups and Lie algebras in the UK"
+note = "Planned to be rescheduled in April"
 warning = "POSTPONED"
 date = 2022-01-05
 enddate = 2022-01-07
