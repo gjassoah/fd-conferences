@@ -1,7 +1,7 @@
 +++
 title = "ICM 2022 Satellite Conference: Hochschild (co)homology and derived categories"
 date = 2022-06-20
-enddate = 2005-06-24
+enddate = 2022-06-24
 dates = "June 20 - 24, 2022"
 dateadded = 2021-12-21
 location = "St Petersburg Department of Steklov Mathematical Institute"
