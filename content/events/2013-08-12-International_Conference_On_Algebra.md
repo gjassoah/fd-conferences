@@ -5,7 +5,7 @@ date = 2013-08-12
 enddate = 2013-08-15
 dates = "August 12 - 15, 2013"
 dateadded = 2012-12-07
-location = "Balikesir, Turkey"
+location = "Balıkesir, Turkey"
 webpage = "http://ica.balikesir.edu.tr/"
-organisers = "Adnan Tercan, Sebahattin Ikikardes, Firat Ates, Ümit Sarp"
+organisers = "Adnan Tercan, Sebahattin Ikikardes, Fırat Ateş, Ümit Sarp"
 +++
