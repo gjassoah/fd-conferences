@@ -1,5 +1,5 @@
 +++
-title = "ALTENCOA-2004 (Algebra, Teoría de Números, Combinatoria y Aplicaciones)"
+title = "ALTENCOA-2004 (Álgebra, Teoría de Números, Combinatoria y Aplicaciones)"
 date = 2004-07-19
 enddate = 2004-07-23
 dates = "July 19 - 23, 2004"
