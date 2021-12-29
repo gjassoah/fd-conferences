@@ -15,7 +15,6 @@
    {{ if le (time $y.Date) now }}
    {{ $year := $y.Date.Format "2006" }}
    |&nbsp<a target="_self" href="{{ .Permalink }}">{{ $year }}</a>
-   {{ if le (add $i 2) $len }}{{ end }}
    {{ end }}
    {{ end }}
 </td>

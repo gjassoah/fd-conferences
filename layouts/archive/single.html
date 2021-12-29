@@ -5,21 +5,31 @@
 {{ define "main" }}
 {{ $archYear := .Date.Format "2006" }}
 <h2>Events in {{ $archYear }}</h2>
-<b>Archive:</b> <a target="_self" href="/fd-conferences">Upcoming</a> | 
+<table style="border-collapse: separate !important;">
+<tr>
+<td align="left" valign="top">
+<b>Archive:</b>
+</td>
+<td align="left" valign="top">
+&nbsp<a target="_self" href="/fd-conferences">Upcoming</a>&nbsp
+</td>
+<td align="left" valign="top">
    {{ $years := (where site.RegularPages "Type" "archive") }}
    {{ $len := (len $years) }}
    {{ range $i, $y := (sort $years ".Date" "desc" ) }}
    {{ if le (time $y.Date) now }}
    {{ $year := $y.Date.Format "2006" }}
    {{ if eq $year $archYear }}
-      {{ $year }}
+      |&nbsp{{ $year }}
    {{ else }}
-      <a target="_self" href="{{ .Permalink }}">{{ $year }}</a>
-   {{ end }}
-   {{ if le (add $i 2) $len }} | {{ end }}
+      |&nbsp<a target="_self" href="{{ .Permalink }}">{{ $year }}</a>
    {{ end }}
    {{ end }}
-<br><br>
+   {{ end }}
+</td>
+</tr>
+</table>
+<br>
 {{ range sort (where site.RegularPages "Type" "events") ".Date" }}
    {{ if eq (.Date.Format "2006") $archYear }}
       {{ partial "event/listing" . }}
