@@ -8,5 +8,5 @@ dateadded = 2010-07-17
 location = "École de physique des Houches, France"
 webpage = "http://www.math.unicaen.fr/~al/conf.html"
 organisers = "C. Bonnafé, E. Godelle, N. Jacon, E. Letellier, K. Sorlin"
-speakers = "P. Achar, C. Bonnafé, M. Broué, O. Brunat, P. Cartier, R. Charney,, M. Chlouveraki, P. Dehornoy, M. Geck, D. Juteau, B. Leclerc, G. Lehrer, G. Lusztig, G. Malle, I. Marin, L. Paris, M. Picantin,, R. Rouquier, T. Shoji, G. Williamson"
+speakers = "P. Achar, C. Bonnafé, M. Broué, O. Brunat, P. Cartier, R. Charney, M. Chlouveraki, P. Dehornoy, M. Geck, D. Juteau, B. Leclerc, G. Lehrer, G. Lusztig, G. Malle, I. Marin, L. Paris, M. Picantin, R. Rouquier, T. Shoji, G. Williamson"
 +++

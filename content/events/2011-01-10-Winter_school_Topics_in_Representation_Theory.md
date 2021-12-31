@@ -7,5 +7,5 @@ dateadded = 2010-10-29
 location = "Hausdorff Institute, Bonn, Germany"
 webpage = "http://www.hausdorff-research-institute.uni-bonn.de/geometry-and-combinatorics"
 organisers = "S. Koenig, P. Littelmann, J. Schröer, C. Stroppel"
-speakers = "Six introductory lecture series to be given by: J. Brundan, S. Fomin, I. Gordon, B. Leclerc, A. Ram, C. Ringel"
+speakers = "J. Brundan, S. Fomin, I. Gordon, B. Leclerc, A. Ram, C. Ringel"
 +++

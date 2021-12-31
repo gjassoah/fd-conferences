@@ -6,6 +6,6 @@ dates = "April 23 - 27, 2012"
 dateadded = 2011-06-05
 location = "Université de Nantes, France"
 webpage = "http://www.math.sciences.univ-nantes.fr/~Foncteur2012/"
-organisers = "Antoine Touzé, Vincent Franjou and Lionel Schwartz"
+organisers = "Antoine Touzé, Vincent Franjou, Lionel Schwartz"
 speakers = "Aurélien Djament, Roman Mikhailov, Wilberd van der Kallen"
 +++

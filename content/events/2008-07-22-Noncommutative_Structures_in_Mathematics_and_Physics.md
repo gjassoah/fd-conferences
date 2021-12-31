@@ -7,5 +7,5 @@ dateadded = 2007-11-01
 location = "Brussels, Belgium"
 webpage = "http://dwispc8.vub.ac.be/NoMaP/"
 organisers = "Stefaan Caenepeel (Brussels), Juergen Fuchs (Karlstad), Simone Gutt (Brussels), Christoph Schweigert (Hamburg), Alexander Stolin (Gothenburg), Fred Van Oystaeyen (Antwerp)"
-speakers = "J.E. Andersen, G. Boehm, C. De Concini, K. Fredenhagen, M. Kapranov, E. Karolinsky, C. Kassel, M. Khovanov, G. Landi, Yu. Manin, M. Markl, H.-J. Schneider, M. Van den Bergh, S. Waldmann"
+speakers = "J.E. Andersen, G. Böhm, C. De Concini, K. Fredenhagen, M. Kapranov, E. Karolinsky, C. Kassel, M. Khovanov, G. Landi, Yu. Manin, M. Markl, H.-J. Schneider, M. Van den Bergh, S. Waldmann"
 +++

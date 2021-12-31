@@ -7,5 +7,4 @@ dateadded = 2014-09-08
 location = "TU Kaiserslautern, Kaiserslautern, Germany"
 webpage = "http://www.mathematik.uni-kl.de/~malle/Darst14/darst14.html"
 organisers = "Susanne Danz, Gunter Malle, Britta Späth"
-speakers = "TBA"
 +++

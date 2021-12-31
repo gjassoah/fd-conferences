@@ -7,5 +7,5 @@ dateadded = 2014-04-14
 location = "Stefan Banach International Mathematical Center in Warsaw, Poland"
 webpage = "http://bcc.impan.pl/14TriangCat/"
 organisers = "Agnieszka Bodzenta, Adrian Langer"
-speakers = "Arend Bayer, Stanisław Betley (TBC), Agnieszka Bodzenta, Alexey Bondal, Marcin Chałupnik, Andreas Krug, Adrian Langer, David Ploog, Andrzej Weber, Maciej Zdanowicz"
+speakers = "Arend Bayer, Stanisław Betley*, Agnieszka Bodzenta, Alexey Bondal, Marcin Chałupnik, Andreas Krug, Adrian Langer, David Ploog, Andrzej Weber, Maciej Zdanowicz"
 +++

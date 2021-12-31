@@ -1,5 +1,5 @@
 +++
-title = "DAAD “Alumni fuer Alumni”: Workshop on algebras and representation theory"
+title = "DAAD “Alumni für Alumni”: Workshop on algebras and representation theory"
 date = 2012-10-27
 enddate = 2012-10-28
 dates = "October 27 - 28, 2012"

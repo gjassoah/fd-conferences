@@ -7,5 +7,5 @@ dateadded = 2018-01-23
 location = "University of Manchester, U.K."
 webpage = "http://www.maths.manchester.ac.uk/~mprest/puninskiconf.html"
 organisers = "Ivo Herzog, Alex Martsinkovsky, Mike Prest, Philipp Rothmaler"
-speakers = "Alberto Facchini; Grigory Garkusha; Lorna Gregory;  Ivo Herzog; Rosanna Laking; Sonia L'Innocente; Alex Martsinkovsky; Mike Prest; Pavel Příhoda; Philipp Rothmaler; Jan Šťovíček; Jan Trlifaj"
+speakers = "Alberto Facchini, Grigory Garkusha, Lorna Gregory,  Ivo Herzog, Rosanna Laking, Sonia L'Innocente, Alex Martsinkovsky, Mike Prest, Pavel Příhoda, Philipp Rothmaler, Jan Šťovíček, Jan Trlifaj"
 +++

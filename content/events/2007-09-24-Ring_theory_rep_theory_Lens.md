@@ -7,5 +7,5 @@ dateadded = 1999-01-01
 location = "Lens, France"
 webpage = "http://users.skynet.be/sky83817/Colloque%20english.html#Inscriptions"
 organisers = "A. Leroy, A. Zimmermann"
-speakers = "Jacques ALEV, Roland BERGER, Ann DOOMS, François DUMAS, Thorsten HOLM, Eric JESPERS, Stéphane LAUNOIS, Lieven LEBRUYN, Cedric LECOUVEY, Jan KREMPA, Jerzy MATCZUK, Christian OHN, Jan OKNINSKI, Edmund PUCZYLOWSKI, Markus REINEKE, Lionel RICHARD, Laurent RIGAL, Karine SORLIN, Rachel TAILLEFER"
+speakers = "Jacques ALEV, Roland BERGER, Ann DOOMS, François DUMAS, Thorsten HOLM, Eric JESPERS, Stéphane LAUNOIS, Lieven LEBRUYN, Cedric LECOUVEY, Jan KREMPA, Jerzy MATCZUK, Christian OHN, Jan OKNIŃSKI, Edmund PUCZYŁOWSKI, Markus REINEKE, Lionel RICHARD, Laurent RIGAL, Karine SORLIN, Rachel TAILLEFER"
 +++

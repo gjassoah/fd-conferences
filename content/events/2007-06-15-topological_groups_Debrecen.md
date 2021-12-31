@@ -6,5 +6,5 @@ dates = "June 15 - 16, 2007"
 dateadded = 1999-01-01
 location = "University of Debrecen, Hungary"
 webpage = "http://www.math.klte.hu/~figula/gtg2007.html"
-organisers = "Peter T. Nagy, Agota Figula, Viktor Bodi"
+organisers = "Peter T. Nagy, Ágota Figula, Viktor Bovdi"
 +++

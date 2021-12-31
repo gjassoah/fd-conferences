@@ -6,5 +6,5 @@ dates = "July 12 - 16, 2010"
 dateadded = 2010-01-23
 location = "TU Berlin, Germany"
 webpage = "http://www3.math.tu-berlin.de/iwota_2010/"
-organisers = "Jussi Behrndt (TU Berlin), Karl-Heinz Foerster (TU Berlin), Carsten Trunk (TU Ilmenau)"
+organisers = "Jussi Behrndt (TU Berlin), Karl-Heinz Förster (TU Berlin), Carsten Trunk (TU Ilmenau)"
 +++

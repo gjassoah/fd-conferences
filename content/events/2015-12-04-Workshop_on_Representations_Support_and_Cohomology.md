@@ -8,5 +8,5 @@ dateadded = 2015-06-10
 location = "Bielefeld University, Germany"
 webpage = "https://www.math.uni-bielefeld.de/birep/meetings/farnsteiner2015/"
 organisers = "Henning Krause, Julian Külshammer"
-speakers = "Paul Balmer (Los Angeles), Stephen Donkin (York), Christopher Drupieski (Chicago), Karin Erdmann (Oxford), Jens Carsten Jantzen (Aarhus), Paul Levy (Lancaster), Julia Pevtsova (Seattle), Gerhard Röhrle (Bochum), Øystein Skartsæterhagen (Trondheim), Oded Yacobi (Sydney)*"
+speakers = "Paul Balmer (Los Angeles), Stephen Donkin (York), Christopher Drupieski (Chicago), Karin Erdmann (Oxford), Jens Carsten Jantzen (Aarhus), Paul Levy (Lancaster), Julia Pevtsova (Seattle), Gerhard Röhrle (Bochum), Øystein Skartsæterhagen (Trondheim), Oded Yacobi* (Sydney)"
 +++

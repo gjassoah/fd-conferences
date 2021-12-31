@@ -8,5 +8,5 @@ dateadded = 2014-02-25
 location = "University of Southern California, Los Angeles, CA, U.S.A."
 webpage = "https://sites.google.com/site/efriedlander70/"
 organisers = "Aravind Asok, Robert Guralnick, Aaron Lauda, Susan Montgomery"
-speakers = "C. Bendel, D. Benson, J. Carlson, C. Haesemeyer, R. Joshua, A. Merkurjev, P.-A. Oestvaer, J. Pevtsova, R. Rouquier, A. Suslin, M. Walker, C. Weibel"
+speakers = "C. Bendel, D. Benson, J. Carlson, C. Haesemeyer, R. Joshua, A. Merkurjev, P.-A. Østvær, J. Pevtsova, R. Rouquier, A. Suslin, M. Walker, C. Weibel"
 +++

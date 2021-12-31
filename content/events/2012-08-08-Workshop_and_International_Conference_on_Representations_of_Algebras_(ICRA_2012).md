@@ -7,5 +7,5 @@ dateadded = 2012-01-21
 location = "University of Bielefeld, Germany"
 webpage = "http://www.math.uni-bielefeld.de/icra2012/"
 organisers = "C. Bessenrodt, R. Farnsteiner, D. Happel, S. Koenig, H. Krause, M. Reineke, J. Schröer"
-speakers = "Workshop: Lidia Angeleri Hügel (Verona), Dave Benson (Aberdeen), Jonathan Brundan (Eugene), Osamu Iyama (Nagoya), Sergey Mozgovoy (Oxford) (to be confirmed), Dmitri Orlov (Moscow); Conference: Sergey Fomin (Ann Arbor), Hiraku Nakajima (Kyoto), Julia Pevtsova (Seattle), Raphaël Rouquier (Los Angeles), Michel van den Bergh (Hasselt)"
+speakers = "Workshop: Lidia Angeleri-Hügel (Verona), Dave Benson (Aberdeen), Jonathan Brundan (Eugene), Osamu Iyama (Nagoya), Sergey Mozgovoy* (Oxford), Dmitri Orlov (Moscow); Conference: Sergey Fomin (Ann Arbor), Hiraku Nakajima (Kyoto), Julia Pevtsova (Seattle), Raphaël Rouquier (Los Angeles), Michel van den Bergh (Hasselt)"
 +++

@@ -6,6 +6,6 @@ dates = "June 4 - 7, 2018"
 dateadded = 2018-05-24
 location = "Leicester, U.K."
 webpage = "https://sites.google.com/view/lmsmrm2018/"
-organisers = "Frank Neumann and Sibylle Schroll"
+organisers = "Frank Neumann, Sibylle Schroll"
 speakers = "Fabrizio Catanese (Bayreuth), Anna Felikson (Durham), Paola Frediani (Pavia), Benoit Fresse (Lille), Christian Gleissner (Bayreuth), Pierre Guillot (Strasbourg), Gareth Jones (Southampton), Minhyong Kim (Oxford), Bernhard Koeck (Southampton), Michael Lönne (Bayreuth), Goran Malic (Manchester), Marta Mazzocco (Birmingham), Roberto Pignatelli (Trento), Mohammed Saïdi (Exeter), Leila Schneps (Paris), Richard Webb (Cambridge)"
 +++

@@ -7,5 +7,5 @@ dateadded = 2019-04-17
 location = "Tours, France"
 webpage = "https://indico.math.cnrs.fr/event/4597/"
 organisers = "Vincent Beck, Jeremie Guilhot, Cédric Lecouvey"
-speakers = "Gerhard Hiss (RWTH Aachen University), Stephane Launois (University de Kent), Sinead Lyle (University of East Anglia), Laurent Rigal (Université Paris 13), Sibylle Schroll (University of Leicester), Bea Schumann (University of Cologne)"
+speakers = "Gerhard Hiss (RWTH Aachen University), Stéphane Launois (University de Kent), Sinead Lyle (University of East Anglia), Laurent Rigal (Université Paris 13), Sibylle Schroll (University of Leicester), Bea Schumann (University of Cologne)"
 +++

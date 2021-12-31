@@ -7,5 +7,5 @@ dateadded = 2008-04-24
 location = "University of Birmingham, Birmingham, U.K."
 webpage = "http://web.mat.bham.ac.uk/S.M.Goodwin/shortcourse"
 organisers = "S. Goodwin"
-speakers = "M. Geck (Aberdeen), J. Humphreys (Massachusetts), G. Roehrle (Bochum)"
+speakers = "M. Geck (Aberdeen), J. Humphreys (Massachusetts), G. Röhrle (Bochum)"
 +++

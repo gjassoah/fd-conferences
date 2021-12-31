@@ -1,6 +1,6 @@
 +++
 title = "The Third Symposium on Groups, Algebras and Related Topics"
-note = "celebrating the 50th anniversary of the Journal of Algebra."
+note = "celebrating the 50th anniversary of the Journal of Algebra"
 date = 2013-06-10
 enddate = 2013-06-16
 dates = "June 10 - 16, 2013"

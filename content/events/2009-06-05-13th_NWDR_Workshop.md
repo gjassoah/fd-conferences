@@ -7,5 +7,5 @@ dateadded = 2008-12-14
 location = "University of Kiel, Germany"
 webpage = "http://www.math.uni-kiel.de/algebra/NWDR13/nwdr13.html"
 organisers = "J.-M. Bois, R. Farnsteiner"
-speakers = "G. Bobinski (Torun/Bielefeld), E. Dan-Cohen (Houston/Bremen),, S. Doty (Chicago/Kiel), K. Erdmann (Oxford), S. König (Cologne),, D. Pucinskaite (Bielefeld), G. Zhou (Cologne)"
+speakers = "G. Bobiński (Toruń/Bielefeld), E. Dan-Cohen (Houston/Bremen),, S. Doty (Chicago/Kiel), K. Erdmann (Oxford), S. Koenig (Cologne), D. Pucinskaite (Bielefeld), G. Zhou (Cologne)"
 +++

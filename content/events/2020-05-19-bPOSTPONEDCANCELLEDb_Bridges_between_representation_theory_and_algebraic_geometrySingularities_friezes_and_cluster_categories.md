@@ -1,6 +1,6 @@
 +++
 title = "Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories"
-warning = "POSTPONED/CANCELLED"
+warning = "POSTPONED"
 date = 2020-05-19
 enddate = 2020-05-22
 dates = "May 19 - 22, 2020"

@@ -6,6 +6,6 @@ dates = "February 10, 2014"
 dateadded = 2013-11-04
 location = "Ruhr-University Bochum, Bochum, Germany"
 webpage = "http://www.ruhr-uni-bochum.de/ffm/Lehrstuehle/Lehrstuhl-VI/arrangements14.html"
-organisers = "T. Hoge, M. Cuntz, G Roehrle"
+organisers = "T. Hoge, M. Cuntz, G. Röhrle"
 speakers = "T. Abe (Kyoto University), N. Amend (Ruhr-University Bochum), D. Garber (Holon Institute of Technology), N. Nakashima (Hokkaido University), V. Ripoll (University of Vienna), C. Stump (FU Berlin), D. Suyama (Hokkaido University), H. Terao (Hokkaido University), M. Yoshinaga (Hokkaido University)"
 +++

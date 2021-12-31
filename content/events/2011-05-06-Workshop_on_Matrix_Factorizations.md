@@ -7,5 +7,5 @@ dateadded = 2011-02-19
 location = "University of Bielefeld, Germany"
 webpage = "http://www.math.uni-bielefeld.de/birep/meetings/wmf2011/"
 organisers = "Jesse Burke (Bielefeld), Henning Krause (Bielefeld)"
-speakers = "Ragnar Buchweitz (Toronto), Igor Burban (Bonn), Nils Carqueville (München),, Wolfgang Ebeling (Hannover), Alexander Efimov (Steklov Institute), David Favero (Wien), Osamu Iyama (Nagoya), Dirk Kussin (Paderborn), Helmut Lenzing (Paderborn), Daniel Murfet (UC Los Angeles), David Ploog (Hannover), Ian Shipman (Chicago), Atsushi Takahashi (Osaka), Michael Wemyss (Oxford)"
+speakers = "Ragnar Buchweitz (Toronto), Igor Burban (Bonn), Nils Carqueville (München), Wolfgang Ebeling (Hannover), Alexander Efimov (Steklov Institute), David Favero (Wien), Osamu Iyama (Nagoya), Dirk Kussin (Paderborn), Helmut Lenzing (Paderborn), Daniel Murfet (UC Los Angeles), David Ploog (Hannover), Ian Shipman (Chicago), Atsushi Takahashi (Osaka), Michael Wemyss (Oxford)"
 +++
