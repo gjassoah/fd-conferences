@@ -7,5 +7,5 @@ dateadded = 2011-05-01
 location = "University of Stuttgart, Germany"
 webpage = "http://www.iaz.uni-stuttgart.de/LstAGeoAlg/activities/t-work.t"
 organisers = "Steffen Koenig, Matthias Künzer, Qunhua Liu, Jorge Vitória"
-speakers = "Leovigildo Alonso-Tarrío, Lidia Angeleri-Hügel, Mikhail Bondarko, Qunhua Liu, Fernando Muro, Pedro Nicolás, David Pauksztello, Manuel Saorín, Olaf Schnürer, Jan Šťovíček, Adam-Christiaan Van Roosmalen, Jorge Vitória, Jörg Wildeshaus"
+speakers = "Leovigildo Alonso-Tarrío, Lidia Angeleri Hügel, Mikhail Bondarko, Qunhua Liu, Fernando Muro, Pedro Nicolás, David Pauksztello, Manuel Saorín, Olaf Schnürer, Jan Šťovíček, Adam-Christiaan Van Roosmalen, Jorge Vitória, Jörg Wildeshaus"
 +++

@@ -7,5 +7,5 @@ dateadded = 1999-01-01
 location = "Prague, Czechia"
 webpage = "http://adela.karlin.mff.cuni.cz/katedry/ka/sta03.htm"
 organisers = "Tomáš Kepka, Petr Němec, Jan Trlifaj, Jan Žemlička"
-speakers = "Lidia Angeleri-Hügel, Silvana Bazzoni, Paul C. Eklof, Kent Fuller, Rüdiger Göbel, Dolors Herbera, Daniel Simson"
+speakers = "Lidia Angeleri Hügel, Silvana Bazzoni, Paul C. Eklof, Kent Fuller, Rüdiger Göbel, Dolors Herbera, Daniel Simson"
 +++

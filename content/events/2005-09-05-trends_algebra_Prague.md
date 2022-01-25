@@ -7,5 +7,5 @@ dateadded = 1999-01-01
 location = "Czech Agricultural University, Prague, Czech Republic"
 webpage = "http://www.karlin.mff.cuni.cz/katedry/ka/sta05.htm"
 organisers = "Tomáš Kepka, Petr Němec, Jan Trlifaj, Jan Žemlička"
-speakers = "Lidia Angeleri-Hügel (Univ. Varese), Edgar E. Enochs (Univ. of Kentucky), Enrico Gregorio (Univ. Verona), Jan Šťovíček (Charles Univ. Prague)"
+speakers = "Lidia Angeleri Hügel (Univ. Varese), Edgar E. Enochs (Univ. of Kentucky), Enrico Gregorio (Univ. Verona), Jan Šťovíček (Charles Univ. Prague)"
 +++
