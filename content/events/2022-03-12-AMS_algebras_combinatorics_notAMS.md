@@ -1,5 +1,6 @@
 +++
 title = "Representations of Algebras and Related Combinatorics"
+note = "formerly known as Special Session 24A of the AMS meeting in Charlottesville"
 date = 2022-03-11
 enddate = 2022-03-13
 dates = "March 12 - 13, 2022"
