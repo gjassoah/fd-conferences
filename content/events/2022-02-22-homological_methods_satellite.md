@@ -7,5 +7,5 @@ dateadded = 2021-11-10
 location = "Online"
 webpage = "https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/hmrt/hmrt-satellite.html"
 organisers = "Steffen Koenig, Frederik Marks, Francesca Mantese, Jorge Vitória"
-speakers = "Flávio Coelho, Alberto Facchini, Birge Huisgen-Zimmermann, Gustavo Jasso*, Tsutomu Nakamura, Javier Sánchez, Simone Virili"
+speakers = "Flávio Coelho, Alberto Facchini, Birge Huisgen-Zimmermann, Tsutomu Nakamura, Javier Sánchez, Simone Virili"
 +++
