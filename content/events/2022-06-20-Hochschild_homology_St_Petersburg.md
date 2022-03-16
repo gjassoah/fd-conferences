@@ -1,5 +1,6 @@
 +++
 title = "ICM 2022 Satellite Conference: Hochschild (co)homology and derived categories"
+warning = "CANCELLED"
 date = 2022-06-20
 enddate = 2022-06-24
 dates = "June 20 - 24, 2022"
