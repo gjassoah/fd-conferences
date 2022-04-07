@@ -1,6 +1,6 @@
 +++
 title = "Purity, Approximation Theory and Spectra"
-warning = "POSTPONED/CANCELLED" 
+warning = "CANCELLED" 
 date = 2020-05-18
 enddate = 2020-05-22
 dates = "May 18 - 22, 2020"

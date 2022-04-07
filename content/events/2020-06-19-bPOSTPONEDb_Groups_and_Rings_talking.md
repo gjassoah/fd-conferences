@@ -1,6 +1,6 @@
 +++
 title = "Groups and Rings talking"
-warning = "POSTPONED" 
+warning = "CANCELLED" 
 note = "Conference in Honor of Ángel del Río's 60th Birthday"
 date = 2020-06-19
 enddate = 2020-06-20
