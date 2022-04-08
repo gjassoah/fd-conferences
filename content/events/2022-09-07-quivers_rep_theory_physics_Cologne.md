@@ -6,6 +6,6 @@ dates = "September 7 - 9, 2022"
 dateadded = 2022-03-24
 location = "University of Cologne, Germany"
 webpage = "https://sites.google.com/view/quivers-in-physics"
-organisers = "Severin Barmeier (Cologne), Daniel Labardini-Fragoso (Cologne/UNAM), Peter Littelmann (Cologne), Lang Mou (Cambridge), Sibylle Schroll (Cologne/NTNU)"
+organisers = "Severin Barmeier (Cologne), Daniel Labardini-Fragoso (Cologne / UNAM), Peter Littelmann (Cologne), Lang Mou (Cambridge), Sibylle Schroll (Cologne / NTNU)"
 speakers = "Asilata Bapat (Australian National University), Fabian Haiden (Syddansk Universitet), Amihay Hanany (Imperial College London), Koushik Ray (Indian Association for the Cultivation of Science), Markus Reineke (Bochum), Katrin Wendland (Trinity College Dublin)"
 +++
