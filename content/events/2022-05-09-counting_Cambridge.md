@@ -7,5 +7,5 @@ dateadded = 2022-01-03
 location = "Isaac Newton Institute, Cambridge, U.K."
 webpage = "https://www.newton.ac.uk/event/gr2w01/"
 organisers = "Gabriel Navarro, Britta Späth, Carolina Vallejo"
-speakers = "Michel Broué, Olivier Dudas, Charles Eaton, Meinolf Geck, Eugenio Giannelli, Robert Guralnick, Radha Kessar, Alexander Kleshchev, Caroline Laser, Stacey Law, Michael Livesy, George Lusztig, Noelia Rizo, Geoffrey Robinson, Raphaël Rouquier, Lucas Ruhstorfer, Benjamin Sambale, Mandi Schaeffer Fry, Jay Taylor, Donna Testerman, Ulrich Thiel, Pham Tiep"
+speakers = "Michel Broué, Olivier Dudas, Charles Eaton, Niamh Farrell, Eugenio Giannelli, Jesper Grodal, Thomas Keller, Radha Kessar, Alexander Kleshchev, Caroline Lassueur, Stacey Law, Michael Livesy, George Lusztig, Alexander Moretó, Noelia Rizo, Geoffrey Robinson, Damiano Rossi, Raphaël Rouquier, Lucas Ruhstorfer, Benjamin Sambale, Mandi Schaeffer Fry, Jason Semeraro, Britta Späth, Jay Taylor, Donna Testerman, Pham Huu Tiep"
 +++

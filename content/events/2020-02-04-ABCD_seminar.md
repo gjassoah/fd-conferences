@@ -7,5 +7,5 @@ dateadded = 2020-01-23
 location = "University of Cologne, Germany"
 webpage = "http://www.mi.uni-koeln.de/~xfang/ABCD2020.html"
 organisers = "Peter Littelmann, Xin Fang"
-speakers = "Fabian Korthauer (Bochum), Sara Lamboglia (Frankfurt), Verity Mackscheidt (Aachen), Elizabeth Milićević; (Haverford), Elizaveta Vishnyakova (Cologne)"
+speakers = "Fabian Korthauer (Bochum), Sara Lamboglia (Frankfurt), Verity Mackscheidt (Aachen), Elizabeth Milićević (Haverford), Elizaveta Vishnyakova (Cologne)"
 +++
