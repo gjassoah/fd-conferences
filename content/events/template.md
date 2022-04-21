@@ -1,5 +1,5 @@
 +++
-title = "Online Workshop on Higher Dimensional Homological Algebra"
+title = ""
 date = 1999-01-01
 enddate = 1999-01-01
 dates = ""
