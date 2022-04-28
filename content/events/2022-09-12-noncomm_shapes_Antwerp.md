@@ -1,6 +1,6 @@
 +++
 title = "Noncommutative Shapes"
-note = "A conference in honour of Michel Van den Bergh"
+note = "in honour of Michel Van den Bergh"
 date = 2022-09-12
 enddate = 2022-09-16
 dates = "September 12 - 16, 2022"
