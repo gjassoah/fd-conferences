@@ -1,5 +1,5 @@
 +++
-title = "Silting Theory, Algebras ands Representations"
+title = "Silting Theory, Algebras and Representations"
 date = 2022-09-12
 enddate = 2022-09-16
 dates = "September 12 - 16, 2022"
