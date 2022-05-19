@@ -7,5 +7,5 @@ dateadded = 2022-04-04
 location = "Institut Fourier, Grenoble, France"
 webpage = "https://gdr-tlag2022.sciencesconf.org/"
 organisers = "Claire Amiot"
-speakers = "Pierre Baumann (Strasbourg), Karin Baur (Leeds), Thibaut Delcroix (Montpellier), Sophie Morier-Genoud (Reims), Baptiste Rognerud (Paris), Catharina Stroppel* (Bonn), Egor Yassinsky (Paris), Susanna Zimmermann (Angers), Alexandra Zvonareva (Stuttgart)"
+speakers = "Pierre Baumann (Strasbourg), Karin Baur (Leeds), Thibaut Delcroix (Montpellier), Sophie Morier-Genoud (Reims), Baptiste Rognerud (Paris), Egor Yassinsky (Paris), Susanna Zimmermann (Angers), Alexandra Zvonareva (Stuttgart)"
 +++
