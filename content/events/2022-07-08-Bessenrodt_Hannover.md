@@ -7,5 +7,5 @@ dateadded = 2022-05-06
 location = "Universität Hannover, Germany"
 webpage = "https://www.iazd.uni-hannover.de/de/aktivitaeten/gedenkkolloquium-fuer-christine-bessenrodt/"
 organisers = "Chris Bowman, Michael Cuntz, Ulrich Derenthal, Thorsten Holm, Lucia Morotti, Benjamin Sambale"
-speakers = "Chris Bowman (University of York), Haralampos Geranios (University of York), Eugenio Giannelli (University of Florence), Sinead Lyle (University of East Anglia), Jørn Olsson (University of Copenhagen), Mark Wildon (Royal Holloway University London)"
+speakers = "Chris Bowman (University of York), Haralampos Geranios (University of York), Stacey Law (Emmanuel College, Cambridge), Sinead Lyle (University of East Anglia), Jørn Olsson (University of Copenhagen), Mark Wildon (Royal Holloway University London)"
 +++
