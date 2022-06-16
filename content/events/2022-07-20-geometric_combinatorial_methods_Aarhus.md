@@ -7,5 +7,5 @@ dateadded = 2022-04-04
 location = "Aarhus University, Denmark"
 webpage = "https://conferences.au.dk/homologicalalgebra2022"
 organisers = "Jenny August, Esther Banaian, Raphael Bennett-Tennenhaus, Karin Jacobsen, Peter Jørgensen, Carlo Klapproth, Anders Kortegaard, Amit Shah"
-speakers = "Okke van Garderen (MPI), Johanne Haugland (NTNU), Gustavo Jasso (Lund), Maitreyee Kulkarni (Bonn), Daniel Labardini-Fragoso (UNAM), Janina C. Letz (Bielefeld), Bethany Marsh (Leeds), David Paukzstello (Lancaster), Pierre-Guy Plamondon (UVSQ), Matthew Pressland (Glasgow), Julia Sauter (Bielefeld), Sibylle Schroll (Köln), Hipolito Treffinger (Paris), Emine Yıldırım (Cambridge)"
+speakers = "İlke Çanakçı (VU Amsterdam), Okke van Garderen (MPI), Johanne Haugland (NTNU), Gustavo Jasso (Lund), Maitreyee Kulkarni (Bonn), Daniel Labardini-Fragoso (UNAM), Janina C. Letz (Bielefeld), Bethany Marsh (Leeds), David Paukzstello (Lancaster), Pierre-Guy Plamondon (UVSQ), Matthew Pressland (Glasgow), Julia Sauter (Bielefeld), Sibylle Schroll (Köln), Hipolito Treffinger (Paris), Emine Yıldırım (Cambridge)"
 +++
