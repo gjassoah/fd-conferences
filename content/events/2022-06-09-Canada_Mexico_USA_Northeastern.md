@@ -1,7 +1,7 @@
 +++
 title = "4th Canada–Mexico–USA Conference in Representation Theory, Noncommutative Algebra, and Categorification"
 date = 2022-06-09
-enddate = 2022-09-12
+enddate = 2022-06-12
 dates = "June 9 - 12, 2022"
 dateadded = 2022-05-01
 location = "Northeastern University, Boston, U.S.A."
