@@ -7,5 +7,5 @@ dateadded = 2022-03-23
 location = "UQÁM, Montreal, Canada"
 webpage = "https://repmutationschool.wixsite.com/website"
 organisers = "Thomas Brüstle, Kaveh Mousavand, Charles Paquette"
-speakers = "Lidia Angeleri Hügel, Sota Asai, Hugh Thomas; Calin Chindris, Nathan Reading, Gordana Todorov"
+speakers = "Lidia Angeleri Hügel, Sota Asai, Hugh Thomas; Calin Chindris, Nathan Reading, Ralf Schiffler, Hipólito Treffinger"
 +++
