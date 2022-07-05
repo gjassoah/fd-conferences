@@ -1,5 +1,6 @@
 +++
 title = "Workshop on Singularities and Mirror Symmetry"
+warning = "POSTPONED"
 date = 2022-08-23
 enddate = 2022-08-25
 dates = "August 23 - 25, 2022"
