@@ -1,12 +1,11 @@
 +++
 title = "Workshop on Singularities and Mirror Symmetry"
-warning = "POSTPONED"
-date = 2022-08-23
-enddate = 2022-08-25
-dates = "August 23 - 25, 2022"
-dateadded = 2022-05-06
+date = 2022-12-05
+enddate = 2022-12-07
+dates = "December 5 - 7, 2022"
+dateadded = 2022-07-25
 location = "University of Glasgow, U.K."
 webpage = "https://sites.google.com/view/singularities-mirrors/home"
 organisers = "Wahei Hara, Franco Rota, Michael Wemyss"
-speakers = "Agnieszka Bodzenta (Warsaw), Ben Davison (Edinburgh), Jonny Evans (Lancaster), Eleonore Faber* (Leeds), Søren Gammelgård (Oxford), Martin Kalck (Freiburg), Yankı Lekili (Imperial College), Ben Wormleighton (Washington U. St. Louis), Fei Xie (Edinburgh)"
+speakers = "Agnieszka Bodzenta (Warsaw), Ben Davison (Edinburgh), Eleonore Faber (Leeds), Søren Gammelgård (Oxford), Martin Kalck (Freiburg), Tyler Kelly (Birmingham), Yankı Lekili* (Imperial College), Evgeny Shinder (Sheffield), Fei Xie (Edinburgh)"
 +++
