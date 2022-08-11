@@ -1,7 +1,7 @@
 +++
 title = "Summer school and workshop: Representation theory and flag or quiver varieties"
 date = 2022-06-13
-enddate = 2022-08-17
+enddate = 2022-06-17
 dates = "June 13 - 17 and 20 - 22, 2022"
 dateadded = 2021-11-27
 location = "Université Paris Diderot, France"
