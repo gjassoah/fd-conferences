@@ -1,5 +1,5 @@
 +++
-title = "Categories, clusters and completions"
+title = "Masterclass: Categories, clusters and completions"
 date = 2023-03-22
 enddate = 2023-03-24
 dates = "March 22 - 24, 2023"
