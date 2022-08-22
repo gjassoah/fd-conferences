@@ -7,5 +7,5 @@ dateadded = 2022-05-22
 location = "ULB Brussels, Belgium"
 webpage = "https://hopfalgb.ulb.be/ANTIPODE2/"
 organisers = "Michele D'Adderio, Paolo Saracco, Joost Vercruysse"
-speakers = "Alessandro D'Andrea (Rome), Ganna Kudryavtseva (Ljubljana), Martina Lanini (Rome), Johan Öinert (Karlskrona), Juan Jacobo Simón Pinero (Murcia)"
+speakers = "Alessandro D'Andrea (Rome), Ganna Kudryavtseva (Ljubljana), Martina Lanini (Rome), Johan Öinert (Karlskrona)"
 +++
