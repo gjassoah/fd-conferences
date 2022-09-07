@@ -7,5 +7,5 @@ dateadded = 2022-04-14
 location = "University of Freiburg, Germany"
 webpage = "https://sites.google.com/view/deformation-theory-freiburg"
 organisers = "Severin Barmeier, Jonas Schnitzer"
-speakers = "Andreas Kraft, Jon Pridham"
+speakers = "Mini-courses: Severin Barmeier, Jon Pridham, Jonas Schnitzer; Talks: Ryan Aziz, Tiago Cruz, Marvin Dippell, Jiaqi Fu, Wouter Rienks, Philipp Schmitt, Karandeep Singh"
 +++
