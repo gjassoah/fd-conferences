@@ -7,5 +7,5 @@ dateadded = 2022-08-11
 location = "Aarhus Universitet, Denmark"
 webpage = "https://conferences.au.dk/categoriesclusterscompletions2023"
 organisers = "Charley Cummings, Sira Gratz"
-speakers = "Henning Krause, Xiuping Su"
+speakers = "Henning Krause, Amnon Neeman, Xiuping Su"
 +++

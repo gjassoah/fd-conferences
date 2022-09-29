@@ -6,5 +6,5 @@ dates = ""
 dateadded = 2022-07-19
 location = ""
 organisers = ""
-committee = ""
+speakers = ""
 +++
