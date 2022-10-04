@@ -1,5 +1,5 @@
 +++
-title = "Special Session on Representation Theory Algebras"
+title = "Special Session on Representation Theory of Algebras"
 note = "Part of the Winter Canadian Mathematical Society Meeting 2022"
 date = 2022-12-02
 enddate = 2022-12-05
