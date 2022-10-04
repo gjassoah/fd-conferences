@@ -7,5 +7,5 @@ dateadded = 2022-09-07
 location = "Woods Hole Oceanographic Institute, Woods Hole, MA, U.S.A."
 webpage = "http://www.northeastern.edu/martsinkovsky/p/MADL/MADL.html"
 organisers = "Kiyoshi Igusa, Alex Martsinkovsky, Gordana Todorov, Milen Yakimov"
-speakers = "Eric Friedlander; Frauke Bleher, María Julia Redondo"
+speakers = "Eric Friedlander; Frauke Bleher, Ralph Kaufmann, María Julia Redondo"
 +++
