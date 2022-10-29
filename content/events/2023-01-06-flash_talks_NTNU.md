@@ -7,5 +7,5 @@ dateadded = 2022-02-08
 location = "Online / NTNU, Norway"
 webpage = "https://wiki.math.ntnu.no/flashtalks/2023"
 organisers = "Johanne Haugland, Karin M. Jacobsen, Sibylle Schroll"
-speakers = "Osamu Iyama (University of Tokyo), Peter Jørgensen (Aarhus University), Bethany Marsh (University of Leeds), María Julia Redondo (Universidad Nacional del Sur)"
+speakers = "Véronique Bazier-Matte (Laval), Petter A. Bergh (NTNU), Xiao-Wu Chen (USTC), Mandy Cheung (Kavli IPMU), Charley Cummings (Aarhus), Drew Duffield (Durham), Francesca Fedele (Leeds), Lorna Gregory (East Anglia), Eric Hanson (Sherbrooke), Osamu Iyama (Tokyo), Peter Jørgensen (Aarhus), Julian Külshammer (Uppsala), Bethany Marsh (Leeds), Van Nguyen (USNA), Pierre-Guy Plamondon (Versailles), María Julia Redondo (Bahía Blanca)"
 +++
