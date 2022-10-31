@@ -1,6 +1,6 @@
 +++
 title = "Quivers, Clusters, Moduli and Stability"
-note = "celebrating the 60th birthday of Alastair King"
+note = "Celebrating the 60th birthday of Alastair King"
 date = 2023-01-09
 enddate = 2023-01-13
 dates = "January 9 - 13, 2023"
