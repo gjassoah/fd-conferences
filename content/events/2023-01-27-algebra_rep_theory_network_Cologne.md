@@ -7,5 +7,5 @@ dateadded = 2022-11-03
 location = "University of Cologne, Germany"
 webpage = "https://sites.google.com/view/rep-theory-in-germany/home"
 organisers = "Henning Krause, Sibylle Schroll, Catharina Stroppel"
-speakers = "Magdalena Boos (Bochum), Igor Burban (Paderborn), Bea de Laporte (Köln), Steffen König (Stuttgart), Ulrich Thiel (Kaiserslautern)"
+speakers = "Magdalena Boos (Bochum), Igor Burban (Paderborn), Bea de Laporte (Köln), Steffen Koenig (Stuttgart), Ulrich Thiel (Kaiserslautern)"
 +++
