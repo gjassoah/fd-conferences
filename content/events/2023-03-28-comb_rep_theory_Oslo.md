@@ -1,5 +1,5 @@
 +++
-title = Combinatorial aspects of representation theory""
+title = "Combinatorial aspects of representation theory"
 date = 2023-03-28
 enddate = 2023-03-31
 dates = "28 - 31 March, 2023"
