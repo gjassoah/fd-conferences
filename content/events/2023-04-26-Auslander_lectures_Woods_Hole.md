@@ -7,5 +7,5 @@ dateadded = 2023-01-16
 location = "Woods Hole Oceanographic Institute, Woods Hole, MA, U.S.A."
 webpage = "https://web.northeastern.edu/martsinkovsky/p/MADL/MADL.html"
 organisers = "Kiyoshi Igusa, Alex Martsinkovsky, Gordana Todorov, Milen Yakimov"
-speakers = "Srikanth Iyengar (Salt Lake City)"
+speakers = "Srikanth Iyengar (Salt Lake City, UT); Ivo Herzog (Lima, OH), Bernhard Keller (Paris), Dan Nakano (Athens, GA)"
 +++
