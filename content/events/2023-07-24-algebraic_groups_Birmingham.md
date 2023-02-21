@@ -1,5 +1,5 @@
 +++
-title = "LMS Research School - Algebraic Groups and Their Representations"
+title = "LMS Research School – Algebraic Groups and Their Representations"
 date = 2023-07-24
 enddate = 2023-07-28
 dates = "July 24 - 28, 2023"
