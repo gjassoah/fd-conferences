@@ -7,5 +7,5 @@ dateadded = 2023-02-27
 location = "University of Kent, Canterbury, U.K."
 webpage = "https://kx-web.kent.ac.uk/KxRegistration/repnetapril"
 organisers = "Emily Norton"
-speakers = "Maud De Visscher (City, University of London), Melissa Sherman-Bennett (MIT), Hipolito Treffinger (Paris VII), Paul Wedrich (University of Hamburg)"
+speakers = "Maud De Visscher (City, University of London), Melissa Sherman-Bennett (MIT), Hipólito Treffinger (Paris VII), Paul Wedrich (University of Hamburg)"
 +++
