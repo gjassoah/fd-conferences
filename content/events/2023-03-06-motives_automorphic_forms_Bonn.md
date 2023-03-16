@@ -1,6 +1,6 @@
 +++
 title = "Conference on Motives and Automorphic Forms"
-note = "in honour of Günter Harder's 85th birthday"
+note = "in honour of Günter Harder’s 85th birthday"
 date = 2023-03-06
 enddate = 2023-03-10
 dates = "March 6 - 10, 2023"
