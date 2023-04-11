@@ -6,6 +6,10 @@ html, body {
     font-family: 'Roboto', 'Open Sans', sans-serif;
 }
 
+.bolded {
+    font-weight: bold;
+}
+
 .event {
     margin-bottom: 1.3em;
 }

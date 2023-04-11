@@ -52,7 +52,7 @@
     <div class="committee">{{ .Params.committee }}</div>
     {{ end }}
     {{ if .Params.special_speakers }}
-    <div class="special_speakers">{{ .Params.special_speakers }}</div>
+    <div class="special_speakers"><span class="bolded">{{ .Params.special_talks }}: </span>{{ .Params.special_speakers }}</div>
     {{ end }}
     {{ if .Params.speakers }}
     <div class="speakers">{{ .Params.Speakers }}</div>
