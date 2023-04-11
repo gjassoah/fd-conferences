@@ -9,5 +9,5 @@ webpage = "https://web.northeastern.edu/martsinkovsky/p/MADL/MADL.html"
 organisers = "Kiyoshi Igusa, Alex Martsinkovsky, Gordana Todorov, Milen Yakimov"
 special_talks = "Distinguished Lectures"
 special_speakers = "Srikanth Iyengar (Salt Lake City, UT)"
-speakers = "Ivo Herzog (Lima, OH), Bernhard Keller (Paris), Dan Nakano (Athens, GA)"
+speakers = "Jason Bell (Waterloo, ON), Ivo Herzog (Lima, OH), Bernhard Keller (Paris), Dan Nakano (Athens, GA)"
 +++
