@@ -10,9 +10,6 @@ html, body {
     font-weight: bold;
 }
 
-.test {
-}
-
 .event {
     margin-bottom: 1.3em;
 }
@@ -67,11 +64,6 @@ html, body {
 
 .committee {
     margin-bottom: 0.5em;
-}
-
-.special_speakers::before {
-    font-weight: bold;
-    content: "{{ .Params.special_talks }}: "
 }
 
 .special_speakers {
