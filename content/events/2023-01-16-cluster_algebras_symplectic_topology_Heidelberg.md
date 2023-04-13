@@ -8,5 +8,7 @@ location = "Internationales Wissenschaftsforum Heidelberg, Germany"
 webpage = "https://arnaudmaret.com/cluster/"
 organisers = "Maria Bertozzi, Alexandre Jannaud, Arnaud Maret"
 committee = "Peter Albers, Markus Reineke, Anna Wienhard"
-speakers = "Minicourses: Jenny August (Aarhus University), Jonny Evans (University of Lancaster), Felix Schlenk (Université de Neuchâtel); Research talks: Joé Brendel (Tel Aviv University), Zachary Greenberg (University of Heidelberg), Dani Kaufman (University of Copenhagen), Nicki Magill (Cornell University), Sergey Mozgovoy (Trinity College Dublin)"
+special_talks = "Minicourses"
+special_speakers = "Jenny August (Aarhus University), Jonny Evans (University of Lancaster), Felix Schlenk (Université de Neuchâtel)"
+speakers = "Joé Brendel (Tel Aviv University), Zachary Greenberg (University of Heidelberg), Dani Kaufman (University of Copenhagen), Nicki Magill (Cornell University), Sergey Mozgovoy (Trinity College Dublin)"
 +++
