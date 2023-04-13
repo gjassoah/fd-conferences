@@ -17,6 +17,15 @@
     {{ if .Params.committee }}
     <div class="committee">{{ .Params.committee }}</div>
     {{ end }}
+    {{ if .Params.special_speakers }}
+    <div class="special_speakers">
+    {{ if .Params.special_talks}}
+    <span class="bolded">{{ .Params.special_talks }}: </span>
+    {{ else }}
+    <span class="bolded">Lecture Series: </span>
+    {{ end }}
+    {{ .Params.special_speakers }}</div>
+    {{ end }}
     {{ if .Params.speakers }}
     <div class="speakers">{{ .Params.Speakers }}</div>
     {{ end }}
