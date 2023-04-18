@@ -36,20 +36,20 @@
     <h2 class="title">
 	{{ if le $delta 672 }}<span class="new"></span>{{ end }}
 	{{ if .Params.warning }}<span class="warn" warning="{{ .Params.warning }}"></span>{{ end }}
-    {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ .Title }}</a>
-    {{ else }}{{ .Title }}{{ end }}
+    {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ replace .Title  "'" "’" }}</a>
+    {{ else }}{{ .Title  "'" "’" }}{{ end }}
     </h2>
     {{ if .Params.note }}
-    <div class="note">{{ .Params.note }}</div>
+    <div class="note">{{ replace .Params.note  "'" "’" }}</div>
     {{ end }}
-    {{ if .Params.location }}
-    <div class="location">{{ .Params.location }}, <span class="dates">{{ .Params.dates }} {{if ge .Params.enddate $yesterday }}{{if .Params.schedule }}<a href="{{ .Params.schedule }}">(Schedule)</a>{{ end }}{{ end }}</span></div>
+    {{ if .Params.location  "'" "’" }}
+    <div class="location">{{ replace .Params.location "'" "’"}}, <span class="dates">{{ replace .Params.dates " - " "–" }} {{if ge .Params.enddate $yesterday }}{{if .Params.schedule }}<a href="{{ .Params.schedule }}">(Schedule)</a>{{ end }}{{ end }}</span></div>
     {{ end }}
     {{ if .Params.organisers }}
-    <div class="organisers">{{ .Params.Organisers }}</div>
+    <div class="organisers">{{ replace .Params.Organisers  "'" "’" }}</div>
     {{ end }}
     {{ if .Params.committee }}
-    <div class="committee">{{ .Params.committee }}</div>
+    <div class="committee">{{ replace .Params.committee  "'" "’" }}</div>
     {{ end }}
     {{ if .Params.special_speakers }}
     <div class="special_speakers">
@@ -58,10 +58,10 @@
     {{ else }}
     <span class="bolded">Lecture Series: </span>
     {{ end }}
-    {{ .Params.special_speakers }}</div>
+    {{ replace .Params.special_speakers  "'" "’" }}</div>
     {{ end }}
     {{ if .Params.speakers }}
-    <div class="speakers">{{ .Params.Speakers }}</div>
+    <div class="speakers">{{ replace .Params.Speakers  "'" "’" }}</div>
     {{ end }}
 </div>
 {{ end }}

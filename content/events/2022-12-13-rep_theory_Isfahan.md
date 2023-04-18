@@ -1,6 +1,6 @@
 +++
 title = "The Seventh Isfahan Seminar on Representations of Algebras"
-note = "In memory of our teacher and friend: Helmut Lenzing (16 April 1939 - 13 October 2022)"
+note = "In memory of our teacher and friend: Helmut Lenzing (16 April 1939 – 13 October 2022)"
 date = 2022-12-13
 enddate = 2022-12-15
 dates = "December 13 - 15, 2022"

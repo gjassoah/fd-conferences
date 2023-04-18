@@ -1,5 +1,5 @@
 +++
-title = "ARTA VIII - 2022"
+title = "ARTA VIII – 2022"
 date = 2022-09-19
 enddate = 2022-09-23
 dates = "September 19 - 23, 2022"
