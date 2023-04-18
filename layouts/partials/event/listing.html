@@ -9,7 +9,7 @@
     <div class="note">{{ replace .Params.note "'" "’" }}</div>
     {{ end }}
     {{ if .Params.location }}
-    <div class="location">{{ replace .Params.location "'" "’" }}, <span class="dates">{{ replace .Params.dates "-" "–" }}</span></div>
+    <div class="location">{{ replace .Params.location "'" "’" }}, <span class="dates">{{ replace .Params.dates " - " "–" }}</span></div>
     {{ end }}
     {{ if .Params.organisers }}
     <div class="organisers">{{ replace .Params.Organisers "'" "’" }}</div>
