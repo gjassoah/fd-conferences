@@ -42,7 +42,7 @@
     {{ if .Params.note }}
     <div class="note">{{ replace .Params.note  "'" "’" }}</div>
     {{ end }}
-    {{ if .Params.location  "'" "’" }}
+    {{ if .Params.location }}
     <div class="location">{{ replace .Params.location "'" "’"}}, <span class="dates">{{ replace .Params.dates " - " "–" }} {{if ge .Params.enddate $yesterday }}{{if .Params.schedule }}<a href="{{ .Params.schedule }}">(Schedule)</a>{{ end }}{{ end }}</span></div>
     {{ end }}
     {{ if .Params.organisers }}
