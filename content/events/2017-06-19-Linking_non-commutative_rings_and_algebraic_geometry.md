@@ -6,6 +6,6 @@ dates = "June 19 - 23, 2017"
 dateadded = 2017-03-23
 location = "ICMS, Edinburgh, U.K."
 webpage = "http://www.icms.org.uk/workshop.php?id=425"
-organisers = "Bell Jason, Sierra Susan, Spela Spenko, James Zhang"
+organisers = "Bell Jason, Sierra Susan, Špela Špenko, James Zhang"
 speakers = "Gwyn Bellamy, Raf Bocklandt, Ragnar Buchweitz, Alex Chirvasitu, Eleonore Faber, Joe Karmazyn, Wendy Lowen, Cris Negron, Dmitri Orlov, Alexey Petukhov, Theo Raedschelders, Dan Rogalski, S Paul Smith, Agata Smoktunowicz, Toby Stafford, Michel Van den Bergh, Chelsea Walton, Michael Wemyss"
 +++
