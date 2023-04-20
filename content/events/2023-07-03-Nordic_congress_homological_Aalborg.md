@@ -1,5 +1,6 @@
 +++
 title = "29th Nordic Congress of Mathematicians: Special Session on Homological Algebra"
+note = "Limited financial support for PhD students available from the Aarhus Homological Algebra group: contact peter.jorgensen@math.au.dk"
 date = 2023-07-03
 enddate = 2023-07-07
 dates = "July 3 - 7, 2023"
