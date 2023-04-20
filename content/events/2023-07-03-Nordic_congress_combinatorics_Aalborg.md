@@ -1,6 +1,6 @@
 +++
 title = "29th Nordic Congress of Mathematicians: Special Session on Representation Theory & Combinatorics"
-note = "Limited financial support for PhD students available from the Aarhus Homological Algebra group: contact <a href=\"mailto:peter.jorgensen@math.au.dk\">Peter Jørgensen</a>"
+note = "Limited financial support for PhD students available from the Aarhus Homological Algebra group: contact <a href='mailto:peter.jorgensen@math.au.dk'>Peter Jørgensen</a>"
 date = 2023-07-03
 enddate = 2023-07-07
 dates = "July 3 - 7, 2023"
