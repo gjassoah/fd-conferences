@@ -1,6 +1,6 @@
 +++
 title = "Workshop on Representation Theory and Topological Data Analysis"
-note = "In-person participation by invitation only: contact <a href="mailto:thomas.brustle@usherbrooke.ca">Thomas Brüstle</a> for online participation"
+note = "In-person participation by invitation only: for online participation, contact <a href=mailto:thomas.brustle@usherbrooke.ca>Thomas Brüstle</a>"
 date = 2024-04-07
 enddate = 2024-04-12
 dates = "April 7 - 12, 2024"
