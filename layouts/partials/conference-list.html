@@ -33,7 +33,7 @@
 {{ $date := .Date.Format "2006-01-02" }}
 {{ $delta := (now.Sub (time .Params.dateadded)).Hours }}
 <div class="event">
-    <h2 class="title">
+    <h2 class="title" text-align="left">
 	{{ if le $delta 672 }}<span class="new"></span>{{ end }}
 	{{ if .Params.warning }}<span class="warn" warning="{{ .Params.warning }}"></span>{{ end }}
     {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ replace .Title  "'" "’" }}</a>

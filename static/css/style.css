@@ -6,10 +6,6 @@ html, body {
     font-family: 'Roboto', 'Open Sans', sans-serif;
 }
 
-title {
-    text-align: left;
-}
-
 .bolded {
     font-weight: bold;
 }
