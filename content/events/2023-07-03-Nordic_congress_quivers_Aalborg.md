@@ -1,5 +1,5 @@
 +++
-title = "29th Nordic Congress of Mathematicians: Special Session on The ubiquity of Quivers and Their Representations"
+title = "29th Nordic Congress of Mathematicians: Special Session on The Ubiquity of Quivers and Their Representations"
 date = 2023-07-03
 enddate = 2023-07-07
 dates = "July 3 - 7, 2023"
