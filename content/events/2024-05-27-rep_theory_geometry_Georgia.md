@@ -1,9 +1,9 @@
 +++
 title = "Representation Theory and Related Geometry: Progress and Prospects"
 note = "On the occasion of Daniel K. Nakano’s 60th birthday"
-date = 2024-06-03
-enddate = 2024-06-07
-dates = "June 3 - 7, 2024"
+date = 2024-05-27
+enddate = 2024-05-31
+dates = "May 27 - 31, 2024"
 dateadded = 2023-04-29
 location = "University of Georgia, Athens, GA, U.S.A."
 webpage = "https://sites.google.com/view/representation-theory-geometry/"
