@@ -7,4 +7,5 @@ dateadded = 2023-06-06
 location = "MFO, Oberwolfach, Germany"
 webpage = "https://www.mfo.de/occasion/2341/www_view"
 organisers = "Roger Casals (Davis), Bernhard Keller (Paris), Lauren Williams (Harvard)"
+speakers = "16 speakers selected among the participants"
 +++
