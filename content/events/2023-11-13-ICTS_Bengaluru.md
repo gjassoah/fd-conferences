@@ -2,7 +2,7 @@
 title = "ICTS Program on Algebraic and Combinatorial Methods in Representation Theory"
 date = 2023-11-13
 enddate = 2023-11-24
-dates = "November 13 - 24"
+dates = "November 13 - 24, 2023"
 dateadded = 2023-03-27
 location = "Ramanujan Lecture Hall, ICTS, Bengaluru, India"
 webpage = "https://www.icts.res.in/program/ACMRT2023"
