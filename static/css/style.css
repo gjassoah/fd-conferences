@@ -1,5 +1,5 @@
 html, body {
-    /*overflow: hidden;*/
+    overflow: auto;
     margin: 0;
     text-align: justify;
     background-color: transparent;
