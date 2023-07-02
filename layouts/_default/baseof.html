@@ -18,6 +18,7 @@
         {{ block "footer" . }}
 
         {{ end }}
+
     </body>
 </html>
 
@@ -28,11 +29,10 @@
          height = document.getElementById('main').offsetHeight;
          window.parent.postMessage({
              frameHeight: height
-         }, '*');
+         }, 'https://www.fd-seminar.xyz');
          console.log(height) // check the message is being sent correctly
      }
  }
  window.onload = () => sendPostMessage();
  window.onresize = () => sendPostMessage();
 </script>
-
