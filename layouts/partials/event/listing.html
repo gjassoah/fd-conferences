@@ -2,8 +2,8 @@
 <div class="event">
     <h2 class="title">
 	{{ if .Params.warning }}<span class="warn" warning="{{ .Params.warning }}"></span>{{ end }}
-    {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ replace {{ replace .Title "'" "’" }} " - " " – " }}</a>
-    {{ else }}{{ replace {{ replace .Title "'" "’" }} " - " " – " }}{{ end }}
+    {{ if .Params.webpage }}<a href="{{ .Params.webpage }}">{{ replace ( replace .Title "'" "’" ) " - " " – " }}</a>
+    {{ else }}{{ replace ( replace .Title "'" "’" ) " - " " – " }}{{ end }}
     </h2>
     {{ if .Params.note }}
     <div class="note">{{ replace .Params.note "'" "’" }}</div>
