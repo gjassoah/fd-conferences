@@ -1,5 +1,5 @@
 +++
-title = "Workshop: Algebra - Representation Theory (NATO ASI) with Flemish Mornings"
+title = "Workshop: Algebra – Representation Theory (NATO ASI) with Flemish Mornings"
 date = 2000-08-02
 enddate = 2000-08-12
 dates = "August 2 - 12, 2000"
