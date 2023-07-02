@@ -1,5 +1,5 @@
 +++
-title = "Groups, Rings and the Yang-Baxter equation"
+title = "Groups, Rings and the Yang–Baxter equation"
 date = 2017-06-18
 enddate = 2017-06-24
 dates = "June 18 - 24, 2017"

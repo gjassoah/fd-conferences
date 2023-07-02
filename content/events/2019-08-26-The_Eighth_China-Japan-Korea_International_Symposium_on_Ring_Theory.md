@@ -1,5 +1,5 @@
 +++
-title = "The Eighth China-Japan-Korea International Symposium on Ring Theory"
+title = "The Eighth China–Japan–Korea International Symposium on Ring Theory"
 date = 2019-08-26
 enddate = 2019-08-31
 dates = "August 26 - 31, 2019"

@@ -1,5 +1,5 @@
 +++
-title = "WARTHOG 2018, Deligne-Lusztig theory"
+title = "WARTHOG 2018, Deligne–Lusztig theory"
 date = 2018-08-13
 enddate = 2018-08-17
 dates = "August 13 - 17, 2018"
