@@ -1,5 +1,5 @@
 +++
-title = "Workshop on modular Iwahori-Hecke algebras"
+title = "Workshop on modular Iwahori–Hecke algebras"
 date = 2014-03-17
 enddate = 2014-03-21
 dates = "March 17 - 21, 2014"

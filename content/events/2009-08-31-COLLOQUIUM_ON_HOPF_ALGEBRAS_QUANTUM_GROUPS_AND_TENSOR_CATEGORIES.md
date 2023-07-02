@@ -1,5 +1,5 @@
 +++
-title = "COLLOQUIUM ON HOPF ALGEBRAS, QUANTUM GROUPS AND TENSOR CATEGORIES"
+title = "Colloquium on Hopf algebras, quantum groups and tensor categories"
 date = 2009-08-31
 enddate = 2009-09-04
 dates = "August 31 - September 4, 2009"

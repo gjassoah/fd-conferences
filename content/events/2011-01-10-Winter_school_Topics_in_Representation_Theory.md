@@ -1,5 +1,5 @@
 +++
-title = "Winter school 'Topics in Representation Theory'"
+title = "Winter school ‘Topics in Representation Theory’"
 date = 2011-01-10
 enddate = 2011-01-14
 dates = "January 10 - 14, 2011"

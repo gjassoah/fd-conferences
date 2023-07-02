@@ -1,5 +1,5 @@
 +++
-title = "Representation Theory Days - Darstellungstheorietage 2011"
+title = "Representation Theory Days – Darstellungstheorietage 2011"
 date = 2011-11-11
 enddate = 2011-11-12
 dates = "November 11 - 12, 2011"

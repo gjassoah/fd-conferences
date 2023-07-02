@@ -1,5 +1,5 @@
 +++
-title = "Masterclass Soergel bimodules and Kazhdan-Lusztig conjectures by Williamson and Elias"
+title = "Masterclass Soergel bimodules and Kazhdan–Lusztig conjectures by Williamson and Elias"
 date = 2013-03-18
 enddate = 2013-03-22
 dates = "March 18 - 22, 2013"

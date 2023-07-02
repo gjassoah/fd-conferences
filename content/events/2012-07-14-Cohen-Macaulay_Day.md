@@ -1,5 +1,5 @@
 +++
-title = "Cohen-Macaulay Day"
+title = "Cohen–Macaulay Day"
 date = 2012-07-14
 enddate = 2012-07-14
 dates = "July 14, 2012"

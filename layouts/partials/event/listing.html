@@ -12,10 +12,10 @@
     <div class="location">{{ replace .Params.location "'" "’" }}, <span class="dates">{{ replace .Params.dates " - " "–" }}</span></div>
     {{ end }}
     {{ if .Params.organisers }}
-    <div class="organisers">{{ replace .Params.Organisers "'" "’" }}</div>
+    <div class="organisers">{{ replace (replace .Params.organisers  "'" "’") " - " " – " }}</div>
     {{ end }}
     {{ if .Params.committee }}
-    <div class="committee">{{ replace .Params.committee "'" "’" }}</div>
+    <div class="committee">{{ replace (replace .Params.committee  "'" "’") " - " " – " }}</div>
     {{ end }}
     {{ if .Params.special_speakers }}
     <div class="special_speakers">
@@ -24,9 +24,9 @@
     {{ else }}
     <span class="bolded">Lecture Series: </span>
     {{ end }}
-    {{ replace .Params.special_speakers "'" "’" }}</div>
+    {{ replace (replace .Params.special_speakers  "'" "’") " - " " – " }}</div>
     {{ end }}
     {{ if .Params.speakers }}
-    <div class="speakers">{{ replace .Params.Speakers "'" "’" }}</div>
+    <div class="speakers">{{ replace (replace .Params.speakers  "'" "’") " - " " – " }}</div>
     {{ end }}
 </div>

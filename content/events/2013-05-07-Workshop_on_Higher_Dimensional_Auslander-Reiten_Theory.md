@@ -1,5 +1,5 @@
 +++
-title = "Workshop on Higher Dimensional Auslander-Reiten Theory"
+title = "Workshop on Higher Dimensional Auslander–Reiten Theory"
 date = 2013-05-07
 enddate = 2013-05-09
 dates = "May 7 - 9, 2013"
