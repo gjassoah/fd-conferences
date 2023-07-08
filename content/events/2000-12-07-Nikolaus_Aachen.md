@@ -1,5 +1,5 @@
 +++
-title = "Nikalaus conference"
+title = "Nikolaus conference"
 date = 2000-12-07
 enddate = 2000-12-09
 dates = "December 7 - 9, 2000"
