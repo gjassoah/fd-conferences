@@ -22,7 +22,6 @@
 </table>
 <br>
 {{ $yesterday := now.AddDate 0 0 -1}}
-{{ $yesterday }}
 {{ $eventlist := slice }}
 {{ range sort (where site.RegularPages "Type" "events") ".Date" }}
   {{ if ge (time .Params.enddate) $yesterday }}
