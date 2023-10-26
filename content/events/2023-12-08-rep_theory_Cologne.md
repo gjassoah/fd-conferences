@@ -1,5 +1,6 @@
 +++
 title = "Representation Theory in Cologne"
+note = "A workshop in honor of Peter Littelmann"
 date = 2023-12-08
 enddate = 2023-12-09
 dates = "December 8 - 9, 2023"

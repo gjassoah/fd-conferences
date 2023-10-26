@@ -1,5 +1,6 @@
 +++
 title = "Representation Theory and Non-Commutative Geometry / ARTIG 3"
+note = "Dedicated to the memory of Helmut Lenzing"
 date = 2023-12-01
 enddate = 2023-12-02
 dates = "December 1 - 2, 2023"
