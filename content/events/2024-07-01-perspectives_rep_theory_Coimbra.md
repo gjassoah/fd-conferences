@@ -1,6 +1,6 @@
 +++
 title = "Perspectives in Representation Theory"
-note = "<a href="https://www.ecm2024sevilla.com/">9ECM</a> Satellite Conference"
+note = "<a href=https://www.ecm2024sevilla.com/>9ECM</a> Satellite Conference"
 date = 2024-07-01
 enddate = 2024-01-03
 dates = "July 1 - 3, 2024"
