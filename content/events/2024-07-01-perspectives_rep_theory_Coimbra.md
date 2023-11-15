@@ -8,7 +8,7 @@ dateadded = 2023-11-15
 location = "University of Coimbra, Portugal"
 webpage = "http://www.mat.uc.pt/~crt/prt2024/"
 organisers = "Teresa Conde (Bielefeld), Samuel Lopes (Porto), Ana Paula Santana (Coimbra), Ivan Yudin (Coimbra)"
-speakers = "Andrea Appel (Parma), Eirini Chavli (Stuttgart), Tiago Cruz (Stuttgart), Persi Diaconis (Stanford), Sira Gratz (Aarhus), Jonathan Gruber (York), Rosanna Laking (Verona), Stacey Law (Birmingham), Leo Margolis (Madrid), Lleonard Rubio y Degrassi (Uppsala)"
-special-talks = "Lecture series"
-special-speakers = "Vyacheslav Futorny (Shenzhen), Simone Virili (Barcelona)"
+speakers = "Andrea Appel (Parma), Eirini Chavli (Stuttgart), Tiago Cruz (Stuttgart), Persi Diaconis (Stanford), Sira Gratz (Aarhus), Jonathan Gruber (York), Rosanna Laking (Verona), Stacey Law (Birmingham), Leo Margolis (Madrid), Lleonard Rubio y Degrassi (Uppsala); further contributed talks by participants"
+special_talks = "Lecture series"
+special_speakers = "Vyacheslav Futorny (Shenzhen), Simone Virili (Barcelona)"
 +++
