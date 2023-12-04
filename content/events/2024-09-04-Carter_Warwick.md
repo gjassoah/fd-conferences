@@ -1,6 +1,6 @@
 +++
 title = "Groups & Representations: after Roger Carter"
-note = "in memory of Roger Carter"
+note = "In memory of Roger Carter"
 date = 2024-09-04
 enddate = 2024-09-06
 dates = "September 4 - 6, 2024"
