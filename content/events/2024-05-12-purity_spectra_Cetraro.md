@@ -8,7 +8,7 @@ dateadded = 2023-05-26
 location = "Grand Hotel San Michele, Cetraro, Italy"
 webpage = "https://profs.scienze.univr.it/laking/Cetraro/html5up-strata/index.html"
 organisers = "Lidia Angeleri Hügel, Rosanna Laking, Francesca Mantese, Tsutomu Nakamura"
-speakers = "Natalia Castellana (Autonomous University of Barcelona), Septimiu Crivei (Babeş-Bolyai University), Amnon Neeman (University of Milan), Jan Šťovíček (Charles University, Prague), Simone Virili (Autonomous University of Barcelona), Alexandra Zvonareva (The Czech Academy of Sciences)"
+speakers = "Natalia Castellana (Autonomous University of Barcelona), Septimiu Crivei (Babeș-Bolyai University), Amnon Neeman (University of Milan), Jan Šťovíček (Charles University, Prague), Simone Virili (Autonomous University of Barcelona), Alexandra Zvonareva (The Czech Academy of Sciences)"
 special_talks = "Mini lecture series"
 special_speakers = "Sergio Estrada (University of Murcia), Lorna Gregory (University of East Anglia), Ivo Herzog (Ohio State University), Henning Krause (University of Bielefeld), Jan Šaroch (Charles University, Prague)"
 +++
