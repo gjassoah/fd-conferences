@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Spring Workshop on the Representation Theory of Algebras and related areas"
 date = 2024-04-22
 enddate = 2024-04-26
 dates = "April 22 - 26, 2024"
