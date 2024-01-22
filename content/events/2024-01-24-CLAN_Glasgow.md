@@ -1,6 +1,7 @@
 +++
 title = "Clusters and their Applications in the North (CLAN)"
 warning = "POSTPONED"
+note = "Postponed due to travel disruption caused by Storm Jocelyn: new date to follow shortly"
 date = 2024-01-24
 enddate = 2024-01-24
 dates = "January 24, 2024"
