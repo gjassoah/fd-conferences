@@ -1,10 +1,8 @@
 +++
 title = "Clusters and their Applications in the North (CLAN)"
-warning = "POSTPONED"
-note = "Postponed due to travel disruption caused by Storm Jocelyn: new date to follow shortly"
 date = 2024-01-24
 enddate = 2024-01-24
-dates = "January 24, 2024"
+dates = "February 14, 2024"
 dateadded = 2024-01-14
 location = "University of Glasgow, U.K."
 webpage = "https://clan-clusterstructures.github.io/upcoming/"
