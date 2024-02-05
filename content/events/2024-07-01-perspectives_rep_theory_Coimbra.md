@@ -2,7 +2,7 @@
 title = "Perspectives in Representation Theory"
 note = "<a href=https://www.ecm2024sevilla.com/>9ECM</a> Satellite Conference"
 date = 2024-07-01
-enddate = 2024-01-03
+enddate = 2024-07-03
 dates = "July 1 - 3, 2024"
 dateadded = 2023-11-15
 location = "University of Coimbra, Portugal"
