@@ -9,5 +9,5 @@ webpage = "https://web.northeastern.edu/martsinkovsky/p/MADL/MADL.html"
 organisers = "Kiyoshi Igusa, Alex Martsinkovsky, Gordana Todorov, Milen Yakimov"
 special_talks = "Distinguished Lectures"
 special_speakers = "Karin Erdmann (Oxford, UK)"
-speakers = "Karin Baur (Leeds, UK), Blas Torrecillas Jover (Almería, Spain), Jie Xiao (Beijing, China), James Zhang (Seattle, WA)"
+speakers = "Ted Chinburg (Philadelphia, PA), Blas Torrecillas Jover (Almería, Spain), Jie Xiao (Beijing, China), James Zhang (Seattle, WA)"
 +++
