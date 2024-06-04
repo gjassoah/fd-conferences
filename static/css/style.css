@@ -27,6 +27,7 @@ h2 {
     font-weight: bold;
     content: "NEW";
 }
+
 .warn::after {
     color: var(--secondary);
     background: var(--primary);
