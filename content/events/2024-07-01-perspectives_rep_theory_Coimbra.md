@@ -10,5 +10,5 @@ webpage = "http://www.mat.uc.pt/~crt/prt2024/"
 organisers = "Teresa Conde (Bielefeld), Samuel Lopes (Porto), Ana Paula Santana (Coimbra), Ivan Yudin (Coimbra)"
 speakers = "Andrea Appel (Parma), Eirini Chavli (Stuttgart), Tiago Cruz (Stuttgart), Persi Diaconis (Stanford), Sira Gratz (Aarhus), Jonathan Gruber (York), Rosanna Laking (Verona), Stacey Law (Birmingham), Leo Margolis (Madrid), Lleonard Rubio y Degrassi (Uppsala); further contributed talks by participants"
 special_talks = "Lecture series"
-special_speakers = "Vyacheslav Futorny (Shenzhen), Simone Virili (Barcelona)"
+special_speakers = "Vyacheslav Futorny (Shenzhen), Jorge Vitória (Padova)"
 +++
