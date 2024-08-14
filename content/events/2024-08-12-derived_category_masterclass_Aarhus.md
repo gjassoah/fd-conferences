@@ -1,8 +1,8 @@
 +++
 title = "Masterclass on Derived Category Methods in Ring Theory"
-date = 2024-08-12
-enddate = 2024-08-17
-dates = "August 12 - 17"
+date = 2024-08-13
+enddate = 2024-08-16
+dates = "August 13 - 16"
 dateadded = 2024-02-21
 location = "Aarhus University, Denmark"
 webpage = "https://conferences.au.dk/derivedcategorymethods2024"
