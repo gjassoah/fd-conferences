@@ -1,5 +1,5 @@
 +++
-title = "A(aachen)-B(ochum)-C(ologne)-D(arstellungstheorie)-seminar"
+title = "A(achen)-B(ochum)-C(ologne)-D(arstellungstheorie)-seminar"
 date = 2019-09-27
 enddate = 2019-09-27
 dates = "September 27, 2019"

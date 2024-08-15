@@ -6,7 +6,7 @@
     {{ else }}{{ replace ( replace .Title "'" "’" ) " - " " – " }}{{ end }}
     </h2>
     {{ if .Params.note }}
-    <div class="note">{{ replace .Params.note "'" "’" }}</div>
+    <div class="note">{{ replace .Params.note  "'" "’" | safeHTML }}</div>
     {{ end }}
     {{ if .Params.location }}
     <div class="location">{{ replace .Params.location "'" "’" }}, <span class="dates">{{ replace .Params.dates " - " "–" }}</span></div>
