@@ -7,5 +7,5 @@ dateadded = 2024-07-23
 location = "University of Stuttgart, Germany"
 webpage = ""
 organisers = "Rosanna Laking, Frederik Marks, Kaveh Mousavand"
-speakers = "Teresa Conde, Ivo Herzog, Henning Krause, Jan Šťovíček"
+speakers = "Teresa Conde, William Crawley-Boevey, Ivo Herzog, Henning Krause, Jan Šťovíček"
 +++
