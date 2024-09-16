@@ -1,7 +1,7 @@
 +++
 title = "Algebraic Groups on the Grand Canal"
 date = 2025-04-07
-enddate = 2024-04-11
+enddate = 2025-04-11
 dates = "April 7 - 11, 2025"
 dateadded = 2024-09-16
 location = "Warwick Venice Centre, Italy"
