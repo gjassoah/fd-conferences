@@ -8,5 +8,5 @@ dateadded = 2024-11-07
 location = "Online / IPM Isfahan, Iran"
 webpage = "http://portal.math.ipm.ir/PagesEvents/DisEventsHome.aspx?esbu=dd2b1d8e-4604-47c5-99dd-fd285a08e3cf"
 organisers = "Javad Asadollahi (University of Isfahan), Rasool Hafezi (NUIST, Nanjing), Yi Zhang (NUIST, Nanjing)"
-speakers = "Xiao-Wu Chen (USTC, Hefei), Norihiro Hanihara (Kyushu University), Osamu Iyama (University of Tokyo), Henning Krause (Bielefeld University)"
+speakers = "Xiao-Wu Chen (USTC, Hefei), Norihiro Hanihara (Kyushu University), Osamu Iyama (University of Tokyo), Martin Kalck (University of Graz), Henning Krause (Bielefeld University)"
 +++
