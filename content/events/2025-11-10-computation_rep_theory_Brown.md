@@ -1,5 +1,5 @@
 +++
-title = "Category theory, combinatorics, and machine learning"
+title = "Computation in representation theory"
 date = 2025-11-10
 enddate = 2025-11-14
 dates = "November 11 - 14, 2025"

@@ -1,5 +1,5 @@
 +++
-title = "Category theory, combinatorics, and machine learning"
+title = "Diagrammatic categorification"
 date = 2025-10-20
 enddate = 2025-10-24
 dates = "October 20 - 24, 2025"
