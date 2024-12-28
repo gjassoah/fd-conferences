@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Perspectives in Tilting Theory and Related Topics"
 date = 2025-02-17
 enddate = 2025-02-21
 dates = "February 17 - 21, 2025"
