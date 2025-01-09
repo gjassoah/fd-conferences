@@ -1,5 +1,5 @@
 +++
-title = "International Conference on Representation Theory of Algebras"
+title = "International Conference on Representation Theory of Algebras at Beijing Normal University"
 note = "in honor of the 80th birthday of Professor Claus Michael Ringel"
 date = 2025-05-29
 enddate = 2025-06-02
