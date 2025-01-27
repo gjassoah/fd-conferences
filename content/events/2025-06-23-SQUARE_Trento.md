@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "SQUARE: Symposium on Quivers, Algebras and Representation Theory"
 date = 2025-07-23
 enddate = 2025-07-27
 dates = "July 23 - 27, 2025"
