@@ -7,5 +7,5 @@ dateadded = 2024-10-18
 location = "University of Bielefeld, Germany"
 webpage = "https://www.math.uni-bielefeld.de/birep/meetings/bricks2025/"
 organisers = "William Crawley-Boevey, Henning Krause, Kaveh Mousavand"
-speakers = "Lidia Angeleri-Hügel* (Verona), Raymundo Bautista (Morelia), Osamu Iyama* (Tokyo), Julian Külshammer (Uppsala), Rosanna Laking (Verona), Charles Paquette (Kingston), Calvin Pfeifer (Cologne), Kevin Schlegel (Stuttgart), Jesús Efrén Pérez Terrazas (Mérida), Alexandra Zvonareva (Prague)"
+speakers = "Lidia Angeleri-Hügel* (Verona), Raymundo Bautista (Morelia), Yuta Kimura (Hiroshima), Julian Külshammer (Uppsala), Rosanna Laking (Verona), Charles Paquette (Kingston), Calvin Pfeifer (Cologne), Kevin Schlegel (Stuttgart), Jesús Efrén Pérez Terrazas (Mérida), Simone Virili (Barcelona), Alexandra Zvonareva (Prague)"
 +++
