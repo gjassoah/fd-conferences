@@ -1,8 +1,9 @@
 +++
 title = "SQUARE: Symposium on Quivers, Algebras and Representation Theory"
-date = 2025-07-23
-enddate = 2025-07-27
-dates = "July 23 - 27, 2025"
+note = "Note early registration deadline of 7th March"
+date = 2025-06-23
+enddate = 2025-06-27
+dates = "June 23 - 27, 2025"
 dateadded = 2025-01-27
 location = "Hotel Montana, Trento, Italy"
 webpage = "https://sites.google.com/view/square-trento2025/"
