@@ -1,5 +1,5 @@
 +++
-title = "Vertex algebra and integrable systems"
+title = "Vertex algebras and integrable systems"
 date = 2025-06-30
 enddate = 2025-07-11
 dates = "June 30 - July 11, 2025"
