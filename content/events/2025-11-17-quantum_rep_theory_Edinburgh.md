@@ -2,7 +2,7 @@
 title = "New Perspectives in Quantum Representation Theory"
 date = 2025-11-17
 enddate = 2025-11-21
-dates = "November 11 - 21, 2025"
+dates = "November 17 - 21, 2025"
 dateadded = 2025-03-03
 location = "ICMS, Edinburgh, U.K."
 webpage = "https://www.icms.org.uk/workshops/2025/new-perspectives-quantum-representation-theory"
