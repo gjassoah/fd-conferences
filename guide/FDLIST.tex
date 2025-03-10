@@ -6,7 +6,7 @@
 \usepackage[pdflang=en-UK, colorlinks, urlcolor=darkblue, linkcolor=darkblue, citecolor=darkblue]{hyperref}
 
 \usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+\usepackage[T2A,T1]{fontenc}
 \usepackage{ae}
 \usepackage{aecompl}
 \usepackage{lmodern}
@@ -296,7 +296,7 @@ In keeping with the generally relaxed style principle, here are several aspects 
 \item The same applies to names of cities (e.g.\ all of Cologne / Köln, Munich / München, Padua / Padova are acceptable).
 Be careful, however, to avoid dropping accents and diacritics unless this really corresponds to a commonly used English name for the city.
 For example, Istanbul and Montreal are standard English versions of İstanbul and Montréal respectively (with their own pronunciations), but Dusseldorf is just a misspelling of Düsseldorf (and Munster is a province of Ireland, whereas Münster is a city in Germany).
-If in doubt, keep the accents!
+English-language Wikipedia can be helpful for deciding whether something is an anglicised spelling or a mistake.
 \item Cities in the U.S.A.\ or Canada are sometimes also given their state or province (using the standard two-letter abbreviation), but this is not necessary.
 \item The specificity of the venue (e.g.\ whether it includes just the name of a university or of an actual building / department) is flexible.
 \end{itemize}
@@ -330,7 +330,7 @@ On the other hand, the character ş \emph{is} correct in Turkish.
 
 \subsubsection{Non-Latin scripts}
 Names in non-Latin scripts should be transliterated to Latin characters for wider readability.
-Generally one should follow the transliteration used by the person in question, which may differ from the official one (e.g.\ Mikhail Gorsky, not Mikhail Gorskii).
+Generally one should follow the transliteration used by the person in question, which may differ from the official one (e.g.\ Mikhail Gorsky, not Mikhail Gorskii or {\fontencoding{T2A}\selectfont Михаил Горский}).
 
 Transliterations of Chinese names usually do not include the tone marks present in formal pīnyīn (so Yu Qiu, not Yŭ Qiū), and transliterations from Japanese typically drop the macrons indicating long vowels (Ryo Kanda, not Ryō Kanda).
 On the other hand, if this extra information is provided by the event organisers, there is no need to remove it, and it should be present if typically used by the person in question.
@@ -449,7 +449,7 @@ This functionality was actually lost when moving from the old database hosted at
 \item Add a \verb|special_organisers| field analogous to \verb|special_speakers| (e.g.\ for `local organisers').
 This is relatively easy, but the number of use cases quite low, and we should beware of letting event listings become extremely long.
 Similarly, one could change the implementation to allow for more than one special category of speakers or organisers (but this is not likely to be used often, if at all).
-\item Automatically strip out all line breaks in fields in the markdown files, either in the files themselves or when loading the data into Hugo. Again, this functionality existed in the old NTNU database but was lost in the new implementation.
+\item Automatically strip out all line breaks in fields in the markdown files (since these cause errors), either in the files themselves or when loading the data into Hugo. Again, this functionality existed in the old NTNU database but was lost in the new implementation.
 \item Set up a much more substantial list of automatic replacements, with some better implementation than nesting \verb|{{ replace }}| commands, to automate some of the style consistency guidelines (e.g.\ by replacing `UK' by `U.K.'). Beware that the most obvious implementations would make it very difficult for the maintainer to overrule the replacement if needed.
 \end{enumerate}
 
