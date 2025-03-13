@@ -7,7 +7,7 @@ dateadded = 2024-12-05
 location = "Université de Caen-Normandie, France"
 webpage = "https://mdpressland.github.io/events/AlgebraDays25.html"
 organisers = "Stéphane Launois, Matthew Pressland"
-speakers = "Karin Baur (Bochum), Léa Bittmann (Strasbourg), Mikhail Gorsky (Hamburg), Jan E. Grabowski (Lancaster), Samuel Lopes (Porto), Théo Pinet (McGill, Montréal)"
+speakers = "Karin Baur (Bochum), Alessandro Contu (Paris Cité), Mikhail Gorsky (Hamburg), Jan E. Grabowski (Lancaster), Samuel Lopes (Porto), Théo Pinet (McGill, Montréal)"
 special_talks = "Minicourse"
 special_speakers = "Xiuping Su (Bath)"
 +++
