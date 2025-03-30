@@ -7,5 +7,5 @@ dateadded = 2025-02-17
 location = "University of Southern California, Los Angeles, CA, U.S.A."
 webpage = "https://sites.google.com/view/7cmu-conference/"
 organisers = "Harold Williams, Christof Geiss, Iva Halacheva, Joel Kamnitzer, Aaron Lauda, José Simental Rodríguez, Alistair Savage, Milen Yakimov"
-speakers = "Sami Assaf, Pablo Boixeda-Alvarez, Jon Brundan, Ben Elias, Monica Garcia, Gustavo Jasso, Cris Negron, Khoa Nguyen, Julia Pevstova, Raphaël Rouquier, Eric Rowell, Nick Rozenblyum, Leonid Rybnikov, Yaolong Shen, Chelsea Walton"
+speakers = "Sami Assaf, Pablo Boixeda-Alvarez, Jon Brundan, Ben Elias, Monica Garcia, Cris Negron, Khoa Nguyen, Julia Pevstova, Raphaël Rouquier, Eric Rowell, Nick Rozenblyum, Leonid Rybnikov, Yaolong Shen, Chelsea Walton"
 +++
