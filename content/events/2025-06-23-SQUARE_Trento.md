@@ -1,6 +1,5 @@
 +++
 title = "SQUARE: Symposium on Quivers, Algebras and Representation Theory"
-note = "Note early registration deadline: March 7, 2025"
 date = 2025-06-23
 enddate = 2025-06-27
 dates = "June 23 - 27, 2025"
