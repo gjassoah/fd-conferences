@@ -8,5 +8,5 @@ dateadded = 2025-01-08
 location = "Beijing Normal University, China"
 webpage = "https://math.bnu.edu.cn/xzky/71db77d5624c4154a35b4281c8f403bc.htm"
 organisers = "Bangming Deng, Jinyun Guo, Yanan Lin, Liangang Peng, Changchang Xi, Jie Xiao, Pu Zhang, Yingbo Zhang, Bin Zhu"
-speakers = "Aslak Bakke Buan, Xiao-Wu Chen, Osamu Iyama, Bernhard Keller, Markus Schmidmeier, Sibylle Schroll, Gordana Todorov"
+speakers = "Aslak Bakke Buan, Peigen Cao, Wen Chang, Hongxing Chen, Jianmin Chen, Xiao-Wu Chen, Gabriella D’Este, Jie Du, Nan Gao, Rasool Hafezi, Osamu Iyama, Naihuan Jing, Bernhard Keller, Buyan Li, Ming Lu, Liangang Peng, Fan Qin, Yu Qiu, Shiquan Ruan, Markus Schmidmeier, Sibylle Schroll, Gordana Todorov, Jie Xiao, Yu Zhou"
 +++
