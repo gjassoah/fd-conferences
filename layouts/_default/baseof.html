@@ -26,9 +26,9 @@
  let height;
  const sendPostMessage = () => {
      if (height !== document.getElementById('main').offsetHeight) {
-         height = document.getElementById('main').offsetHeight;
+         height = +document.getElementById('main').offsetHeight;
          window.parent.postMessage({
-             frameHeight: height
+             frameHeight: height + 20
          }, "https://fdlist.math.uni-bielefeld.de/t/welcome-to-fdlist/21");
          console.log(height) // check the message is being sent correctly
      }
