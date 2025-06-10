@@ -105,7 +105,7 @@ to import changes from the GitHub copy to your local copy, and then
 \verb|git push|
 \end{center}
 to export your local changes to the remote copy.
-\textbf{Always pull before you push!}
+\textbf{Always pull before you push!} (If you can remember, it is usually a good idea to pull even before you start changing anything, to reduce the risk of merge conflicts.)
 
 Very occasionally you may encounter merge conflicts which need to be resolved manually.
 For this you will need to use Git's messages to work out what needs to be done.
@@ -134,7 +134,7 @@ You could instead decide to move it to a different folder.
 \end{warn}
 
 Before describing the various fields that can be set in the markdown file, we point out that the Hugo implementation has been set up so that, for the most part, fields can be safely left empty without unintended consequences.
-For example, if an event has no speakers (yet), one can simply leave the line \verb|speakers = ""| in the markdown file, and this section of the listing will simply not appear when the site is compiled (in contrast to seeing `Speakers:' followed by an empty space).
+For example, if an event has no speakers (yet), leaving the line \verb|speakers = ""|  will not result in `Speakers:' followed by an empty space, but rather this section of the listing will simply not appear when the site is compiled.
 
 A field which is not specified in the markdown file at all is also treated as empty. This makes it straightforward to create new fields if needed: they do not need to be added (with an empty value) to all previous events.
 
@@ -151,7 +151,7 @@ The most obvious questions of style are addressed here, but further comments are
 
 \begin{warn}
 In most of the fields below, the typewriter apostrophe \texttt{'} will be replaced by a `proper' apostrophe / right quotation mark \texttt{’} when the page is rendered. If you ever want a \emph{left} quotation mark \texttt{‘}, this must be entered manually to avoid this auto-correction.
-There is no auto-correction for double quotation marks, but you are still encouraged to enter these in their left and right variants, rather than as \texttt{"}.
+There is no auto-correction for double quotation marks, but it is still preferred to enter these in their left and right variants, rather than as \texttt{"}.
 A similar rule replaces `~-~' (space ldash space) by the more typographically correct `~--~' (space ndash space), except in dates, where the dash is expected to indicate a range rather than a break, and so the extra spaces are also removed.
 \end{warn}
 
@@ -192,7 +192,7 @@ The date that you added the event to the FDLIST (so that the `NEW' flag will be 
 
 The location of the event, usually in the format `Venue, (City,) Country', where the city is omitted if it is clear from the name of the venue.
 (So, for example, `University of Bielefeld, Germany', but `NTNU, Trondheim, Norway'.)
-If there are multiple locations, separate them by forward slashes.
+If there are multiple locations, separate them by forward slashes \texttt{/}.
 \medskip
 
 \noindent\verb|webpage|\nopagebreak
@@ -207,7 +207,7 @@ The list of organisers of the event.
 
 \noindent\verb|speakers|\nopagebreak
 
-The list of speakers of the event, in (English) alphabetical order by family name as much as possible. Generally we only correct blatant errors in ordering: for example, if the organisers' ordering makes sense up to deciding which name is a person's family name, leave it as it is.
+The list of speakers of the event, in (English) alphabetical order by family name as much as possible. Generally we only correct blatant errors in ordering: for example, if the organisers' ordering makes sense up to deciding which of several names is a person's family name, leave it as it is.
 Speakers to be confirmed should be indicated with an asterisk (without any further explanation). If the speakers fall into two different categories, you can use additional fields to indicate this, as explained in the next subsection.
 
 \subsection{Extra fields}
@@ -255,8 +255,8 @@ It is not recommended to add schedule links for in-person events where the sched
 
 \subsection{The archive}
 As the pages are recompiled daily, events will automatically move to the archive as and when they happen, without any user involvement necessary.
-If corrections are needed to an event in the archive, this is also done in exactly the same way as one would modify an upcoming event, by modifying its markdown file in the database.
-A new page will be added to the archive on January 1st every year up to and including 2099---in the unlikely event that you are reading this in 2099, you will need to extend this deadline.
+If corrections are needed to an event in the archive, this is done in exactly the same way as modifying an upcoming event, by modifying its markdown file in the database.
+A new page will be added to the archive on January 1st every year up to and including 2099---in the unlikely event that it is 2099 when you read this, you may need to extend this deadline.
 
 To do this, go to \verb|content/archive| and add some more text files named \verb|yyyy.md|, with the content
 \begin{center}
@@ -265,7 +265,7 @@ To do this, go to \verb|content/archive| and add some more text files named \ver
 for as many values of \verb|yyyy| as you feel is necessary.
 
 Theoretically, it is possible to add historical information pre-dating the founding of the FDLIST in 2000, which would require adding earlier years in a similar way.
-Beware that this might also require modifying the dates in the event template to prevent it from contributing a blank line to the archive.
+Beware that this will mean modifying the dates in the event template file to prevent it from contributing a blank line to the archive.
 
 \section{Style guidelines}
 \label{s:style}
@@ -294,10 +294,10 @@ In keeping with the generally relaxed style principle, here are several aspects 
 \item Lists of organisers, speakers and committee members can be entered with or without affiliations (although there is a general preference for using commas to separate different speakers, and entering affiliations in brackets).
 \item Names of venues can be entered in either English or the local language (e.g.\ `Universität Bielefeld' or `University of Bielefeld'), although they should be written in a Latin-based script. Note that several U.K.\ universities feel strongly about whether their names are written `University of $X$' or `$X$ University', so you should avoid switching between the two formats, although you can typically trust what you are told by event organisers.
 \item The same applies to names of cities (e.g.\ all of Cologne / Köln, Munich / München, Padua / Padova are acceptable).
-Be careful, however, to avoid dropping accents and diacritics unless this really corresponds to a commonly used English name for the city.
+Be careful, however, to avoid dropping accents or diacritics unless this really corresponds to a commonly used English name for the city.
 For example, Istanbul and Montreal are standard English versions of İstanbul and Montréal respectively (with their own pronunciations), but Dusseldorf is just a misspelling of Düsseldorf (and Munster is a province of Ireland, whereas Münster is a city in Germany).
 English-language Wikipedia can be helpful for deciding whether something is an anglicised spelling or a mistake.
-\item Cities in the U.S.A.\ or Canada are sometimes also given their state or province (using the standard two-letter abbreviation), but this is not necessary.
+\item Cities in the U.S.A.\ or Canada can have their state or province specified (using the standard two-letter abbreviation), e.g.\ `Boston, MA' or `Sherbrooke, QC', but this is not necessary.
 \item The specificity of the venue (e.g.\ whether it includes just the name of a university or of an actual building / department) is flexible.
 \end{itemize}
 
@@ -318,7 +318,7 @@ It is good to be aware of some potentially confusing characters.
 In Czech, the characters ď and ť are not written with apostrophes: the apostrophe-like element is a truncated háček, with different spacing: in capitals, these characters become Ď and Ť.
 Compare Šťovíček to Št'ovíček, for example.
 
-The German Eszett (ß) is equivalent (by law!)\ to `ss', and both can be used (e.g.\ Christof Geiß or Christof Geiss).
+The German Eszett (ß) is equivalent to `ss', and both can be used (e.g.\ Christof Geiß or Christof Geiss).
 
 Faroese and Icelandic include the runic characters ð and þ (or Ð and Þ in upper case), but the alphabets are still primarily Latin-based, and so these should not be transliterated.
 
@@ -450,7 +450,7 @@ This functionality was actually lost when moving from the old database hosted at
 This is relatively easy, but the number of use cases quite low, and we should beware of letting event listings become extremely long.
 Similarly, one could change the implementation to allow for more than one special category of speakers or organisers (but this is not likely to be used often, if at all).
 \item Automatically strip out all line breaks in fields in the markdown files (since these cause errors), either in the files themselves or when loading the data into Hugo. Again, this functionality existed in the old NTNU database but was lost in the new implementation.
-\item Set up a much more substantial list of automatic replacements, with some better implementation than nesting \verb|{{ replace }}| commands, to automate some of the style consistency guidelines (e.g.\ by replacing `UK' by `U.K.'). Beware that the most obvious implementations would make it very difficult for the maintainer to overrule the replacement if needed.
+\item Set up a much more substantial list of automatic replacements, with some better implementation than nesting \verb|{{ replace }}| commands, to automate some of the guidelines for consistent style (e.g.\ by replacing `UK' with `U.K.'). Beware that the most obvious implementations would make it very difficult for the maintainer to overrule the replacement if it has an unintended result.
 \end{enumerate}
 
 \end{document}
