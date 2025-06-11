@@ -107,6 +107,12 @@ to import changes from the GitHub copy to your local copy, and then
 to export your local changes to the remote copy.
 \textbf{Always pull before you push!} (If you can remember, it is usually a good idea to pull even before you start changing anything, to reduce the risk of merge conflicts.)
 
+In rare cases you may need to remove a file (e.g.\ if you accidentally add the same event twice). For this run
+\begin{center}
+\verb|git rm |(path to file)
+\end{center}
+so that the file is also removed from the remote repository.
+
 Very occasionally you may encounter merge conflicts which need to be resolved manually.
 For this you will need to use Git's messages to work out what needs to be done.
 
