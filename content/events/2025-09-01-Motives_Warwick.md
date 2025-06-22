@@ -1,5 +1,5 @@
 +++
-title = "Motives, Equivariant Topology, and tt geometry"
+title = "Motives, Equivariant Topology, and tt-geometry"
 date = 2025-09-01
 enddate = 2025-09-05
 dates = "September 1 - 5, 2025"
