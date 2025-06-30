@@ -9,5 +9,5 @@ webpage = "https://indico.global/event/9666/"
 organisers = "Andrei Neguț (EPFL), Joshua Wen (University of Vienna)"
 special_talks = "Mini-courses"
 special_speakers = "David Hernandez, Alexander Tsymbaliuk"
-speakers = "Misha Bershtein, Benjamin Enriquez, Alexandr Garbali, Nicolle Gonzalez, Iva Halacheva, Duncan Laurie"
+speakers = "Misha Bershtein, Benjamin Enriquez, Alexandr Garbali, Nicolle González, Iva Halacheva, Duncan Laurie"
 +++
