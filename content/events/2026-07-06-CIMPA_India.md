@@ -1,4 +1,5 @@
 +++
+note = "a CIMPA school"
 title = "Homological Methods in Non-Commutative Algebra and Number Theory"
 date = 2026-07-06
 enddate = 2026-07-17
