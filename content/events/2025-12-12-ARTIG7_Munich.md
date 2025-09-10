@@ -5,7 +5,7 @@ enddate = 2025-12-13
 dates = "December 12 - 13, 2025"
 dateadded = 2025-09-10
 location = "TU Munich, Germany"
-webpage = ""
+webpage = "https://sites.google.com/view/artig7/artig-7"
 organisers = "Deniz Kus, Christian Liedtke, Sean Monahan"
 speakers = "Pierre Baumann (Strasbourg), Xin Fang (Aachen), David Hernandez (Paris), Caroline Lassueur (Hannover), Alexandre Minets (Bonn), Eric Opdam (Amsterdam), Timm Peerenboom (Bochum), Balazs Szendrői (Vienna)"
 +++
