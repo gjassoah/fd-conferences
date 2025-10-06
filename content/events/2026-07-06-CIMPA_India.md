@@ -7,6 +7,6 @@ dates = "July 6 - 17, 2026"
 dateadded = 2025-08-04
 location = "SASTRA University, Thanjavur, Tamil Nadu, India"
 webpage = "https://www.cimpa.info/en/ecoles/homological-methods-non-commutative-algebra-and-number-theory"
-organisers = "Umamaheswaran Arunachalam (Sastra University), Bernhard Keller (Université Paris Cité), "
+organisers = "Umamaheswaran Arunachalam (Sastra University), Bernhard Keller (Université Paris Cité)"
 speakers = ""
 +++
