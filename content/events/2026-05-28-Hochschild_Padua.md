@@ -7,9 +7,5 @@ dateadded = 2025-11-12
 location = "University of Padua, Italy"
 webpage = "https://sites.google.com/view/multiple-perspectives-on-hh"
 organisers = "Janina Letz, Lleonard Rubio y Degrassi"
-speakers = "Benjamin Briggs (Imperial College London), Alessandro Lehmann
-(University of Antwerp), Markus Linckelmann (City St George), Vanessa
-Miemietz (University of East Anglia), Sebastian Opper (Charles
-University), Fiorela Rossi Bertone* (Universidad Nacional del Sur, Bahía
-Blanca)"
+speakers = "Benjamin Briggs (Imperial College London), Alessandro Lehmann, (University of Antwerp), Markus Linckelmann (City St George), Vanessa Miemietz (University of East Anglia), Sebastian Opper (Charles University), Fiorela Rossi Bertone* (Universidad Nacional del Sur, Bahía Blanca)"
 +++
