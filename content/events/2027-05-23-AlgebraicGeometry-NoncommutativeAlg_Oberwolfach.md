@@ -6,5 +6,5 @@ dates = "May 23 - 28, 2027"
 dateadded = 2025-12-09
 location = "Mathematisches Forschungsinstitut Oberwolfach, Germany"
 webpage = "https://www.mfo.de/www/activity/2721"
-organisers = "William Crawley-Boevey (Bielefeld), Olivier Schiffmann (Orsay), Spela Spenko (Bruxelles), Michael Wemyss (Glasgow)"
+organisers = "William Crawley-Boevey (Bielefeld), Olivier Schiffmann (Orsay), Špela Špenko (Bruxelles), Michael Wemyss (Glasgow)"
 +++
