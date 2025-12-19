@@ -1,6 +1,5 @@
 +++
-title = "Algebraic and geometric combinatorics: Coxeter group theory and
-representation theory"
+title = "Algebraic and geometric combinatorics: Coxeter group theory and representation theory"
 date = 2026-06-29
 enddate = 2026-07-03
 dates = "June 29 - July 3, 2026"
