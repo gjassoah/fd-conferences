@@ -1,6 +1,5 @@
 +++
-title = "Perverse Sheaves and their Categorification in Geometry and
-Representation Theory"
+title = "Perverse Sheaves and their Categorification in Geometry and Representation Theory"
 date = 2026-07-13
 enddate = 2026-07-17
 dates = "July 13-17, 2026"
