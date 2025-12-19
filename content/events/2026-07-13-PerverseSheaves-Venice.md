@@ -4,7 +4,7 @@ Representation Theory"
 date = 2026-07-13
 enddate = 2026-07-17
 dates = "July 13-17, 2026"
-dateadded = 2025-12-18
+dateadded = 2025-12-19
 location = "Venice International University, Italy"
 webpage = "https://www.univiu.org/study/summer-schools/perverse-sheaves-geometry-representation-theory"
 organisers = "Giovanna Carnovale (University of Padova), William Donovan (Tsinghua University), Francesco Esposito (University of Padova), Martina Lanini (University of Rome Tor Vergata), Francesco Sala (University of Pisa)"
