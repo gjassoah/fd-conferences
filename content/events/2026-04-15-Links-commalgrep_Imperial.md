@@ -1,7 +1,7 @@
 +++
 title = "Links between commutative algebra and representation theory"
-date = 2026-15-04
-enddate = 2026-15-04
+date = 2026-04-15
+enddate = 2026-04-15
 dates = "April 15, 2026"
 dateadded = 2026-01-23
 location = "Imperial College London, U.K."
