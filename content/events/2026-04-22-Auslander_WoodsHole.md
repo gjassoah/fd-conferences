@@ -7,6 +7,5 @@ dateadded = 2026-02-16
 location = "Woods Hole Oceanographic Institution, Woods Hole, MA, U.S.A."
 webpage = "https://sites.google.com/view/mauriceauslandercentenary2026/home?authuser=1"
 organisers = "Kiyoshi Igusa, Ray Maresca, Alex Martsinkovsky, Gordana Todorov, Milen Yakimov"
-speakers = "Jon Carlson, Vyjayanthi Chari, Ivo Herzog, Osamu Iyama, Mike Prest, 
-Claus Michael Ringel, Ralf Schiffler, Hugh Thomas"
+speakers = "Jon Carlson, Vyjayanthi Chari, Ivo Herzog, Osamu Iyama, Mike Prest, Claus Michael Ringel, Ralf Schiffler, Hugh Thomas"
 +++
