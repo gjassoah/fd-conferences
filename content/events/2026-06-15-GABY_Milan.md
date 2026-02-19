@@ -5,9 +5,9 @@ enddate = 2026-06-19
 dates = "June 15 - 19, 2026"
 dateadded = 2025-08-04
 location = "University of Milano-Bicocca, Italy"
-webpage = ""
+webpage = "https://gaby.matapp.unimib.it/"
 organisers = "Jessica Anzanello (Milano-Bicocca), Julian Feuerpfeil (Pavia)"
 special_talks = "Plenary Speakers"
-special_speakers = "Mima Stanojkovski (University of Trento), Gareth Tracey (University of Warwick), Thomas Weber (Charles University in Prague)"
+special_speakers = "Scott Harper (University of Birmingham), Mima Stanojkovski (University of Trento), Gareth Tracey (University of Warwick), Thomas Weber (Charles University in Prague)"
 committee= "Marco Barbieri (Ljubljana), Ilaria Castellano (Politecnico di Torino), Valentina Grazian (Pavia), Nicola Grittini (RPTU), Ettore Marmo (Pavia), Francesco Matucci (Milano-Bicocca) Claudio Quadrelli (Insubria), Andrea Rivezzi (Prague)"
 +++
