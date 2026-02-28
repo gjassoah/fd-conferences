@@ -1,5 +1,5 @@
 +++
-title = "Tensor categories in representation theory \& vice versa"
+title = "Tensor categories in representation theory & vice versa"
 date = 2026-08-24
 enddate = 2026-08-27
 dates = "August 24 - 27, 2026"
