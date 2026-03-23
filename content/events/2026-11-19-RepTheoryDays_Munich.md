@@ -5,7 +5,7 @@ enddate = 2026-11-20
 dates = "November 19 - 20, 2026"
 dateadded = 2026-03-16
 location = "Technical University of Munich, Germany"
-webpage = ""
+webpage = "https://sites.google.com/view/darstellungstheorietage2026"
 organisers = "Frank Himstedt, Deniz Kus"
 speakers = "Caroline Lassueur, Frank Lübeck, Gerhard Röhrle, Carolina Vallejo"
 +++
