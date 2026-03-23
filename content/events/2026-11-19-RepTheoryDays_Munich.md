@@ -7,7 +7,6 @@ dateadded = 2026-03-16
 location = "Technical University of Munich, Germany"
 webpage = ""
 organisers = "Frank Himstedt, Deniz Kus"
-speakers = "Caroline Lassueur, Frank Lübeck, Gerhard Röhrle,
- Carolina Vallejo"
+speakers = "Caroline Lassueur, Frank Lübeck, Gerhard Röhrle, Carolina Vallejo"
 +++
 
