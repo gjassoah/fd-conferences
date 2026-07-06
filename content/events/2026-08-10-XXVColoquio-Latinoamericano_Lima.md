@@ -5,7 +5,7 @@ enddate = 2026-08-14
 dates = "August 10 - 14, 2026"
 dateadded = 2026-02-20
 location = "Lima, Perú"
-webpage = "https://sites.google.com/pucp.edu.pe/xxvcla2026/inicio"
+webpage = "https://sites.google.com/pucp.edu.pe/xxvcla2026/men%C3%BA-principal"
 organisers = "Hernán Giraldo (Universidad de Antioquia), Viviana Gubitosi (Universidad de la República de Uruguay)"
 speakers = ""
 +++
