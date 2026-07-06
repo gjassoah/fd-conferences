@@ -8,7 +8,7 @@ dateadded = 2026-03-17
 location = "Università degli Studi di Padova"
 webpage = "https://sites.google.com/view/ricercatorialgebrageometria/home"
 organisers = "Anna Barbieri, Francesca Carocci, Camilla Felisetti, Daniel Labardini-Fragoso, Sergej Monavari"
-speakers = "Livia Campo (Wien), Riccardo Carini (Bonn), Francesca Carocci (Roma II), Azzurra Ciliberti (Bochum), Alessio Cipriani (Verona), Giordano Cotti (Lisboa), Luis Ferroni (Pisa), Valentina Grazian (Padova), Alessia Mandini (Verona), Nicoletta Tardini (Parma), Jorge Vitoria (Padova)"
+speakers = "Livia Campo (Wien), Riccardo Carini (Bonn), Francesca Carocci (Roma II), Azzurra Ciliberti (Bochum), Alessio Cipriani (Verona), Giordano Cotti (Lisboa), Luis Ferroni (Pisa), Valentina Grazian (Padova), Alessia Mandini (Verona), Nicoletta Tardini (Parma), Jorge Vitória (Padova)"
 special_talks="Steering Committee"
 special_speakers="Andrea Appel, Laura Capuano, Paolo Dai Pra, Eloisa De Tomi, Francesco Sala, Roberto Svaldi, Mattia Talpo"
 +++
