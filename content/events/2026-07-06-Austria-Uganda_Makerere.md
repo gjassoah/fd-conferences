@@ -1,5 +1,6 @@
 +++
 title = "2026 Austria–Uganda workshop on Algebra and Geometry"
+warning = "POSTPONED"
 date = 2026-07-06
 enddate = 2026-07-10
 dates = "July 6 - 10, 2026"
