@@ -1,5 +1,5 @@
 +++
-title = "Triangulated and Stable infinity categories in topology and algebra"
+title = "Triangulated and Stable Infinity Categories in Topology and Algebra"
 date = 2027-06-21
 enddate = 2027-06-25
 dates = "June 21 - 25, 2027"
