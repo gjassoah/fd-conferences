@@ -7,6 +7,6 @@ dateadded = 2026-11-20
 location = "University of Glasgow, U.K."
 webpage = "https://stefandawydiak.github.io/workshop.html"
 organisers = "Dinakar Muthiah (University of Glasgow), Stefan Dawydiak, (University of Glasgow)"
-speakers = "*Pramod Achar* (Louisiana State University), Alexander Braverman (University of Toronto), Gurbir Dhillon (UCLA),Ivan Losev (Yale University), Manish Patnaik (University of Alberta), Simon Riche (Université Clermont Auvergne), Eric Vasserot, (Jussieu)"
+speakers = "Pramod Achar* (Louisiana State University), Alexander Braverman (University of Toronto), Gurbir Dhillon (UCLA),Ivan Losev (Yale University), Manish Patnaik (University of Alberta), Simon Riche (Université Clermont Auvergne), Eric Vasserot, (Jussieu)"
 +++
 
